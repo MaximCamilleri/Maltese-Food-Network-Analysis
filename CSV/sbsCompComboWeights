@@ -1,0 +1,1320 @@
+FirstIng,SecondIng,ComboWeight
+corn flour,salt,0.1
+corn flour,water,0.1
+corn flour,olive oil,0.1
+corn flour,onion,0.1
+corn flour,garlic,0.2
+corn flour,green pepper,0.1
+corn flour,parsley,0.1
+corn flour,pepper,0.1
+corn flour,tomato,0.1
+corn flour,anise,0.2
+corn flour,cinnamon,0.2
+corn flour,green leaves,0.1
+corn flour,vegetable broth,0.1
+corn flour,curry,0.1
+corn flour,turmeric,0.1
+corn flour,paprika,0.1
+corn flour,cumin,0.1
+corn flour,chicken,0.1
+corn flour,potato,0.1
+corn flour,pea,0.1
+corn flour,red wine,0.1
+corn flour,clove,0.2
+corn flour,salted butter,0.1
+corn flour,dried grapes,0.1
+corn flour,sea almonds,0.1
+corn flour,soy sauce,0.1
+corn flour,brown sugar,0.1
+corn flour,albahaca,0.1
+corn flour,Jie Mo,0.1
+corn flour,mustard,0.1
+corn flour,honey,0.1
+salt,water,0.2
+salt,butter,0.1
+salt,olive oil,0.2
+salt,onion,0.1
+salt,garlic,0.2
+salt,zucchini,0.1
+salt,pumpkin,0.1
+salt,green pepper,0.2
+salt,parsley,0.2
+salt,mint,0.1
+salt,egg,0.1
+salt,ricotta,0.2
+salt,pepper,0.2
+salt,tomato,0.1
+salt,anchova,0.1
+salt,black olive,0.1
+salt,red onion,0.1
+salt,caper,0.1
+salt,anise,0.2
+salt,cinnamon,0.2
+salt,green leaves,0.1
+salt,thyme,0.1
+salt,white pepper,0.1
+salt,lemon,0.1
+salt,orange,0.1
+salt,fresh cheese,0.1
+salt,clove,0.1
+salt,salted butter,0.1
+salt,dried grapes,0.1
+salt,sea almonds,0.1
+salt,soy sauce,0.1
+salt,brown sugar,0.1
+salt,albahaca,0.1
+salt,Jie Mo,0.1
+salt,mustard,0.1
+salt,honey,0.1
+water,butter,0.1
+water,olive oil,0.6
+water,onion,0.3
+water,garlic,0.4
+water,zucchini,0.1
+water,pumpkin,0.2
+water,green pepper,0.2
+water,parsley,0.2
+water,mint,0.1
+water,egg,0.3
+water,ricotta,0.1
+water,pepper,0.3
+water,tomato,0.3
+water,black olive,0.1
+water,red onion,0.1
+water,caper,0.1
+water,anise,0.3
+water,cinnamon,0.2
+water,green leaves,0.2
+water,lemon,0.3
+water,orange,0.2
+water,fresh cheese,0.1
+water,potato,0.1
+water,red wine,0.2
+water,clove,0.5
+water,Qing Pi,0.1
+water,salted butter,0.1
+water,bacon,0.1
+water,sugar,0.3
+water,dried grapes,0.1
+water,grated cheese,0.1
+water,five spices,0.3
+water,sea almonds,0.2
+water,soy sauce,0.1
+water,brown sugar,0.1
+water,albahaca,0.1
+water,Jie Mo,0.1
+water,mustard,0.1
+water,honey,0.2
+water,rice,0.1
+water,anchovy,0.1
+water,tuna,0.1
+water,oregano,0.1
+water,semolina,0.1
+water,margarine,0.1
+water,raclette,0.1
+water,mandarin,0.2
+water,eggplant,0.1
+water,celery salt,0.1
+water,olive,0.1
+water,cocoa,0.2
+water,sesame,0.1
+water,steak,0.1
+water,veal,0.1
+butter,olive oil,0.1
+butter,onion,0.1
+butter,garlic,0.1
+butter,zucchini,0.1
+butter,pumpkin,0.1
+butter,green pepper,0.1
+butter,parsley,0.1
+butter,mint,0.1
+butter,egg,0.1
+butter,ricotta,0.1
+butter,pepper,0.1
+olive oil,onion,0.6
+olive oil,garlic,1.0
+olive oil,zucchini,0.1
+olive oil,pumpkin,0.2
+olive oil,green pepper,0.1
+olive oil,parsley,0.8
+olive oil,mint,0.1
+olive oil,egg,0.4
+olive oil,ricotta,0.3
+olive oil,pepper,0.6
+olive oil,tomato,0.8
+olive oil,anchova,0.2
+olive oil,black olive,0.4
+olive oil,red onion,0.3
+olive oil,caper,0.5
+olive oil,anise,0.3
+olive oil,cinnamon,0.4
+olive oil,green leaves,0.7
+olive oil,thyme,0.2
+olive oil,white pepper,0.2
+olive oil,lemon,0.8
+olive oil,orange,0.2
+olive oil,fresh cheese,0.2
+olive oil,rabbit,0.1
+olive oil,vegetable broth,0.2
+olive oil,curry,0.2
+olive oil,turmeric,0.1
+olive oil,paprika,0.1
+olive oil,cumin,0.1
+olive oil,chicken,0.4
+olive oil,potato,0.4
+olive oil,pea,0.2
+olive oil,red wine,0.2
+olive oil,clove,0.3
+olive oil,pizza dough,0.1
+olive oil,Qing Pi,0.2
+olive oil,bacon,0.1
+olive oil,beef,0.1
+olive oil,pork,0.1
+olive oil,nutmeg,0.1
+olive oil,pasta,0.1
+olive oil,parmesan,0.1
+olive oil,puff pastry,0.1
+olive oil,milk,0.1
+olive oil,schalotte,0.1
+olive oil,broad bean,0.1
+olive oil,chilli,0.1
+olive oil,carrot,0.3
+olive oil,almond milk,0.1
+olive oil,sugar,0.3
+olive oil,vanilla,0.1
+olive oil,apple,0.2
+olive oil,dried grapes,0.1
+olive oil,grated cheese,0.1
+olive oil,raisin,0.1
+olive oil,five spices,0.2
+olive oil,whipped cream,0.1
+olive oil,sea almonds,0.1
+olive oil,honey,0.1
+olive oil,white wine,0.2
+olive oil,rosemary,0.1
+olive oil,mushroom,0.1
+olive oil,rice,0.2
+olive oil,rye flour,0.1
+olive oil,wheat flour,0.1
+olive oil,joghurt,0.1
+olive oil,anchovy,0.2
+olive oil,tuna,0.2
+olive oil,oregano,0.1
+olive oil,fish,0.1
+olive oil,eggplant,0.1
+olive oil,celery salt,0.2
+olive oil,olive,0.1
+olive oil,cocoa,0.1
+olive oil,sesame,0.1
+olive oil,shallots,0.1
+olive oil,sherry vinegar,0.1
+olive oil,porto,0.1
+olive oil,sausage,0.1
+olive oil,rocket,0.1
+olive oil,bran,0.1
+olive oil,truffle oil,0.1
+olive oil,truffle,0.1
+olive oil,erva doce,0.1
+olive oil,kohlrabi,0.1
+olive oil,cauliflower,0.1
+olive oil,soft bread,0.1
+onion,garlic,0.8
+onion,zucchini,0.1
+onion,pumpkin,0.1
+onion,green pepper,0.1
+onion,parsley,0.5
+onion,mint,0.1
+onion,egg,0.4
+onion,ricotta,0.1
+onion,pepper,0.6
+onion,tomato,0.7
+onion,caper,0.1
+onion,anise,0.1
+onion,cinnamon,0.1
+onion,green leaves,0.5
+onion,lemon,0.1
+onion,rabbit,0.1
+onion,vegetable broth,0.2
+onion,curry,0.2
+onion,turmeric,0.1
+onion,paprika,0.1
+onion,cumin,0.1
+onion,chicken,0.3
+onion,potato,0.3
+onion,pea,0.2
+onion,red wine,0.3
+onion,clove,0.1
+onion,bacon,0.3
+onion,beef,0.2
+onion,pork,0.2
+onion,nutmeg,0.1
+onion,pasta,0.1
+onion,parmesan,0.2
+onion,puff pastry,0.2
+onion,milk,0.2
+onion,schalotte,0.1
+onion,broad bean,0.1
+onion,carrot,0.2
+onion,grated cheese,0.1
+onion,white wine,0.1
+onion,rosemary,0.1
+onion,mushroom,0.1
+onion,rice,0.1
+onion,oregano,0.1
+onion,celery salt,0.1
+onion,macaroni,0.1
+onion,blue cheese,0.1
+onion,steak,0.1
+onion,veal,0.1
+onion,kohlrabi,0.1
+onion,cauliflower,0.1
+onion,soft bread,0.1
+garlic,zucchini,0.1
+garlic,pumpkin,0.1
+garlic,green pepper,0.2
+garlic,parsley,0.8
+garlic,mint,0.1
+garlic,egg,0.5
+garlic,ricotta,0.1
+garlic,pepper,0.6
+garlic,tomato,0.8
+garlic,black olive,0.1
+garlic,caper,0.1
+garlic,anise,0.2
+garlic,cinnamon,0.2
+garlic,green leaves,0.7
+garlic,thyme,0.1
+garlic,white pepper,0.1
+garlic,lemon,0.4
+garlic,rabbit,0.1
+garlic,vegetable broth,0.2
+garlic,curry,0.2
+garlic,turmeric,0.1
+garlic,paprika,0.1
+garlic,cumin,0.1
+garlic,chicken,0.6
+garlic,potato,0.4
+garlic,pea,0.2
+garlic,red wine,0.3
+garlic,clove,0.2
+garlic,salted butter,0.1
+garlic,bacon,0.3
+garlic,beef,0.2
+garlic,pork,0.2
+garlic,nutmeg,0.1
+garlic,pasta,0.1
+garlic,parmesan,0.2
+garlic,puff pastry,0.2
+garlic,milk,0.3
+garlic,schalotte,0.1
+garlic,broad bean,0.1
+garlic,chilli,0.1
+garlic,carrot,0.3
+garlic,dried grapes,0.1
+garlic,grated cheese,0.1
+garlic,sea almonds,0.1
+garlic,soy sauce,0.1
+garlic,brown sugar,0.1
+garlic,albahaca,0.1
+garlic,Jie Mo,0.1
+garlic,mustard,0.1
+garlic,honey,0.1
+garlic,white wine,0.2
+garlic,rosemary,0.1
+garlic,mushroom,0.1
+garlic,rice,0.2
+garlic,anchovy,0.1
+garlic,tuna,0.1
+garlic,oregano,0.2
+garlic,fish,0.1
+garlic,aromatic herbs,0.1
+garlic,celery salt,0.1
+garlic,macaroni,0.1
+garlic,blue cheese,0.1
+garlic,steak,0.1
+garlic,veal,0.1
+garlic,shallots,0.1
+garlic,sherry vinegar,0.1
+garlic,porto,0.1
+garlic,sausage,0.1
+garlic,rocket,0.1
+garlic,bran,0.1
+garlic,truffle oil,0.1
+garlic,truffle,0.1
+garlic,kohlrabi,0.1
+garlic,cauliflower,0.1
+garlic,soft bread,0.1
+zucchini,pumpkin,0.1
+zucchini,green pepper,0.1
+zucchini,parsley,0.1
+zucchini,mint,0.1
+zucchini,egg,0.1
+zucchini,ricotta,0.1
+zucchini,pepper,0.1
+pumpkin,green pepper,0.1
+pumpkin,parsley,0.1
+pumpkin,mint,0.1
+pumpkin,egg,0.1
+pumpkin,ricotta,0.1
+pumpkin,pepper,0.1
+pumpkin,black olive,0.1
+pumpkin,red onion,0.1
+pumpkin,fresh cheese,0.1
+pumpkin,rice,0.1
+pumpkin,anchovy,0.1
+pumpkin,tuna,0.1
+green pepper,parsley,0.1
+green pepper,mint,0.1
+green pepper,egg,0.1
+green pepper,ricotta,0.1
+green pepper,pepper,0.1
+green pepper,anise,0.1
+green pepper,cinnamon,0.1
+green pepper,clove,0.1
+green pepper,salted butter,0.1
+green pepper,dried grapes,0.1
+green pepper,sea almonds,0.1
+green pepper,soy sauce,0.1
+green pepper,brown sugar,0.1
+green pepper,albahaca,0.1
+green pepper,Jie Mo,0.1
+green pepper,mustard,0.1
+green pepper,honey,0.1
+parsley,mint,0.1
+parsley,egg,0.4
+parsley,ricotta,0.2
+parsley,pepper,0.6
+parsley,tomato,0.6
+parsley,anchova,0.2
+parsley,black olive,0.2
+parsley,red onion,0.1
+parsley,caper,0.3
+parsley,anise,0.2
+parsley,cinnamon,0.2
+parsley,green leaves,0.5
+parsley,thyme,0.1
+parsley,white pepper,0.1
+parsley,lemon,0.4
+parsley,orange,0.1
+parsley,fresh cheese,0.1
+parsley,vegetable broth,0.2
+parsley,curry,0.1
+parsley,turmeric,0.1
+parsley,paprika,0.1
+parsley,cumin,0.1
+parsley,chicken,0.3
+parsley,potato,0.2
+parsley,pea,0.2
+parsley,red wine,0.2
+parsley,clove,0.1
+parsley,bacon,0.2
+parsley,beef,0.1
+parsley,pork,0.1
+parsley,nutmeg,0.1
+parsley,pasta,0.1
+parsley,parmesan,0.1
+parsley,puff pastry,0.1
+parsley,milk,0.2
+parsley,schalotte,0.1
+parsley,broad bean,0.1
+parsley,carrot,0.1
+parsley,grated cheese,0.1
+parsley,rice,0.1
+parsley,anchovy,0.1
+parsley,tuna,0.1
+parsley,oregano,0.2
+parsley,fish,0.1
+parsley,aromatic herbs,0.1
+parsley,celery salt,0.1
+parsley,steak,0.1
+parsley,veal,0.1
+parsley,erva doce,0.1
+parsley,kohlrabi,0.1
+parsley,cauliflower,0.1
+parsley,soft bread,0.1
+mint,egg,0.1
+mint,ricotta,0.1
+mint,pepper,0.1
+egg,ricotta,0.1
+egg,pepper,0.3
+egg,tomato,0.4
+egg,black olive,0.1
+egg,caper,0.1
+egg,anise,0.1
+egg,cinnamon,0.1
+egg,green leaves,0.3
+egg,lemon,0.4
+egg,chicken,0.3
+egg,red wine,0.1
+egg,clove,0.1
+egg,icing sugar,0.1
+egg,Qing Pi,0.2
+egg,salted butter,0.1
+egg,orange blossom,0.1
+egg,marzapane,0.1
+egg,salmon eggs,0.1
+egg,white meat,0.1
+egg,bacon,0.3
+egg,beef,0.2
+egg,pork,0.2
+egg,nutmeg,0.1
+egg,pasta,0.1
+egg,parmesan,0.2
+egg,puff pastry,0.2
+egg,milk,0.3
+egg,schalotte,0.1
+egg,sugar,0.2
+egg,vanilla,0.1
+egg,apple,0.1
+egg,dried grapes,0.2
+egg,grated cheese,0.2
+egg,raisin,0.1
+egg,five spices,0.1
+egg,whipped cream,0.1
+egg,mustard,0.1
+egg,rice,0.1
+egg,oregano,0.1
+egg,aromatic herbs,0.1
+egg,cocoa,0.1
+egg,sesame,0.1
+egg,macaroni,0.1
+egg,blue cheese,0.1
+egg,steak,0.1
+egg,veal,0.1
+egg,flour,0.1
+egg,almond,0.1
+egg,berries,0.1
+egg,whisky,0.1
+ricotta,pepper,0.2
+ricotta,tomato,0.2
+ricotta,anchova,0.1
+ricotta,black olive,0.2
+ricotta,red onion,0.2
+ricotta,caper,0.2
+ricotta,anise,0.1
+ricotta,cinnamon,0.1
+ricotta,green leaves,0.2
+ricotta,thyme,0.1
+ricotta,white pepper,0.1
+ricotta,lemon,0.1
+ricotta,orange,0.1
+ricotta,fresh cheese,0.1
+ricotta,pizza dough,0.1
+pepper,tomato,0.6
+pepper,anchova,0.2
+pepper,black olive,0.1
+pepper,red onion,0.1
+pepper,caper,0.2
+pepper,anise,0.2
+pepper,cinnamon,0.2
+pepper,green leaves,0.4
+pepper,thyme,0.1
+pepper,white pepper,0.1
+pepper,lemon,0.1
+pepper,orange,0.1
+pepper,fresh cheese,0.1
+pepper,vegetable broth,0.2
+pepper,curry,0.1
+pepper,turmeric,0.1
+pepper,paprika,0.1
+pepper,cumin,0.1
+pepper,chicken,0.2
+pepper,potato,0.3
+pepper,pea,0.2
+pepper,red wine,0.3
+pepper,clove,0.1
+pepper,bacon,0.2
+pepper,beef,0.1
+pepper,pork,0.1
+pepper,parmesan,0.1
+pepper,puff pastry,0.1
+pepper,milk,0.1
+pepper,broad bean,0.1
+pepper,carrot,0.1
+pepper,grated cheese,0.1
+pepper,oregano,0.1
+pepper,celery salt,0.1
+pepper,macaroni,0.1
+pepper,blue cheese,0.1
+pepper,steak,0.1
+pepper,veal,0.1
+pepper,erva doce,0.1
+pepper,kohlrabi,0.1
+pepper,cauliflower,0.1
+pepper,soft bread,0.1
+tomato,anchova,0.1
+tomato,black olive,0.2
+tomato,red onion,0.2
+tomato,caper,0.4
+tomato,anise,0.2
+tomato,cinnamon,0.2
+tomato,green leaves,0.8
+tomato,thyme,0.1
+tomato,white pepper,0.1
+tomato,lemon,0.2
+tomato,orange,0.1
+tomato,fresh cheese,0.1
+tomato,rabbit,0.1
+tomato,vegetable broth,0.2
+tomato,curry,0.2
+tomato,turmeric,0.1
+tomato,paprika,0.1
+tomato,cumin,0.1
+tomato,chicken,0.4
+tomato,potato,0.3
+tomato,pea,0.2
+tomato,red wine,0.3
+tomato,clove,0.1
+tomato,pizza dough,0.1
+tomato,bacon,0.3
+tomato,beef,0.2
+tomato,pork,0.2
+tomato,nutmeg,0.1
+tomato,pasta,0.1
+tomato,parmesan,0.2
+tomato,puff pastry,0.2
+tomato,milk,0.3
+tomato,schalotte,0.1
+tomato,broad bean,0.1
+tomato,carrot,0.2
+tomato,grated cheese,0.1
+tomato,white wine,0.1
+tomato,rosemary,0.1
+tomato,mushroom,0.1
+tomato,rice,0.2
+tomato,oregano,0.1
+tomato,aromatic herbs,0.1
+tomato,eggplant,0.1
+tomato,celery salt,0.2
+tomato,olive,0.1
+tomato,macaroni,0.1
+tomato,blue cheese,0.1
+tomato,steak,0.1
+tomato,veal,0.1
+tomato,kohlrabi,0.1
+tomato,cauliflower,0.1
+tomato,soft bread,0.1
+anchova,black olive,0.1
+anchova,red onion,0.1
+anchova,caper,0.2
+anchova,anise,0.1
+anchova,cinnamon,0.1
+anchova,green leaves,0.1
+anchova,thyme,0.1
+anchova,white pepper,0.1
+anchova,lemon,0.1
+anchova,orange,0.1
+anchova,fresh cheese,0.1
+anchova,erva doce,0.1
+black olive,red onion,0.3
+black olive,caper,0.2
+black olive,anise,0.1
+black olive,cinnamon,0.1
+black olive,green leaves,0.2
+black olive,thyme,0.1
+black olive,white pepper,0.1
+black olive,lemon,0.3
+black olive,orange,0.1
+black olive,fresh cheese,0.2
+black olive,pizza dough,0.1
+black olive,icing sugar,0.1
+black olive,Qing Pi,0.1
+black olive,salted butter,0.1
+black olive,orange blossom,0.1
+black olive,marzapane,0.1
+black olive,salmon eggs,0.1
+black olive,white meat,0.1
+black olive,rice,0.1
+black olive,anchovy,0.2
+black olive,tuna,0.2
+red onion,caper,0.2
+red onion,anise,0.1
+red onion,cinnamon,0.1
+red onion,green leaves,0.2
+red onion,thyme,0.1
+red onion,white pepper,0.1
+red onion,lemon,0.1
+red onion,orange,0.1
+red onion,fresh cheese,0.2
+red onion,pizza dough,0.1
+red onion,rice,0.1
+red onion,anchovy,0.1
+red onion,tuna,0.1
+caper,anise,0.1
+caper,cinnamon,0.1
+caper,green leaves,0.3
+caper,thyme,0.1
+caper,white pepper,0.1
+caper,lemon,0.2
+caper,orange,0.1
+caper,fresh cheese,0.1
+caper,chicken,0.1
+caper,pizza dough,0.1
+caper,bacon,0.1
+caper,beef,0.1
+caper,pork,0.1
+caper,nutmeg,0.1
+caper,pasta,0.1
+caper,parmesan,0.1
+caper,puff pastry,0.1
+caper,milk,0.1
+caper,schalotte,0.1
+caper,eggplant,0.1
+caper,celery salt,0.1
+caper,olive,0.1
+caper,erva doce,0.1
+anise,cinnamon,0.3
+anise,green leaves,0.2
+anise,thyme,0.1
+anise,white pepper,0.1
+anise,lemon,0.3
+anise,orange,0.2
+anise,fresh cheese,0.1
+anise,vegetable broth,0.1
+anise,curry,0.1
+anise,turmeric,0.1
+anise,paprika,0.1
+anise,cumin,0.1
+anise,chicken,0.1
+anise,potato,0.1
+anise,pea,0.1
+anise,red wine,0.1
+anise,clove,0.4
+anise,Qing Pi,0.1
+anise,salted butter,0.1
+anise,sugar,0.1
+anise,dried grapes,0.1
+anise,five spices,0.1
+anise,sea almonds,0.1
+anise,soy sauce,0.1
+anise,brown sugar,0.1
+anise,albahaca,0.1
+anise,Jie Mo,0.1
+anise,mustard,0.1
+anise,honey,0.1
+anise,semolina,0.1
+anise,margarine,0.1
+anise,raclette,0.1
+anise,mandarin,0.1
+anise,sesame,0.1
+cinnamon,green leaves,0.2
+cinnamon,thyme,0.1
+cinnamon,white pepper,0.1
+cinnamon,lemon,0.3
+cinnamon,orange,0.2
+cinnamon,fresh cheese,0.1
+cinnamon,vegetable broth,0.1
+cinnamon,curry,0.1
+cinnamon,turmeric,0.1
+cinnamon,paprika,0.1
+cinnamon,cumin,0.1
+cinnamon,chicken,0.1
+cinnamon,potato,0.1
+cinnamon,pea,0.1
+cinnamon,red wine,0.1
+cinnamon,clove,0.3
+cinnamon,salted butter,0.1
+cinnamon,sugar,0.1
+cinnamon,apple,0.1
+cinnamon,dried grapes,0.2
+cinnamon,grated cheese,0.1
+cinnamon,raisin,0.1
+cinnamon,five spices,0.2
+cinnamon,whipped cream,0.1
+cinnamon,sea almonds,0.2
+cinnamon,soy sauce,0.1
+cinnamon,brown sugar,0.1
+cinnamon,albahaca,0.1
+cinnamon,Jie Mo,0.1
+cinnamon,mustard,0.1
+cinnamon,honey,0.2
+cinnamon,cocoa,0.1
+green leaves,thyme,0.2
+green leaves,white pepper,0.2
+green leaves,lemon,0.2
+green leaves,orange,0.1
+green leaves,fresh cheese,0.1
+green leaves,rabbit,0.1
+green leaves,vegetable broth,0.1
+green leaves,curry,0.2
+green leaves,turmeric,0.1
+green leaves,paprika,0.1
+green leaves,cumin,0.1
+green leaves,chicken,0.4
+green leaves,potato,0.3
+green leaves,pea,0.1
+green leaves,red wine,0.3
+green leaves,clove,0.1
+green leaves,pizza dough,0.1
+green leaves,bacon,0.2
+green leaves,beef,0.1
+green leaves,pork,0.1
+green leaves,nutmeg,0.1
+green leaves,pasta,0.1
+green leaves,parmesan,0.1
+green leaves,puff pastry,0.1
+green leaves,milk,0.2
+green leaves,schalotte,0.1
+green leaves,carrot,0.1
+green leaves,grated cheese,0.1
+green leaves,white wine,0.2
+green leaves,rosemary,0.1
+green leaves,mushroom,0.1
+green leaves,rice,0.2
+green leaves,oregano,0.1
+green leaves,aromatic herbs,0.1
+green leaves,steak,0.1
+green leaves,veal,0.1
+green leaves,shallots,0.1
+green leaves,sherry vinegar,0.1
+green leaves,porto,0.1
+green leaves,sausage,0.1
+green leaves,rocket,0.1
+green leaves,bran,0.1
+green leaves,truffle oil,0.1
+green leaves,truffle,0.1
+thyme,white pepper,0.2
+thyme,lemon,0.1
+thyme,orange,0.1
+thyme,fresh cheese,0.1
+thyme,chicken,0.1
+thyme,potato,0.1
+thyme,white wine,0.1
+thyme,shallots,0.1
+thyme,sherry vinegar,0.1
+thyme,porto,0.1
+thyme,sausage,0.1
+thyme,rocket,0.1
+thyme,bran,0.1
+thyme,truffle oil,0.1
+thyme,truffle,0.1
+white pepper,lemon,0.1
+white pepper,orange,0.1
+white pepper,fresh cheese,0.1
+white pepper,chicken,0.1
+white pepper,potato,0.1
+white pepper,white wine,0.1
+white pepper,shallots,0.1
+white pepper,sherry vinegar,0.1
+white pepper,porto,0.1
+white pepper,sausage,0.1
+white pepper,rocket,0.1
+white pepper,bran,0.1
+white pepper,truffle oil,0.1
+white pepper,truffle,0.1
+lemon,orange,0.3
+lemon,fresh cheese,0.1
+lemon,chicken,0.2
+lemon,clove,0.3
+lemon,icing sugar,0.1
+lemon,Qing Pi,0.2
+lemon,salted butter,0.2
+lemon,orange blossom,0.1
+lemon,marzapane,0.1
+lemon,salmon eggs,0.1
+lemon,white meat,0.1
+lemon,bacon,0.1
+lemon,beef,0.1
+lemon,pork,0.1
+lemon,nutmeg,0.1
+lemon,pasta,0.1
+lemon,parmesan,0.1
+lemon,puff pastry,0.1
+lemon,milk,0.1
+lemon,schalotte,0.1
+lemon,chilli,0.1
+lemon,carrot,0.1
+lemon,sweet pepper,0.1
+lemon,almond milk,0.2
+lemon,sugar,0.3
+lemon,amarena,0.1
+lemon,vanilla,0.2
+lemon,apple,0.2
+lemon,dried grapes,0.1
+lemon,grated cheese,0.1
+lemon,raisin,0.2
+lemon,five spices,0.3
+lemon,whipped cream,0.1
+lemon,sea almonds,0.1
+lemon,honey,0.1
+lemon,date,0.1
+lemon,anchovy,0.1
+lemon,tuna,0.1
+lemon,oregano,0.1
+lemon,fish,0.1
+lemon,semolina,0.1
+lemon,margarine,0.1
+lemon,raclette,0.1
+lemon,mandarin,0.1
+lemon,cocoa,0.1
+lemon,sesame,0.1
+orange,fresh cheese,0.1
+orange,clove,0.2
+orange,sugar,0.1
+orange,five spices,0.2
+orange,sea almonds,0.1
+orange,honey,0.1
+orange,semolina,0.1
+orange,margarine,0.1
+orange,raclette,0.1
+orange,mandarin,0.1
+orange,cocoa,0.1
+fresh cheese,rice,0.1
+fresh cheese,anchovy,0.1
+fresh cheese,tuna,0.1
+rabbit,curry,0.1
+rabbit,carrot,0.1
+rabbit,white wine,0.1
+rabbit,rosemary,0.1
+rabbit,mushroom,0.1
+rabbit,rice,0.1
+vegetable broth,curry,0.1
+vegetable broth,turmeric,0.1
+vegetable broth,paprika,0.1
+vegetable broth,cumin,0.1
+vegetable broth,chicken,0.1
+vegetable broth,potato,0.2
+vegetable broth,pea,0.2
+vegetable broth,red wine,0.1
+vegetable broth,clove,0.1
+vegetable broth,broad bean,0.1
+vegetable broth,carrot,0.1
+vegetable broth,celery salt,0.1
+vegetable broth,kohlrabi,0.1
+vegetable broth,cauliflower,0.1
+vegetable broth,soft bread,0.1
+curry,turmeric,0.1
+curry,paprika,0.1
+curry,cumin,0.1
+curry,chicken,0.1
+curry,potato,0.1
+curry,pea,0.1
+curry,red wine,0.1
+curry,clove,0.1
+curry,carrot,0.1
+curry,white wine,0.1
+curry,rosemary,0.1
+curry,mushroom,0.1
+curry,rice,0.1
+turmeric,paprika,0.1
+turmeric,cumin,0.1
+turmeric,chicken,0.1
+turmeric,potato,0.1
+turmeric,pea,0.1
+turmeric,red wine,0.1
+turmeric,clove,0.1
+paprika,cumin,0.1
+paprika,chicken,0.1
+paprika,potato,0.1
+paprika,pea,0.1
+paprika,red wine,0.1
+paprika,clove,0.1
+cumin,chicken,0.1
+cumin,potato,0.1
+cumin,pea,0.1
+cumin,red wine,0.1
+cumin,clove,0.1
+chicken,potato,0.2
+chicken,pea,0.1
+chicken,red wine,0.1
+chicken,clove,0.1
+chicken,bacon,0.2
+chicken,beef,0.2
+chicken,pork,0.2
+chicken,nutmeg,0.1
+chicken,pasta,0.1
+chicken,parmesan,0.2
+chicken,puff pastry,0.2
+chicken,milk,0.3
+chicken,schalotte,0.1
+chicken,chilli,0.1
+chicken,carrot,0.1
+chicken,white wine,0.1
+chicken,rice,0.1
+chicken,aromatic herbs,0.1
+chicken,macaroni,0.1
+chicken,blue cheese,0.1
+chicken,shallots,0.1
+chicken,sherry vinegar,0.1
+chicken,porto,0.1
+chicken,sausage,0.1
+chicken,rocket,0.1
+chicken,bran,0.1
+chicken,truffle oil,0.1
+chicken,truffle,0.1
+potato,pea,0.2
+potato,red wine,0.2
+potato,clove,0.1
+potato,broad bean,0.1
+potato,carrot,0.1
+potato,white wine,0.1
+potato,celery salt,0.1
+potato,shallots,0.1
+potato,sherry vinegar,0.1
+potato,porto,0.1
+potato,sausage,0.1
+potato,rocket,0.1
+potato,bran,0.1
+potato,truffle oil,0.1
+potato,truffle,0.1
+potato,kohlrabi,0.1
+potato,cauliflower,0.1
+potato,soft bread,0.1
+pea,red wine,0.1
+pea,clove,0.1
+pea,broad bean,0.1
+pea,carrot,0.1
+pea,celery salt,0.1
+pea,kohlrabi,0.1
+pea,cauliflower,0.1
+pea,soft bread,0.1
+red wine,clove,0.1
+red wine,bacon,0.1
+red wine,grated cheese,0.1
+red wine,oregano,0.1
+red wine,steak,0.1
+red wine,veal,0.1
+clove,Qing Pi,0.1
+clove,salted butter,0.1
+clove,sugar,0.3
+clove,dried grapes,0.1
+clove,five spices,0.3
+clove,sea almonds,0.2
+clove,soy sauce,0.1
+clove,brown sugar,0.1
+clove,albahaca,0.1
+clove,Jie Mo,0.1
+clove,mustard,0.1
+clove,honey,0.2
+clove,semolina,0.1
+clove,margarine,0.1
+clove,raclette,0.1
+clove,mandarin,0.2
+clove,cocoa,0.2
+clove,sesame,0.1
+icing sugar,Qing Pi,0.1
+icing sugar,salted butter,0.1
+icing sugar,orange blossom,0.1
+icing sugar,marzapane,0.1
+icing sugar,salmon eggs,0.1
+icing sugar,white meat,0.1
+icing sugar,concentrated milk,0.1
+icing sugar,whiskey,0.1
+icing sugar,biscuit,0.1
+icing sugar,hazelnut,0.1
+icing sugar,apricot,0.1
+icing sugar,chocolate,0.1
+Qing Pi,salted butter,0.1
+Qing Pi,orange blossom,0.1
+Qing Pi,marzapane,0.1
+Qing Pi,salmon eggs,0.1
+Qing Pi,white meat,0.1
+Qing Pi,almond milk,0.1
+Qing Pi,sugar,0.2
+Qing Pi,vanilla,0.1
+Qing Pi,apple,0.1
+Qing Pi,rye flour,0.1
+Qing Pi,wheat flour,0.1
+Qing Pi,joghurt,0.1
+Qing Pi,sesame,0.1
+salted butter,orange blossom,0.1
+salted butter,marzapane,0.1
+salted butter,salmon eggs,0.1
+salted butter,white meat,0.1
+salted butter,sweet pepper,0.1
+salted butter,almond milk,0.1
+salted butter,sugar,0.1
+salted butter,amarena,0.1
+salted butter,vanilla,0.1
+salted butter,dried grapes,0.1
+salted butter,sea almonds,0.1
+salted butter,soy sauce,0.1
+salted butter,brown sugar,0.1
+salted butter,albahaca,0.1
+salted butter,Jie Mo,0.1
+salted butter,mustard,0.1
+salted butter,honey,0.1
+orange blossom,marzapane,0.1
+orange blossom,salmon eggs,0.1
+orange blossom,white meat,0.1
+marzapane,salmon eggs,0.1
+marzapane,white meat,0.1
+salmon eggs,white meat,0.1
+bacon,beef,0.2
+bacon,pork,0.2
+bacon,nutmeg,0.1
+bacon,pasta,0.1
+bacon,parmesan,0.2
+bacon,puff pastry,0.2
+bacon,milk,0.2
+bacon,schalotte,0.1
+bacon,grated cheese,0.1
+bacon,oregano,0.1
+bacon,macaroni,0.1
+bacon,blue cheese,0.1
+bacon,steak,0.1
+bacon,veal,0.1
+beef,pork,0.2
+beef,nutmeg,0.1
+beef,pasta,0.1
+beef,parmesan,0.2
+beef,puff pastry,0.2
+beef,milk,0.2
+beef,schalotte,0.1
+beef,macaroni,0.1
+beef,blue cheese,0.1
+pork,nutmeg,0.1
+pork,pasta,0.1
+pork,parmesan,0.2
+pork,puff pastry,0.2
+pork,milk,0.2
+pork,schalotte,0.1
+pork,macaroni,0.1
+pork,blue cheese,0.1
+nutmeg,pasta,0.1
+nutmeg,parmesan,0.1
+nutmeg,puff pastry,0.1
+nutmeg,milk,0.1
+nutmeg,schalotte,0.1
+pasta,parmesan,0.1
+pasta,puff pastry,0.1
+pasta,milk,0.1
+pasta,schalotte,0.1
+parmesan,puff pastry,0.2
+parmesan,milk,0.2
+parmesan,schalotte,0.1
+parmesan,macaroni,0.1
+parmesan,blue cheese,0.1
+puff pastry,milk,0.2
+puff pastry,schalotte,0.1
+puff pastry,macaroni,0.1
+puff pastry,blue cheese,0.1
+milk,schalotte,0.1
+milk,rice,0.1
+milk,aromatic herbs,0.1
+milk,macaroni,0.1
+milk,blue cheese,0.1
+broad bean,carrot,0.1
+broad bean,celery salt,0.1
+broad bean,kohlrabi,0.1
+broad bean,cauliflower,0.1
+broad bean,soft bread,0.1
+chilli,carrot,0.1
+carrot,white wine,0.1
+carrot,rosemary,0.1
+carrot,mushroom,0.1
+carrot,rice,0.1
+carrot,celery salt,0.1
+carrot,kohlrabi,0.1
+carrot,cauliflower,0.1
+carrot,soft bread,0.1
+sweet pepper,almond milk,0.1
+sweet pepper,sugar,0.1
+sweet pepper,amarena,0.1
+sweet pepper,vanilla,0.1
+almond milk,sugar,0.2
+almond milk,amarena,0.1
+almond milk,vanilla,0.3
+almond milk,apple,0.2
+almond milk,raisin,0.1
+almond milk,rye flour,0.1
+almond milk,wheat flour,0.1
+almond milk,joghurt,0.1
+almond milk,date,0.1
+sugar,amarena,0.1
+sugar,vanilla,0.3
+sugar,apple,0.1
+sugar,dried grapes,0.1
+sugar,five spices,0.2
+sugar,sea almonds,0.1
+sugar,mustard,0.1
+sugar,honey,0.1
+sugar,rye flour,0.1
+sugar,wheat flour,0.1
+sugar,joghurt,0.1
+sugar,mandarin,0.1
+sugar,cocoa,0.3
+sugar,sesame,0.1
+sugar,flour,0.1
+sugar,almond,0.1
+sugar,berries,0.1
+sugar,whisky,0.1
+amarena,vanilla,0.1
+vanilla,apple,0.2
+vanilla,dried grapes,0.1
+vanilla,raisin,0.1
+vanilla,mustard,0.1
+vanilla,rye flour,0.1
+vanilla,wheat flour,0.1
+vanilla,joghurt,0.1
+vanilla,date,0.1
+vanilla,cocoa,0.1
+vanilla,flour,0.1
+vanilla,almond,0.1
+vanilla,berries,0.1
+vanilla,whisky,0.1
+apple,dried grapes,0.1
+apple,grated cheese,0.1
+apple,raisin,0.2
+apple,five spices,0.1
+apple,whipped cream,0.1
+apple,rye flour,0.1
+apple,wheat flour,0.1
+apple,joghurt,0.1
+apple,date,0.1
+dried grapes,grated cheese,0.1
+dried grapes,raisin,0.1
+dried grapes,five spices,0.1
+dried grapes,whipped cream,0.1
+dried grapes,sea almonds,0.1
+dried grapes,soy sauce,0.1
+dried grapes,brown sugar,0.1
+dried grapes,albahaca,0.1
+dried grapes,Jie Mo,0.1
+dried grapes,mustard,0.2
+dried grapes,honey,0.1
+dried grapes,cocoa,0.1
+dried grapes,flour,0.1
+dried grapes,almond,0.1
+dried grapes,berries,0.1
+dried grapes,whisky,0.1
+grated cheese,raisin,0.1
+grated cheese,five spices,0.1
+grated cheese,whipped cream,0.1
+grated cheese,oregano,0.1
+grated cheese,steak,0.1
+grated cheese,veal,0.1
+raisin,five spices,0.1
+raisin,whipped cream,0.1
+raisin,date,0.1
+five spices,whipped cream,0.1
+five spices,sea almonds,0.1
+five spices,honey,0.1
+five spices,semolina,0.1
+five spices,margarine,0.1
+five spices,raclette,0.1
+five spices,mandarin,0.2
+five spices,cocoa,0.2
+sea almonds,soy sauce,0.1
+sea almonds,brown sugar,0.1
+sea almonds,albahaca,0.1
+sea almonds,Jie Mo,0.1
+sea almonds,mustard,0.1
+sea almonds,honey,0.2
+sea almonds,cocoa,0.1
+soy sauce,brown sugar,0.1
+soy sauce,albahaca,0.1
+soy sauce,Jie Mo,0.1
+soy sauce,mustard,0.1
+soy sauce,honey,0.1
+brown sugar,albahaca,0.1
+brown sugar,Jie Mo,0.1
+brown sugar,mustard,0.1
+brown sugar,honey,0.1
+albahaca,Jie Mo,0.1
+albahaca,mustard,0.1
+albahaca,honey,0.1
+Jie Mo,mustard,0.1
+Jie Mo,honey,0.1
+mustard,honey,0.1
+mustard,cocoa,0.1
+mustard,flour,0.1
+mustard,almond,0.1
+mustard,berries,0.1
+mustard,whisky,0.1
+honey,cocoa,0.1
+white wine,rosemary,0.1
+white wine,mushroom,0.1
+white wine,rice,0.1
+white wine,shallots,0.1
+white wine,sherry vinegar,0.1
+white wine,porto,0.1
+white wine,sausage,0.1
+white wine,rocket,0.1
+white wine,bran,0.1
+white wine,truffle oil,0.1
+white wine,truffle,0.1
+rosemary,mushroom,0.1
+rosemary,rice,0.1
+mushroom,rice,0.1
+rice,anchovy,0.1
+rice,tuna,0.1
+rice,aromatic herbs,0.1
+rye flour,wheat flour,0.1
+rye flour,joghurt,0.1
+wheat flour,joghurt,0.1
+concentrated milk,whiskey,0.1
+concentrated milk,biscuit,0.1
+concentrated milk,hazelnut,0.1
+concentrated milk,apricot,0.1
+concentrated milk,chocolate,0.1
+whiskey,biscuit,0.1
+whiskey,hazelnut,0.1
+whiskey,apricot,0.1
+whiskey,chocolate,0.1
+biscuit,hazelnut,0.1
+biscuit,apricot,0.1
+biscuit,chocolate,0.1
+hazelnut,apricot,0.1
+hazelnut,chocolate,0.1
+apricot,chocolate,0.1
+anchovy,tuna,0.2
+oregano,fish,0.1
+oregano,steak,0.1
+oregano,veal,0.1
+semolina,margarine,0.1
+semolina,raclette,0.1
+semolina,mandarin,0.1
+margarine,raclette,0.1
+margarine,mandarin,0.1
+raclette,mandarin,0.1
+mandarin,cocoa,0.1
+eggplant,celery salt,0.1
+eggplant,olive,0.1
+celery salt,olive,0.1
+celery salt,kohlrabi,0.1
+celery salt,cauliflower,0.1
+celery salt,soft bread,0.1
+cocoa,flour,0.1
+cocoa,almond,0.1
+cocoa,berries,0.1
+cocoa,whisky,0.1
+macaroni,blue cheese,0.1
+steak,veal,0.1
+flour,almond,0.1
+flour,berries,0.1
+flour,whisky,0.1
+almond,berries,0.1
+almond,whisky,0.1
+berries,whisky,0.1
+shallots,sherry vinegar,0.1
+shallots,porto,0.1
+shallots,sausage,0.1
+shallots,rocket,0.1
+shallots,bran,0.1
+shallots,truffle oil,0.1
+shallots,truffle,0.1
+sherry vinegar,porto,0.1
+sherry vinegar,sausage,0.1
+sherry vinegar,rocket,0.1
+sherry vinegar,bran,0.1
+sherry vinegar,truffle oil,0.1
+sherry vinegar,truffle,0.1
+porto,sausage,0.1
+porto,rocket,0.1
+porto,bran,0.1
+porto,truffle oil,0.1
+porto,truffle,0.1
+sausage,rocket,0.1
+sausage,bran,0.1
+sausage,truffle oil,0.1
+sausage,truffle,0.1
+rocket,bran,0.1
+rocket,truffle oil,0.1
+rocket,truffle,0.1
+bran,truffle oil,0.1
+bran,truffle,0.1
+truffle oil,truffle,0.1
+kohlrabi,cauliflower,0.1
+kohlrabi,soft bread,0.1
+cauliflower,soft bread,0.1
