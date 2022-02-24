@@ -1,384 +1,384 @@
-,Dish Name,Original String,Ingredient,Category
-0,Maltese baked ricotta pie                                  ,500 g plain flour,corn_flour,NULL
-1,Maltese baked ricotta pie                                  ,1 ½ tbsp salt flakes,salt,NULL
-2,Maltese baked ricotta pie                                  ,335 ml water,water,NULL
-3,Maltese baked ricotta pie                                  ,"125 g butter, softened at room temperature",butter,dairy
-4,Maltese baked ricotta pie                                  ,2 tbsp olive oil,olive_oil,plant derivative
-5,Maltese baked ricotta pie                                  ,"1 brown onion, finely sliced",onion,vegetable
-6,Maltese baked ricotta pie                                  ,"3 cloves garlic, peeled and finely sliced",garlic,vegetable
-7,Maltese baked ricotta pie                                  ,"450 g zucchini, grated",zucchini,vegetable
-8,Maltese baked ricotta pie                                  ,"300 g pumpkin, grated",pumpkin,vegetable
-9,Maltese baked ricotta pie                                  ,1 cup frozen peas,green_pepper,NULL
-10,Maltese baked ricotta pie                                  ,"handful parsley , leaves picked",parsley,herb
-11,Maltese baked ricotta pie                                  ,"handful mint, leaves picked",mint,herb
-12,Maltese baked ricotta pie                                  ,2 eggs,egg,animal product
-13,Maltese baked ricotta pie                                  ,350 g fresh ricotta,ricotta,NULL
-14,Maltese baked ricotta pie                                  ,"sea salt and freshly ground black pepper, to season",pepper,spice
-15,Maltese-style bruschetta (hobż biż-żejt)                                  ,4 crusty ciabatta rolls,goiaba,NULL
-16,Maltese-style bruschetta (hobż biż-żejt)                                  ,4 tbsp sun-dried tomato paste,tomato,vegetable
-17,Maltese-style bruschetta (hobż biż-żejt)                                  ,"extra virgin olive oil, for drizzling",olive_oil,plant derivative
-18,Maltese-style bruschetta (hobż biż-żejt)                                  ,2 tbsp olive oil,olive_oil,plant derivative
-19,Maltese-style bruschetta (hobż biż-żejt)                                  ,20 white anchovies in oil,anchova,NULL
-20,Maltese-style bruschetta (hobż biż-żejt)                                  ,"10 black olives, cheeks sliced off",black_olive,NULL
-21,Maltese-style bruschetta (hobż biż-żejt)                                  ,"40 g baby pickled onions, thinly sliced",red_onion,NULL
-22,Maltese-style bruschetta (hobż biż-żejt)                                  ,200 g fresh ricotta,ricotta,NULL
-23,Maltese-style bruschetta (hobż biż-żejt)                                  ,"1 tbsp tiny capers, rinsed and drained",caper,NULL
-24,Maltese-style bruschetta (hobż biż-żejt)                                  ,handful flat-leaf parsley leaves,parsley,herb
-25,Maltese-style bruschetta (hobż biż-żejt)                                  ,"sea salt and freshly ground black pepper, to taste",pepper,spice
-26,Maltese-style bruschetta (hobż biż-żejt)                                  ,600 ml extra virgin olive oil,olive_oil,plant derivative
-27,Maltese-style bruschetta (hobż biż-żejt)                                  ,1 star anise,anise,spice
-28,Maltese-style bruschetta (hobż biż-żejt)                                  ,1 cinnamon quill,cinnamon,spice
-29,Maltese-style bruschetta (hobż biż-żejt)                                  ,1 bay leaf,green_leaves,NULL
-30,Maltese-style bruschetta (hobż biż-żejt)                                  ,2 sprigs thyme,thyme,herb
-31,Maltese-style bruschetta (hobż biż-żejt)                                  ,5 white peppercorns,white_pepper,NULL
-32,Maltese-style bruschetta (hobż biż-żejt)                                  ,1 tsp salt,salt,NULL
-33,Maltese-style bruschetta (hobż biż-żejt)                                  ,"rind of ½  lemon, peeled off in wide strips",lemon,fruit
-34,Maltese-style bruschetta (hobż biż-żejt)                                  ,"rind of ½ orange, peeled off in wide strips",orange,fruit
-35,Maltese-style bruschetta (hobż biż-żejt)                                  ,"120 g piece fresh tuna, skin and bloodline removed",fresh_cheese,NULL
-36,Maltese rabbit stew (stuffat tal-fenek)                                  ,"1 rabbit, jointed into 8 pieces",rabbit,NULL
-37,Maltese rabbit stew (stuffat tal-fenek)                                  ,"sea salt and freshly ground pepper, to taste",pepper,spice
-38,Maltese rabbit stew (stuffat tal-fenek)                                  ,"plain flour, for dusting",corn_flour,NULL
-39,Maltese rabbit stew (stuffat tal-fenek)                                  ,100 ml vegetable oil,vegetable_broth,NULL
-40,Maltese rabbit stew (stuffat tal-fenek)                                  ,"3 onions, finely diced",onion,vegetable
-41,Maltese rabbit stew (stuffat tal-fenek)                                  ,"1 head garlic, cloves peeled and thinly sliced",garlic,vegetable
-42,Maltese rabbit stew (stuffat tal-fenek)                                  ,280 g tomato paste,tomato,vegetable
-43,Maltese rabbit stew (stuffat tal-fenek)                                  ,2 tbsp curry powder,curry,NULL
-44,Maltese rabbit stew (stuffat tal-fenek)                                  ,1 tbsp ground turmeric,turmeric,spice
-45,Maltese rabbit stew (stuffat tal-fenek)                                  ,1 tbsp paprika,paprika,NULL
-46,Maltese rabbit stew (stuffat tal-fenek)                                  ,1 tbsp ground cumin,cumin,spice
-47,Maltese rabbit stew (stuffat tal-fenek)                                  ,1.5 litres chicken stock,chicken,meat
-48,Maltese rabbit stew (stuffat tal-fenek)                                  ,"4 potatoes, peeled cut into 2 cm dice",potato,vegetable
-49,Maltese rabbit stew (stuffat tal-fenek)                                  ,300 g podded peas,pea,vegetable
-50,Maltese rabbit stew (stuffat tal-fenek)                                  ,1 cup parsley leaves,parsley,herb
-51,Maltese rabbit stew (stuffat tal-fenek)                                  ,100 ml olive oil,olive_oil,plant derivative
-52,Maltese rabbit stew (stuffat tal-fenek)                                  ,"1 head garlic, peeled",garlic,vegetable
-53,Maltese rabbit stew (stuffat tal-fenek)                                  ,350 ml red wine,red_wine,alcoholic beverage
-54,Maltese rabbit stew (stuffat tal-fenek)                                  ,5 bay leaves,green_leaves,NULL
-55,Maltese rabbit stew (stuffat tal-fenek)                                  ,3 cinnamon sticks,cinnamon,spice
-56,Maltese rabbit stew (stuffat tal-fenek)                                  ,4 star anise,anise,spice
-57,Maltese rabbit stew (stuffat tal-fenek)                                  ,3 cloves,clove,spice
-58,Bread with oil (hobż biż-żejt)                                  ,"vegetable oil, to shallow-fry",vegetable_broth,NULL
-59,Bread with oil (hobż biż-żejt)                                  ,"½ sourdough loaf, sliced",pizza_dough,NULL
-60,Bread with oil (hobż biż-żejt)                                  ,70 g (¼ cup) tomato pesto,tomato,vegetable
-61,Bread with oil (hobż biż-żejt)                                  ,"½ red onion, finely chopped",red_onion,NULL
-62,Bread with oil (hobż biż-żejt)                                  ,"50 g (¼ cup) salted capers, rinsed, drained",caper,NULL
-63,Bread with oil (hobż biż-żejt)                                  ,½ cup basil leaves,green_leaves,NULL
-64,Bread with oil (hobż biż-żejt)                                  ,"75 g (½ cup) pitted black olives, sliced",black_olive,NULL
-65,Bread with oil (hobż biż-żejt)                                  ,"200 g fresh ricotta, crumbled",ricotta,NULL
-66,Bread with oil (hobż biż-żejt)                                  ,60 ml (¼ cup) olive oil,olive_oil,plant derivative
-67,Maltese Easter biscuits (figolli)                                  ,"500 g (3⅓ cups) plain flour, sifted",corn_flour,NULL
-68,Maltese Easter biscuits (figolli)                                  ,"320 g (2 cups) pure icing sugar, sifted",icing_sugar,NULL
-69,Maltese Easter biscuits (figolli)                                  ,1½ tsp baking powder,Qing_Pi,NULL
-70,Maltese Easter biscuits (figolli)                                  ,"2 lemons, zested",lemon,fruit
-71,Maltese Easter biscuits (figolli)                                  ,"250 g cold unsalted butter, chopped",salted_butter,NULL
-72,Maltese Easter biscuits (figolli)                                  ,3 egg yolks,egg,animal product
-73,Maltese Easter biscuits (figolli)                                  ,2 drops orange blossom water (seeNote),orange_blossom,NULL
-74,Maltese Easter biscuits (figolli)                                  ,250 g marzipan (see Note),marzapane,NULL
-75,Maltese Easter biscuits (figolli)                                  ,10 small Easter eggs,salmon_eggs,NULL
-76,Maltese Easter biscuits (figolli)                                  ,2 egg whites,white_meat,NULL
-77,Maltese Easter biscuits (figolli)                                  ,"640 g (4 cups) pure icing sugar, sifted",icing_sugar,NULL
-78,Maltese Easter biscuits (figolli)                                  ,Red and black food colouring (optional),black_olive,NULL
-79,Timpana                                  ,2 tbsp olive oil,olive_oil,plant derivative
-80,Timpana                                  ,"1 onion, finely chopped",onion,vegetable
-81,Timpana                                  ,"3 garlic cloves, finely chopped",garlic,vegetable
-82,Timpana                                  ,2 bay leaves,green_leaves,NULL
-83,Timpana                                  ,"150 g bacon, chopped",bacon,meat
-84,Timpana                                  ,200 g minced beef,beef,meat
-85,Timpana                                  ,100 g minced pork,pork,meat
-86,Timpana                                  ,"100 g chicken livers, cleaned, roughly chopped",chicken,meat
-87,Timpana                                  ,2 tbsp tomato paste,tomato,vegetable
-88,Timpana                                  ,200 g canned chopped tomatoes,tomato,vegetable
-89,Timpana                                  ,125 ml (½ cup) beef stock,beef,meat
-90,Timpana                                  ,pinch of grated nutmeg,nutmeg,spice
-91,Timpana                                  ,250 g penne or other tubular pasta,pasta,NULL
-92,Timpana                                  ,60 g (¾ cup) finely grated parmesan,parmesan,dairy
-93,Timpana                                  ,3 eggs,egg,animal product
-94,Timpana                                  ,"5 sheets frozen puff pastry, thawed",puff_pastry,NULL
-95,Timpana                                  ,1 tbsp milk,milk,dairy
-96,Timpana                                  ,2 cups flat-leaf parsley,parsley,herb
-97,Timpana                                  ,"1 eschalot, thinly sliced",schalotte,NULL
-98,Timpana                                  ,50 g (¼ cup) baby capers,caper,NULL
-99,Timpana                                  ,1 tbsp lemon juice,lemon,fruit
-100,Timpana                                  ,2 tbsp olive oil,olive_oil,plant derivative
-101,Broad bean dip (bigilla)                                  ,"500 g dried broad beans, soaked overnight, podded",broad_bean,NULL
-102,Broad bean dip (bigilla)                                  ,1.5 litres chicken stock,chicken,meat
-103,Broad bean dip (bigilla)                                  ,3 garlic cloves,garlic,vegetable
-104,Broad bean dip (bigilla)                                  ,"1 long red chilli, seeded",chilli,NULL
-105,Broad bean dip (bigilla)                                  ,80 ml (⅓ cup) extra virgin olive oil,olive_oil,plant derivative
-106,Broad bean dip (bigilla)                                  ,"1 lemon, juiced",lemon,fruit
-107,Broad bean dip (bigilla)                                  ,"crackers and raw carrots, to serve",carrot,vegetable
-108,"Pears baked with white wine, almonds and armaretto (langas mimli bil-lewz)                                  ","4 ripe pears, peeled and halved",pear,fruit
-109,"Pears baked with white wine, almonds and armaretto (langas mimli bil-lewz)                                  ",125 ml sweet dessert wine,sweet_pepper,NULL
-110,"Pears baked with white wine, almonds and armaretto (langas mimli bil-lewz)                                  ",100 g almond meal,almond_milk,NULL
-111,"Pears baked with white wine, almonds and armaretto (langas mimli bil-lewz)                                  ",25 g caster sugar,sugar,NULL
-112,"Pears baked with white wine, almonds and armaretto (langas mimli bil-lewz)                                  ",25 g unsalted butter,salted_butter,NULL
-113,"Pears baked with white wine, almonds and armaretto (langas mimli bil-lewz)                                  ",1 tbsp amaretto,amarena,NULL
-114,"Pears baked with white wine, almonds and armaretto (langas mimli bil-lewz)                                  ",1 tsp grated lemon rind,lemon,fruit
-115,"Pears baked with white wine, almonds and armaretto (langas mimli bil-lewz)                                  ","ice-cream or warm vanilla custard, to serve",vanilla,spice
-116,Apple and fig cake                                   ,"300 g red apples, peeled, core removed, diced",apple,fruit
-117,Apple and fig cake                                   ,"200 g dried figs, diced",dried_grapes,NULL
-118,Apple and fig cake                                   ,250 ml apple juice,apple,fruit
-119,Apple and fig cake                                   ,2 tbsp lemon juice,lemon,fruit
-120,Apple and fig cake                                   ,finely grated rind of one lemon,grated_cheese,NULL
-121,Apple and fig cake                                   ,"2 eggs, lightly beaten",egg,animal product
-122,Apple and fig cake                                   ,60 ml (¼ cup) olive oil,olive_oil,plant derivative
-123,Apple and fig cake                                   ,300 g ( 2 cups) self-raising flour,raisin,fruit
-124,Apple and fig cake                                   ,1 tsp ground cinnamon,cinnamon,spice
-125,Apple and fig cake                                   ,1 tsp mixed spice,five_spices,NULL
-126,Apple and fig cake                                   ,"whipped cream, to serve",whipped_cream,NULL
-127,Pork and pea pastizzi                                  ,"1 kg boneless pork shoulder, skin scored at 3 cm intervals",pork,meat
-128,Pork and pea pastizzi                                  ,150 g frozen peas,green_pepper,NULL
-129,Pork and pea pastizzi                                  ,¼ cup dried mint ,dried_grapes,NULL
-130,Pork and pea pastizzi                                  ,"100 g flaked almonds, toasted ",sea_almonds,NULL
-131,Pork and pea pastizzi                                  ,10 whole cloves,clove,spice
-132,Pork and pea pastizzi                                  ,3 star anise,anise,spice
-133,Pork and pea pastizzi                                  ,2 cinnamon sticks,cinnamon,spice
-134,Pork and pea pastizzi                                  ,250 ml (1 cup) soy sauce,soy_sauce,plant derivative
-135,Pork and pea pastizzi                                  ,60 ml (¼ cup) fish sauce,soy_sauce,plant derivative
-136,Pork and pea pastizzi                                  ,55 g (¼ cup) brown sugar,brown_sugar,NULL
-137,Pork and pea pastizzi                                  ,2 tbsp sabaht baharat (Lebanese seven spice) (see note),albahaca,NULL
-138,Pork and pea pastizzi                                  ,1 tbsp minced garlic,garlic,vegetable
-139,Pork and pea pastizzi                                  ,1 kg plain flour,corn_flour,NULL
-140,Pork and pea pastizzi                                  ,2 tbsp salt ,salt,NULL
-141,Pork and pea pastizzi                                  ,650 ml (3 cups) ice-cold water ,water,NULL
-142,Pork and pea pastizzi                                  ,"100 g unsalted butter, softened",salted_butter,NULL
-143,Pork and pea pastizzi                                  ,150 g Kewpie mayonnaise (see note),Jie_Mo,NULL
-144,Pork and pea pastizzi                                  ,1 tbsp Dijon mustard,mustard,plant derivative
-145,Pork and pea pastizzi                                  ,2 tsp honey,honey,animal product
-146,Rabbit in tomato and wine sauce with rice                                  ,2 tbsp olive oil,olive_oil,plant derivative
-147,Rabbit in tomato and wine sauce with rice                                  ,1.5 kg rabbit pieces (2 small rabbits),rabbit,NULL
-148,Rabbit in tomato and wine sauce with rice                                  ,"1 large brown onion, finely chopped",onion,vegetable
-149,Rabbit in tomato and wine sauce with rice                                  ,"4 cloves garlic, finely chopped",garlic,vegetable
-150,Rabbit in tomato and wine sauce with rice                                  ,800 g tin whole peeled tomatoes,tomato,vegetable
-151,Rabbit in tomato and wine sauce with rice                                  ,100 ml white wine,white_wine,alcoholic beverage
-152,Rabbit in tomato and wine sauce with rice                                  ,2 sprigs of rosemary,rosemary,herb
-153,Rabbit in tomato and wine sauce with rice                                  ,2 bay leaves,green_leaves,NULL
-154,Rabbit in tomato and wine sauce with rice                                  ,1 tbsp olive oil,olive_oil,plant derivative
-155,Rabbit in tomato and wine sauce with rice                                  ,"50 g carrots, finely diced",carrot,vegetable
-156,Rabbit in tomato and wine sauce with rice                                  ,"50 g mushrooms, finely sliced",mushroom,vegetable
-157,Rabbit in tomato and wine sauce with rice                                  ,¼ tsp curry powder,curry,NULL
-158,Rabbit in tomato and wine sauce with rice                                  ,2 cups cooked white rice,rice,cereal/crop
-159,Peach and almond crumble                                  ,"1 kg fresh peaches, stones removed, thickly sliced",peach,fruit
-160,Peach and almond crumble                                  ,200 ml apple juice,apple,fruit
-161,Peach and almond crumble                                  ,200 g (2 cups) almond meal,almond_milk,NULL
-162,Peach and almond crumble                                  ,50 g white flour,rye_flour,cereal/crop
-163,Peach and almond crumble                                  ,50 g wheat flour,wheat_flour,NULL
-164,Peach and almond crumble                                  ,60 ml (¼ cup) olive oil,olive_oil,plant derivative
-165,Peach and almond crumble                                  ,2 tbsp white sugar,sugar,NULL
-166,Peach and almond crumble                                  ,1 tsp vanilla extract,vanilla,spice
-167,Peach and almond crumble                                  ,½ tsp baking powder,Qing_Pi,NULL
-168,Peach and almond crumble                                  ,"ice-cream or yoghurt, to serve",joghurt,NULL
-169,Christmas chocolate salami (romblu tal-milied bic-cikkulata)                                  ,"250 g pitted dates, chopped",date,fruit
-170,Christmas chocolate salami (romblu tal-milied bic-cikkulata)                                  ,200 ml evaporated milk ,concentrated_milk,NULL
-171,Christmas chocolate salami (romblu tal-milied bic-cikkulata)                                  ,60 ml (¼ cup) whiskey,whiskey,alcoholic beverage
-172,Christmas chocolate salami (romblu tal-milied bic-cikkulata)                                  ,"180 g plain biscuits, such as marie, crushed",biscuit,NULL
-173,Christmas chocolate salami (romblu tal-milied bic-cikkulata)                                  ,"100 g roasted hazelnuts, chopped",hazelnut,nut/seed/pulse
-174,Christmas chocolate salami (romblu tal-milied bic-cikkulata)                                  ,"100 g dried apricots, finely chopped",apricot,fruit
-175,Christmas chocolate salami (romblu tal-milied bic-cikkulata)                                  ,"100 g good quality dark chocolate (60%), chopped",chocolate,NULL
-176,Christmas chocolate salami (romblu tal-milied bic-cikkulata)                                  ,"icing sugar, to dust",icing_sugar,NULL
-177,Pumpkin and rice pie                                  ,400 g plain flour,corn_flour,NULL
-178,Pumpkin and rice pie                                  ,100 ml olive oil,olive_oil,plant derivative
-179,Pumpkin and rice pie                                  ,150 ml water,water,NULL
-180,Pumpkin and rice pie                                  ,"1 kg pumpkin, chopped into small cubes",pumpkin,vegetable
-181,Pumpkin and rice pie                                  ,150 ml water,water,NULL
-182,Pumpkin and rice pie                                  ,150 g rice,rice,cereal/crop
-183,Pumpkin and rice pie                                  ,1 tbsp olive oil,olive_oil,plant derivative
-184,Pumpkin and rice pie                                  ,100 g chopped onions,red_onion,NULL
-185,Pumpkin and rice pie                                  ,"12 black olives, chopped",black_olive,NULL
-186,Pumpkin and rice pie                                  ,3 tbsp fresh mint,fresh_cheese,NULL
-187,Pumpkin and rice pie                                  ,4 anchovy fillets (or sundried tomatoes),anchovy,NULL
-188,Pumpkin and rice pie                                  ,"180 g canned tuna, drained",tuna,fish/seafood
-189,Grilled garfish with roasted potatoes (imsell mixwi)                                  ,"600 g (about 3) sebago potatoes, peeled, chopped ",potato,vegetable
-190,Grilled garfish with roasted potatoes (imsell mixwi)                                  ,2 tbsp extra virgin olive oil ,olive_oil,plant derivative
-191,Grilled garfish with roasted potatoes (imsell mixwi)                                  ,1 tsp dried oregano ,oregano,herb
-192,Grilled garfish with roasted potatoes (imsell mixwi)                                  ,"18 garfish, cleaned ",fish,fish/seafood
-193,Grilled garfish with roasted potatoes (imsell mixwi)                                  ,"2 lemons, 1 quartered, 1 juiced ",lemon,fruit
-194,Grilled garfish with roasted potatoes (imsell mixwi)                                  ,60 ml (¼ cup) olive oil ,olive_oil,plant derivative
-195,Grilled garfish with roasted potatoes (imsell mixwi)                                  ,"3 garlic cloves, crushed ",garlic,vegetable
-196,Grilled garfish with roasted potatoes (imsell mixwi)                                  ,"1 cup flat-leaf parsley, finely chopped",parsley,herb
-197,Traditional Maltese Christmas honey rings                                  ,400 g plain flour ,corn_flour,NULL
-198,Traditional Maltese Christmas honey rings                                  ,100 g semolina ,semolina,NULL
-199,Traditional Maltese Christmas honey rings                                  ,150 g margarine ,margarine,NULL
-200,Traditional Maltese Christmas honey rings                                  ,200 ml orange juice or water ,orange,fruit
-201,Traditional Maltese Christmas honey rings                                  ,1 jar (350 ml) of treacle ,raclette,NULL
-202,Traditional Maltese Christmas honey rings                                  ,"1 orange, rind grated",orange,fruit
-203,Traditional Maltese Christmas honey rings                                  ,"1 lemon, rind grated",lemon,fruit
-204,Traditional Maltese Christmas honey rings                                  ,"1 mandarin, rind finely chopped",mandarin,fruit
-205,Traditional Maltese Christmas honey rings                                  ,½ tsp ground cloves ,clove,spice
-206,Traditional Maltese Christmas honey rings                                  ,¼ tsp mixed spice ,five_spices,NULL
-207,Traditional Maltese Christmas honey rings                                  ,2 tbsp aniseed liqueur ,anise,spice
-208,Traditional Maltese Christmas honey rings                                  ,350 ml hot water ,water,NULL
-209,Traditional Maltese Christmas honey rings                                  ,150 g semolina,semolina,NULL
-210,"Sugarless cake with apricots, dates and almonds                                  ",150 g dried apricots,apricot,fruit
-211,"Sugarless cake with apricots, dates and almonds                                  ",150 g pitted dates,date,fruit
-212,"Sugarless cake with apricots, dates and almonds                                  ",100 g self-raising flour,raisin,fruit
-213,"Sugarless cake with apricots, dates and almonds                                  ",100 g almond meal,almond_milk,NULL
-214,"Sugarless cake with apricots, dates and almonds                                  ",finely grated lemon rind,lemon,fruit
-215,"Sugarless cake with apricots, dates and almonds                                  ",250 ml apple juice,apple,fruit
-216,"Sugarless cake with apricots, dates and almonds                                  ",½ tsp vanilla essence,vanilla,spice
-217,Chicken rissoles                                   ,50 g wholemeal breadcrumbs,wholemeal_bread,NULL
-218,Chicken rissoles                                   ,4 tbsp skim milk,milk,dairy
-219,Chicken rissoles                                   ,250 g chicken mince,chicken,meat
-220,Chicken rissoles                                   ,½ tsp mixed herbs,aromatic_herbs,NULL
-221,Chicken rissoles                                   ,"3 cloves garlic, crushed",garlic,vegetable
-222,Chicken rissoles                                   ,1 egg,egg,animal product
-223,Chicken rissoles                                   ,400 ml chicken stock,chicken,meat
-224,Chicken rissoles                                   ,"400 g tomatoes, peeled and diced",tomato,vegetable
-225,Chicken rissoles                                   ,1 tbsp tomato paste,tomato,vegetable
-226,Chicken rissoles                                   ,2 bay leaves,green_leaves,NULL
-227,Chicken rissoles                                   ,100 g rice,rice,cereal/crop
-228,Chicken rissoles                                   ,Parsley to garnish,parsley,herb
-229,Caponata                                  ,"200 g onions, thinly sliced",onion,vegetable
-230,Caponata                                  ,1 tbsp olive oil,olive_oil,plant derivative
-231,Caponata                                  ,"400 g tomatoes, peeled, chopped",tomato,vegetable
-232,Caponata                                  ,"500 g eggplant, cubed",eggplant,NULL
-233,Caponata                                  ,2 celery stalks,celery_salt,NULL
-234,Caponata                                  ,6 olives,olive,fruit
-235,Caponata                                  ,1 tbsp capers,caper,NULL
-236,Caponata                                  ,2 tbsp tomato paste,tomato,vegetable
-237,Caponata                                  ,125 ml (½ cup) water,water,NULL
-238,Stuffed artichokes                                  ,4 globe artichokes,artichoke,vegetable
-239,Stuffed artichokes                                  ,"1 lemon, juiced",lemon,fruit
-240,Stuffed artichokes                                  ,"4 heads garlic, finely chopped",garlic,vegetable
-241,Stuffed artichokes                                  ,4 tbsp finely chopped parsley,parsley,herb
-242,Stuffed artichokes                                  ,"4 green or black olives, chopped",black_olive,NULL
-243,Stuffed artichokes                                  ,"4 anchovy fillets, rinsed, chopped",anchovy,NULL
-244,Stuffed artichokes                                  ,1 can tuna,tuna,fish/seafood
-245,Stuffed artichokes                                  ,2 tbsp olive oil,olive_oil,plant derivative
-246,Lenten biscuits (kwarezimal)                                  ,300 g plain flour,corn_flour,NULL
-247,Lenten biscuits (kwarezimal)                                  ,1 tbsp olive oil,olive_oil,plant derivative
-248,Lenten biscuits (kwarezimal)                                  ,300 g ground almonds,sea_almonds,NULL
-249,Lenten biscuits (kwarezimal)                                  ,150 g sugar,sugar,NULL
-250,Lenten biscuits (kwarezimal)                                  ,1 tbsp cocoa powder,cocoa,plant derivative
-251,Lenten biscuits (kwarezimal)                                  ,1 tsp mixed spice,five_spices,NULL
-252,Lenten biscuits (kwarezimal)                                  ,1 tsp ground cinnamon,cinnamon,spice
-253,Lenten biscuits (kwarezimal)                                  ,½ tsp ground cloves,clove,spice
-254,Lenten biscuits (kwarezimal)                                  ,2 tbsp orange flower water,water,NULL
-255,Lenten biscuits (kwarezimal)                                  ,grated rind of 1 lemon,lemon,fruit
-256,Lenten biscuits (kwarezimal)                                  ,grated rind of 1 orange,orange,fruit
-257,Lenten biscuits (kwarezimal)                                  ,200 ml water,water,NULL
-258,Lenten biscuits (kwarezimal)                                  ,2 tbsp honey,honey,animal product
-259,Lenten biscuits (kwarezimal)                                  ,2 tbsp chopped roasted almonds,sea_almonds,NULL
-260,Sweet chestnut soup                                  ,250 g dried chestnuts,chestnut,NULL
-261,Sweet chestnut soup                                  ,1 tbsp cocoa powder,cocoa,plant derivative
-262,Sweet chestnut soup                                  ,2–3 tbsp sugar,sugar,NULL
-263,Sweet chestnut soup                                  ,mandarin peel,mandarin,fruit
-264,Sweet chestnut soup                                  ,¼ tsp mixed spice,five_spices,NULL
-265,Sweet chestnut soup                                  ,12 whole cloves,clove,spice
-266,Sweet chestnut soup                                  ,500 ml water,water,NULL
-267,Maltese traditional biscuit with sesame seeds                                  ,250 g plain flour,corn_flour,NULL
-268,Maltese traditional biscuit with sesame seeds                                  ,2½ tsp baking powder,Qing_Pi,NULL
-269,Maltese traditional biscuit with sesame seeds                                  ,pinch of ground cloves,clove,spice
-270,Maltese traditional biscuit with sesame seeds                                  ,pinch of ground aniseed,anise,spice
-271,Maltese traditional biscuit with sesame seeds                                  ,4 tbsp olive oil,olive_oil,plant derivative
-272,Maltese traditional biscuit with sesame seeds                                  ,75 g sugar,sugar,NULL
-273,Maltese traditional biscuit with sesame seeds                                  ,grated lemon rind,lemon,fruit
-274,Maltese traditional biscuit with sesame seeds                                  ,1 egg,egg,animal product
-275,Maltese traditional biscuit with sesame seeds                                  ,3 tbsp water,water,NULL
-276,Maltese traditional biscuit with sesame seeds                                  ,2 tbsp sesame seeds,sesame,NULL
-277,Food Safari's timpana                                  ,75 g butter ,butter,dairy
-278,Food Safari's timpana                                  ,"250 g onions, finely diced ",onion,vegetable
-279,Food Safari's timpana                                  ,"2 garlic cloves, crushed ",garlic,vegetable
-280,Food Safari's timpana                                  ,"150 g bacon, finely diced ",bacon,meat
-281,Food Safari's timpana                                  ,150 g minced pork,pork,meat
-282,Food Safari's timpana                                  ,150 g minced beef,beef,meat
-283,Food Safari's timpana                                  ,"150 g chicken livers, diced (optional) ",chicken,meat
-284,Food Safari's timpana                                  ,250 ml chicken or beef stock ,chicken,meat
-285,Food Safari's timpana                                  ,100 g tomato paste ,tomato,vegetable
-286,Food Safari's timpana                                  ,125 ml tomato puree ,tomato,vegetable
-287,Food Safari's timpana                                  ,250 g macaroni or penne ,macaroni,cereal/crop
-288,Food Safari's timpana                                  ,"75 g parmesan, grated ",parmesan,dairy
-289,Food Safari's timpana                                  ,"75 g tasty cheese, grated ",blue_cheese,dairy
-290,Food Safari's timpana                                  ,"4 eggs, beaten ",egg,animal product
-291,Food Safari's timpana                                  ,salt and pepper ,pepper,spice
-292,Food Safari's timpana                                  ,250 g puff pastry sheets,puff_pastry,NULL
-293,Food Safari's timpana                                  ,1 egg,egg,animal product
-294,Food Safari's timpana                                  ,2½ tbsp milk,milk,dairy
-295,Beef olives (bragioli)                                  ,3 tbsp olive oil ,olive_oil,plant derivative
-296,Beef olives (bragioli)                                  ,"2 large onions, diced ",onion,vegetable
-297,Beef olives (bragioli)                                  ,"5 garlic cloves, crushed ",garlic,vegetable
-298,Beef olives (bragioli)                                  ,400 g tin tomatoes ,tomato,vegetable
-299,Beef olives (bragioli)                                  ,1 cup flat-leaf parsley leaves ,parsley,herb
-300,Beef olives (bragioli)                                  ,½ cup basil leaves,green_leaves,NULL
-301,Beef olives (bragioli)                                  ,2 bay leaves,green_leaves,NULL
-302,Beef olives (bragioli)                                  ,250 ml red wine ,red_wine,alcoholic beverage
-303,Beef olives (bragioli)                                  ,500 ml water ,water,NULL
-304,Beef olives (bragioli)                                  ,salt and pepper ,pepper,spice
-305,Beef olives (bragioli)                                  ,6 thin slices of topside or round steak ,steak,NULL
-306,Beef olives (bragioli)                                  ,400 g minced veal ,veal,meat
-307,Beef olives (bragioli)                                  ,"2 bacon rashers, diced ",bacon,meat
-308,Beef olives (bragioli)                                  ,"2 garlic cloves, crushed ",garlic,vegetable
-309,Beef olives (bragioli)                                  ,½ cup finely chopped flat-leaf parsley,parsley,herb
-310,Beef olives (bragioli)                                  ,1 tbsp finely chopped oregano,oregano,herb
-311,Beef olives (bragioli)                                  ,"1 spring onion, finely sliced ",onion,vegetable
-312,Beef olives (bragioli)                                  ,½ cup grated gbejniet (Maltese cheese),grated_cheese,NULL
-313,Beef olives (bragioli)                                  ,"2 eggs, beaten",egg,animal product
-314,Beef olives (bragioli)                                  ,salt and pepper,pepper,spice
-315,Bread and butter pudding (puddina)                                  ,1 day-old loaf of bread,bread,cereal/crop
-316,Bread and butter pudding (puddina)                                  ,370 g (1⅓ cup) sugar ,sugar,NULL
-317,Bread and butter pudding (puddina)                                  ,2 tbsp custard powder ,mustard,plant derivative
-318,Bread and butter pudding (puddina)                                  ,2 tbsp cornflour ,flour,NULL
-319,Bread and butter pudding (puddina)                                  ,35 g (⅓ cup) cocoa ,cocoa,plant derivative
-320,Bread and butter pudding (puddina)                                  ,"2 eggs, beaten ",egg,animal product
-321,Bread and butter pudding (puddina)                                  ,"500 g mixed dried fruit such as sultanas, raisins, currants and chopped peel",dried_grapes,NULL
-322,Bread and butter pudding (puddina)                                  ,250 g almonds ,almond,nut/seed/pulse
-323,Bread and butter pudding (puddina)                                  ,"250 g glacé cherries, halved ",berries,NULL
-324,Bread and butter pudding (puddina)                                  ,vanilla extract ,vanilla,spice
-325,Bread and butter pudding (puddina)                                  ,"80 ml whisky, brandy or sherry",whisky,NULL
-326,Braised potatoes with Maltese sausage                                  ,olive oil,olive_oil,plant derivative
-327,Braised potatoes with Maltese sausage                                  ,"5 French shallots, sliced",shallots,NULL
-328,Braised potatoes with Maltese sausage                                  ,"1 head garlic, cut in half",garlic,vegetable
-329,Braised potatoes with Maltese sausage                                  ,4 sprigs of thyme ,thyme,herb
-330,Braised potatoes with Maltese sausage                                  ,10 white peppercorns,white_pepper,NULL
-331,Braised potatoes with Maltese sausage                                  ,"1 bay leaf, torn",green_leaves,NULL
-332,Braised potatoes with Maltese sausage                                  ,200 ml sherry vinegar,sherry_vinegar,NULL
-333,Braised potatoes with Maltese sausage                                  ,100 ml port,porto,NULL
-334,Braised potatoes with Maltese sausage                                  ,100 ml white wine,white_wine,alcoholic beverage
-335,Braised potatoes with Maltese sausage                                  ,1 litre reduced chicken stock,chicken,meat
-336,Braised potatoes with Maltese sausage                                  ,2 large washed Sebago potatoes,potato,vegetable
-337,Braised potatoes with Maltese sausage                                  ,200 g Maltese pork sausage meat (see Note),sausage,NULL
-338,Braised potatoes with Maltese sausage                                  ,10 g baby rocket leaves,rocket,NULL
-339,Braised potatoes with Maltese sausage                                  ,100 ml olive oil,olive_oil,plant derivative
-340,Braised potatoes with Maltese sausage                                  ,"10 French shallots, diced",shallots,NULL
-341,Braised potatoes with Maltese sausage                                  ,½ head garlic,garlic,vegetable
-342,Braised potatoes with Maltese sausage                                  ,"1 bay leaf, torn",green_leaves,NULL
-343,Braised potatoes with Maltese sausage                                  ,2 sprigs thyme ,thyme,herb
-344,Braised potatoes with Maltese sausage                                  ,100 ml port,porto,NULL
-345,Braised potatoes with Maltese sausage                                  ,100 ml brandy,bran,NULL
-346,Braised potatoes with Maltese sausage                                  ,200 ml sherry vinegar,sherry_vinegar,NULL
-347,Braised potatoes with Maltese sausage                                  ,20 ml truffle oil,truffle_oil,NULL
-348,Braised potatoes with Maltese sausage                                  ,1 tbsp truffle paste,truffle,vegetable
-349,Rabbit stew (stuffat tal-fenek)                                  ,1 rabbit (1.5–2 kg) ,rabbit,NULL
-350,Rabbit stew (stuffat tal-fenek)                                  ,350 ml red wine ,red_wine,alcoholic beverage
-351,Rabbit stew (stuffat tal-fenek)                                  ,6 bay leaves ,green_leaves,NULL
-352,Rabbit stew (stuffat tal-fenek)                                  ,"6 garlic cloves, 4 peeled and left whole, 2 finely chopped ",garlic,vegetable
-353,Rabbit stew (stuffat tal-fenek)                                  ,80 ml extra virgin olive oil ,olive_oil,plant derivative
-354,Rabbit stew (stuffat tal-fenek)                                  ,salt and pepper,pepper,spice
-355,Rabbit stew (stuffat tal-fenek)                                  ,"1 onion, finely diced ",onion,vegetable
-356,Rabbit stew (stuffat tal-fenek)                                  ,3 tbsp tomato paste ,tomato,vegetable
-357,Rabbit stew (stuffat tal-fenek)                                  ,1.5 litres tomato puree ,tomato,vegetable
-358,Rabbit stew (stuffat tal-fenek)                                  ,250 ml water ,water,NULL
-359,Rabbit stew (stuffat tal-fenek)                                  ,"3–4 potatoes, peeled and cut into chunks",potato,vegetable
-360,Open sandwich (hobz biz-zejt)                                  ,"slices of dense, crusty bread ",herbs_of_provence,NULL
-361,Open sandwich (hobz biz-zejt)                                  ,kunserva (Maltese tomato paste) ,erva_doce,NULL
-362,Open sandwich (hobz biz-zejt)                                  ,capers ,caper,NULL
-363,Open sandwich (hobz biz-zejt)                                  ,"white anchovies or tinned tuna in oil, drained ",anchova,NULL
-364,Open sandwich (hobz biz-zejt)                                  ,sea salt and freshly ground black pepper ,pepper,spice
-365,Open sandwich (hobz biz-zejt)                                  ,flat-leaf parsley leaves ,parsley,herb
-366,Open sandwich (hobz biz-zejt)                                  ,extra virgin olive oil,olive_oil,plant derivative
-367,Widow's soup (soppa tal-armla)                                  ,1 tbsp butter,butter,dairy
-368,Widow's soup (soppa tal-armla)                                  ,1 tbsp olive oil ,olive_oil,plant derivative
-369,Widow's soup (soppa tal-armla)                                  ,"1 onion, diced ",onion,vegetable
-370,Widow's soup (soppa tal-armla)                                  ,"3–4 garlic cloves, crushed ",garlic,vegetable
-371,Widow's soup (soppa tal-armla)                                  ,⅔ cup chopped parsley ,parsley,herb
-372,Widow's soup (soppa tal-armla)                                  ,"2 potatoes, peeled and chopped ",potato,vegetable
-373,Widow's soup (soppa tal-armla)                                  ,"2 carrots, peeled and chopped ",carrot,vegetable
-374,Widow's soup (soppa tal-armla)                                  ,"1 kohlrabi, peeled and chopped ",kohlrabi,vegetable
-375,Widow's soup (soppa tal-armla)                                  ,"2 celery stalks, sliced ",celery_salt,NULL
-376,Widow's soup (soppa tal-armla)                                  ,1 cup podded broad beans (fresh or frozen),broad_bean,NULL
-377,Widow's soup (soppa tal-armla)                                  ,1 cup podded peas (fresh or frozen) ,pea,vegetable
-378,Widow's soup (soppa tal-armla)                                  ,"½ large or 1 small cauliflower, cut into bite-sized pieces ",cauliflower,vegetable
-379,Widow's soup (soppa tal-armla)                                  ,1½ tbsp tomato paste ,tomato,vegetable
-380,Widow's soup (soppa tal-armla)                                  ,vegetable or chicken stock ,vegetable_broth,NULL
-381,Widow's soup (soppa tal-armla)                                  ,salt and pepper ,pepper,spice
-382,Widow's soup (soppa tal-armla)                                  ,6 soft gbejniet (small Maltese cheeses),soft_bread,NULL
+,Dish Name,Original String,Ingredient,Category,Index
+0,Maltese baked ricotta pie                                  ,500 g plain flour,corn_flour,,
+1,Maltese baked ricotta pie                                  ,1 ½ tbsp salt flakes,salt,,
+2,Maltese baked ricotta pie                                  ,335 ml water,water,,
+3,Maltese baked ricotta pie                                  ,"125 g butter, softened at room temperature",butter,dairy,298.0
+4,Maltese baked ricotta pie                                  ,2 tbsp olive oil,olive_oil,plant derivative,998.0
+5,Maltese baked ricotta pie                                  ,"1 brown onion, finely sliced",onion,vegetable,1447.0
+6,Maltese baked ricotta pie                                  ,"3 cloves garlic, peeled and finely sliced",garlic,vegetable,136.0
+7,Maltese baked ricotta pie                                  ,"450 g zucchini, grated",zucchini,vegetable,1080.0
+8,Maltese baked ricotta pie                                  ,"300 g pumpkin, grated",pumpkin,vegetable,575.0
+9,Maltese baked ricotta pie                                  ,1 cup frozen peas,green_pepper,,
+10,Maltese baked ricotta pie                                  ,"handful parsley , leaves picked",parsley,herb,251.0
+11,Maltese baked ricotta pie                                  ,"handful mint, leaves picked",mint,herb,166.0
+12,Maltese baked ricotta pie                                  ,2 eggs,egg,animal product,848.0
+13,Maltese baked ricotta pie                                  ,350 g fresh ricotta,ricotta,,
+14,Maltese baked ricotta pie                                  ,"sea salt and freshly ground black pepper, to season",pepper,spice,1471.0
+15,Maltese-style bruschetta (hobż biż-żejt)                                  ,4 crusty ciabatta rolls,goiaba,,
+16,Maltese-style bruschetta (hobż biż-żejt)                                  ,4 tbsp sun-dried tomato paste,tomato,vegetable,1240.0
+17,Maltese-style bruschetta (hobż biż-żejt)                                  ,"extra virgin olive oil, for drizzling",olive_oil,plant derivative,998.0
+18,Maltese-style bruschetta (hobż biż-żejt)                                  ,2 tbsp olive oil,olive_oil,plant derivative,998.0
+19,Maltese-style bruschetta (hobż biż-żejt)                                  ,20 white anchovies in oil,anchova,,
+20,Maltese-style bruschetta (hobż biż-żejt)                                  ,"10 black olives, cheeks sliced off",black_olive,,
+21,Maltese-style bruschetta (hobż biż-żejt)                                  ,"40 g baby pickled onions, thinly sliced",red_onion,,
+22,Maltese-style bruschetta (hobż biż-żejt)                                  ,200 g fresh ricotta,ricotta,,
+23,Maltese-style bruschetta (hobż biż-żejt)                                  ,"1 tbsp tiny capers, rinsed and drained",caper,,
+24,Maltese-style bruschetta (hobż biż-żejt)                                  ,handful flat-leaf parsley leaves,parsley,herb,251.0
+25,Maltese-style bruschetta (hobż biż-żejt)                                  ,"sea salt and freshly ground black pepper, to taste",pepper,spice,1471.0
+26,Maltese-style bruschetta (hobż biż-żejt)                                  ,600 ml extra virgin olive oil,olive_oil,plant derivative,998.0
+27,Maltese-style bruschetta (hobż biż-żejt)                                  ,1 star anise,anise,spice,707.0
+28,Maltese-style bruschetta (hobż biż-żejt)                                  ,1 cinnamon quill,cinnamon,spice,439.0
+29,Maltese-style bruschetta (hobż biż-żejt)                                  ,1 bay leaf,green_leaves,,
+30,Maltese-style bruschetta (hobż biż-żejt)                                  ,2 sprigs thyme,thyme,herb,675.0
+31,Maltese-style bruschetta (hobż biż-żejt)                                  ,5 white peppercorns,white_pepper,,
+32,Maltese-style bruschetta (hobż biż-żejt)                                  ,1 tsp salt,salt,,
+33,Maltese-style bruschetta (hobż biż-żejt)                                  ,"rind of ½  lemon, peeled off in wide strips",lemon,fruit,1132.0
+34,Maltese-style bruschetta (hobż biż-żejt)                                  ,"rind of ½ orange, peeled off in wide strips",orange,fruit,1257.0
+35,Maltese-style bruschetta (hobż biż-żejt)                                  ,"120 g piece fresh tuna, skin and bloodline removed",fresh_cheese,,
+36,Maltese rabbit stew (stuffat tal-fenek)                                  ,"1 rabbit, jointed into 8 pieces",rabbit,,
+37,Maltese rabbit stew (stuffat tal-fenek)                                  ,"sea salt and freshly ground pepper, to taste",pepper,spice,1471.0
+38,Maltese rabbit stew (stuffat tal-fenek)                                  ,"plain flour, for dusting",corn_flour,,
+39,Maltese rabbit stew (stuffat tal-fenek)                                  ,100 ml vegetable oil,vegetable_broth,,
+40,Maltese rabbit stew (stuffat tal-fenek)                                  ,"3 onions, finely diced",onion,vegetable,1447.0
+41,Maltese rabbit stew (stuffat tal-fenek)                                  ,"1 head garlic, cloves peeled and thinly sliced",garlic,vegetable,136.0
+42,Maltese rabbit stew (stuffat tal-fenek)                                  ,280 g tomato paste,tomato,vegetable,1240.0
+43,Maltese rabbit stew (stuffat tal-fenek)                                  ,2 tbsp curry powder,curry,,
+44,Maltese rabbit stew (stuffat tal-fenek)                                  ,1 tbsp ground turmeric,turmeric,spice,849.0
+45,Maltese rabbit stew (stuffat tal-fenek)                                  ,1 tbsp paprika,paprika,,
+46,Maltese rabbit stew (stuffat tal-fenek)                                  ,1 tbsp ground cumin,cumin,spice,579.0
+47,Maltese rabbit stew (stuffat tal-fenek)                                  ,1.5 litres chicken stock,chicken,meat,1338.0
+48,Maltese rabbit stew (stuffat tal-fenek)                                  ,"4 potatoes, peeled cut into 2 cm dice",potato,vegetable,385.0
+49,Maltese rabbit stew (stuffat tal-fenek)                                  ,300 g podded peas,pea,vegetable,1088.0
+50,Maltese rabbit stew (stuffat tal-fenek)                                  ,1 cup parsley leaves,parsley,herb,251.0
+51,Maltese rabbit stew (stuffat tal-fenek)                                  ,100 ml olive oil,olive_oil,plant derivative,998.0
+52,Maltese rabbit stew (stuffat tal-fenek)                                  ,"1 head garlic, peeled",garlic,vegetable,136.0
+53,Maltese rabbit stew (stuffat tal-fenek)                                  ,350 ml red wine,red_wine,alcoholic beverage,619.0
+54,Maltese rabbit stew (stuffat tal-fenek)                                  ,5 bay leaves,green_leaves,,
+55,Maltese rabbit stew (stuffat tal-fenek)                                  ,3 cinnamon sticks,cinnamon,spice,439.0
+56,Maltese rabbit stew (stuffat tal-fenek)                                  ,4 star anise,anise,spice,707.0
+57,Maltese rabbit stew (stuffat tal-fenek)                                  ,3 cloves,clove,spice,1320.0
+58,Bread with oil (hobż biż-żejt)                                  ,"vegetable oil, to shallow-fry",vegetable_broth,,
+59,Bread with oil (hobż biż-żejt)                                  ,"½ sourdough loaf, sliced",pizza_dough,,
+60,Bread with oil (hobż biż-żejt)                                  ,70 g (¼ cup) tomato pesto,tomato,vegetable,1240.0
+61,Bread with oil (hobż biż-żejt)                                  ,"½ red onion, finely chopped",red_onion,,
+62,Bread with oil (hobż biż-żejt)                                  ,"50 g (¼ cup) salted capers, rinsed, drained",caper,,
+63,Bread with oil (hobż biż-żejt)                                  ,½ cup basil leaves,green_leaves,,
+64,Bread with oil (hobż biż-żejt)                                  ,"75 g (½ cup) pitted black olives, sliced",black_olive,,
+65,Bread with oil (hobż biż-żejt)                                  ,"200 g fresh ricotta, crumbled",ricotta,,
+66,Bread with oil (hobż biż-żejt)                                  ,60 ml (¼ cup) olive oil,olive_oil,plant derivative,998.0
+67,Maltese Easter biscuits (figolli)                                  ,"500 g (3⅓ cups) plain flour, sifted",corn_flour,,
+68,Maltese Easter biscuits (figolli)                                  ,"320 g (2 cups) pure icing sugar, sifted",icing_sugar,,
+69,Maltese Easter biscuits (figolli)                                  ,1½ tsp baking powder,Qing_Pi,,
+70,Maltese Easter biscuits (figolli)                                  ,"2 lemons, zested",lemon,fruit,1132.0
+71,Maltese Easter biscuits (figolli)                                  ,"250 g cold unsalted butter, chopped",salted_butter,,
+72,Maltese Easter biscuits (figolli)                                  ,3 egg yolks,egg,animal product,848.0
+73,Maltese Easter biscuits (figolli)                                  ,2 drops orange blossom water (seeNote),orange_blossom,,
+74,Maltese Easter biscuits (figolli)                                  ,250 g marzipan (see Note),marzapane,,
+75,Maltese Easter biscuits (figolli)                                  ,10 small Easter eggs,salmon_eggs,,
+76,Maltese Easter biscuits (figolli)                                  ,2 egg whites,white_meat,,
+77,Maltese Easter biscuits (figolli)                                  ,"640 g (4 cups) pure icing sugar, sifted",icing_sugar,,
+78,Maltese Easter biscuits (figolli)                                  ,Red and black food colouring (optional),black_olive,,
+79,Timpana                                  ,2 tbsp olive oil,olive_oil,plant derivative,998.0
+80,Timpana                                  ,"1 onion, finely chopped",onion,vegetable,1447.0
+81,Timpana                                  ,"3 garlic cloves, finely chopped",garlic,vegetable,136.0
+82,Timpana                                  ,2 bay leaves,green_leaves,,
+83,Timpana                                  ,"150 g bacon, chopped",bacon,meat,19.0
+84,Timpana                                  ,200 g minced beef,beef,meat,248.0
+85,Timpana                                  ,100 g minced pork,pork,meat,417.0
+86,Timpana                                  ,"100 g chicken livers, cleaned, roughly chopped",chicken,meat,1338.0
+87,Timpana                                  ,2 tbsp tomato paste,tomato,vegetable,1240.0
+88,Timpana                                  ,200 g canned chopped tomatoes,tomato,vegetable,1240.0
+89,Timpana                                  ,125 ml (½ cup) beef stock,beef,meat,248.0
+90,Timpana                                  ,pinch of grated nutmeg,nutmeg,spice,1356.0
+91,Timpana                                  ,250 g penne or other tubular pasta,pasta,,
+92,Timpana                                  ,60 g (¾ cup) finely grated parmesan,parmesan,dairy,749.0
+93,Timpana                                  ,3 eggs,egg,animal product,848.0
+94,Timpana                                  ,"5 sheets frozen puff pastry, thawed",puff_pastry,,
+95,Timpana                                  ,1 tbsp milk,milk,dairy,396.0
+96,Timpana                                  ,2 cups flat-leaf parsley,parsley,herb,251.0
+97,Timpana                                  ,"1 eschalot, thinly sliced",schalotte,,
+98,Timpana                                  ,50 g (¼ cup) baby capers,caper,,
+99,Timpana                                  ,1 tbsp lemon juice,lemon,fruit,1132.0
+100,Timpana                                  ,2 tbsp olive oil,olive_oil,plant derivative,998.0
+101,Broad bean dip (bigilla)                                  ,"500 g dried broad beans, soaked overnight, podded",broad_bean,,
+102,Broad bean dip (bigilla)                                  ,1.5 litres chicken stock,chicken,meat,1338.0
+103,Broad bean dip (bigilla)                                  ,3 garlic cloves,garlic,vegetable,136.0
+104,Broad bean dip (bigilla)                                  ,"1 long red chilli, seeded",chilli,,
+105,Broad bean dip (bigilla)                                  ,80 ml (⅓ cup) extra virgin olive oil,olive_oil,plant derivative,998.0
+106,Broad bean dip (bigilla)                                  ,"1 lemon, juiced",lemon,fruit,1132.0
+107,Broad bean dip (bigilla)                                  ,"crackers and raw carrots, to serve",carrot,vegetable,1216.0
+108,"Pears baked with white wine, almonds and armaretto (langas mimli bil-lewz)                                  ","4 ripe pears, peeled and halved",pear,fruit,735.0
+109,"Pears baked with white wine, almonds and armaretto (langas mimli bil-lewz)                                  ",125 ml sweet dessert wine,sweet_pepper,,
+110,"Pears baked with white wine, almonds and armaretto (langas mimli bil-lewz)                                  ",100 g almond meal,almond_milk,,
+111,"Pears baked with white wine, almonds and armaretto (langas mimli bil-lewz)                                  ",25 g caster sugar,sugar,,
+112,"Pears baked with white wine, almonds and armaretto (langas mimli bil-lewz)                                  ",25 g unsalted butter,salted_butter,,
+113,"Pears baked with white wine, almonds and armaretto (langas mimli bil-lewz)                                  ",1 tbsp amaretto,amarena,,
+114,"Pears baked with white wine, almonds and armaretto (langas mimli bil-lewz)                                  ",1 tsp grated lemon rind,lemon,fruit,1132.0
+115,"Pears baked with white wine, almonds and armaretto (langas mimli bil-lewz)                                  ","ice-cream or warm vanilla custard, to serve",vanilla,spice,1399.0
+116,Apple and fig cake                                   ,"300 g red apples, peeled, core removed, diced",apple,fruit,1197.0
+117,Apple and fig cake                                   ,"200 g dried figs, diced",dried_grapes,,
+118,Apple and fig cake                                   ,250 ml apple juice,apple,fruit,1197.0
+119,Apple and fig cake                                   ,2 tbsp lemon juice,lemon,fruit,1132.0
+120,Apple and fig cake                                   ,finely grated rind of one lemon,grated_cheese,,
+121,Apple and fig cake                                   ,"2 eggs, lightly beaten",egg,animal product,848.0
+122,Apple and fig cake                                   ,60 ml (¼ cup) olive oil,olive_oil,plant derivative,998.0
+123,Apple and fig cake                                   ,300 g ( 2 cups) self-raising flour,raisin,fruit,133.0
+124,Apple and fig cake                                   ,1 tsp ground cinnamon,cinnamon,spice,439.0
+125,Apple and fig cake                                   ,1 tsp mixed spice,five_spices,,
+126,Apple and fig cake                                   ,"whipped cream, to serve",whipped_cream,,
+127,Pork and pea pastizzi                                  ,"1 kg boneless pork shoulder, skin scored at 3 cm intervals",pork,meat,417.0
+128,Pork and pea pastizzi                                  ,150 g frozen peas,green_pepper,,
+129,Pork and pea pastizzi                                  ,¼ cup dried mint ,dried_grapes,,
+130,Pork and pea pastizzi                                  ,"100 g flaked almonds, toasted ",sea_almonds,,
+131,Pork and pea pastizzi                                  ,10 whole cloves,clove,spice,1320.0
+132,Pork and pea pastizzi                                  ,3 star anise,anise,spice,707.0
+133,Pork and pea pastizzi                                  ,2 cinnamon sticks,cinnamon,spice,439.0
+134,Pork and pea pastizzi                                  ,250 ml (1 cup) soy sauce,soy_sauce,plant derivative,1183.0
+135,Pork and pea pastizzi                                  ,60 ml (¼ cup) fish sauce,soy_sauce,plant derivative,1183.0
+136,Pork and pea pastizzi                                  ,55 g (¼ cup) brown sugar,brown_sugar,,
+137,Pork and pea pastizzi                                  ,2 tbsp sabaht baharat (Lebanese seven spice) (see note),albahaca,,
+138,Pork and pea pastizzi                                  ,1 tbsp minced garlic,garlic,vegetable,136.0
+139,Pork and pea pastizzi                                  ,1 kg plain flour,corn_flour,,
+140,Pork and pea pastizzi                                  ,2 tbsp salt ,salt,,
+141,Pork and pea pastizzi                                  ,650 ml (3 cups) ice-cold water ,water,,
+142,Pork and pea pastizzi                                  ,"100 g unsalted butter, softened",salted_butter,,
+143,Pork and pea pastizzi                                  ,150 g Kewpie mayonnaise (see note),Jie_Mo,,
+144,Pork and pea pastizzi                                  ,1 tbsp Dijon mustard,mustard,plant derivative,1140.0
+145,Pork and pea pastizzi                                  ,2 tsp honey,honey,animal product,64.0
+146,Rabbit in tomato and wine sauce with rice                                  ,2 tbsp olive oil,olive_oil,plant derivative,998.0
+147,Rabbit in tomato and wine sauce with rice                                  ,1.5 kg rabbit pieces (2 small rabbits),rabbit,,
+148,Rabbit in tomato and wine sauce with rice                                  ,"1 large brown onion, finely chopped",onion,vegetable,1447.0
+149,Rabbit in tomato and wine sauce with rice                                  ,"4 cloves garlic, finely chopped",garlic,vegetable,136.0
+150,Rabbit in tomato and wine sauce with rice                                  ,800 g tin whole peeled tomatoes,tomato,vegetable,1240.0
+151,Rabbit in tomato and wine sauce with rice                                  ,100 ml white wine,white_wine,alcoholic beverage,1428.0
+152,Rabbit in tomato and wine sauce with rice                                  ,2 sprigs of rosemary,rosemary,herb,112.0
+153,Rabbit in tomato and wine sauce with rice                                  ,2 bay leaves,green_leaves,,
+154,Rabbit in tomato and wine sauce with rice                                  ,1 tbsp olive oil,olive_oil,plant derivative,998.0
+155,Rabbit in tomato and wine sauce with rice                                  ,"50 g carrots, finely diced",carrot,vegetable,1216.0
+156,Rabbit in tomato and wine sauce with rice                                  ,"50 g mushrooms, finely sliced",mushroom,vegetable,260.0
+157,Rabbit in tomato and wine sauce with rice                                  ,¼ tsp curry powder,curry,,
+158,Rabbit in tomato and wine sauce with rice                                  ,2 cups cooked white rice,rice,cereal/crop,205.0
+159,Peach and almond crumble                                  ,"1 kg fresh peaches, stones removed, thickly sliced",peach,fruit,1133.0
+160,Peach and almond crumble                                  ,200 ml apple juice,apple,fruit,1197.0
+161,Peach and almond crumble                                  ,200 g (2 cups) almond meal,almond_milk,,
+162,Peach and almond crumble                                  ,50 g white flour,rye_flour,cereal/crop,516.0
+163,Peach and almond crumble                                  ,50 g wheat flour,wheat_flour,,
+164,Peach and almond crumble                                  ,60 ml (¼ cup) olive oil,olive_oil,plant derivative,998.0
+165,Peach and almond crumble                                  ,2 tbsp white sugar,sugar,,
+166,Peach and almond crumble                                  ,1 tsp vanilla extract,vanilla,spice,1399.0
+167,Peach and almond crumble                                  ,½ tsp baking powder,Qing_Pi,,
+168,Peach and almond crumble                                  ,"ice-cream or yoghurt, to serve",joghurt,,
+169,Christmas chocolate salami (romblu tal-milied bic-cikkulata)                                  ,"250 g pitted dates, chopped",date,fruit,483.0
+170,Christmas chocolate salami (romblu tal-milied bic-cikkulata)                                  ,200 ml evaporated milk ,concentrated_milk,,
+171,Christmas chocolate salami (romblu tal-milied bic-cikkulata)                                  ,60 ml (¼ cup) whiskey,whiskey,alcoholic beverage,361.0
+172,Christmas chocolate salami (romblu tal-milied bic-cikkulata)                                  ,"180 g plain biscuits, such as marie, crushed",biscuit,,
+173,Christmas chocolate salami (romblu tal-milied bic-cikkulata)                                  ,"100 g roasted hazelnuts, chopped",hazelnut,nut/seed/pulse,152.0
+174,Christmas chocolate salami (romblu tal-milied bic-cikkulata)                                  ,"100 g dried apricots, finely chopped",apricot,fruit,1120.0
+175,Christmas chocolate salami (romblu tal-milied bic-cikkulata)                                  ,"100 g good quality dark chocolate (60%), chopped",chocolate,,
+176,Christmas chocolate salami (romblu tal-milied bic-cikkulata)                                  ,"icing sugar, to dust",icing_sugar,,
+177,Pumpkin and rice pie                                  ,400 g plain flour,corn_flour,,
+178,Pumpkin and rice pie                                  ,100 ml olive oil,olive_oil,plant derivative,998.0
+179,Pumpkin and rice pie                                  ,150 ml water,water,,
+180,Pumpkin and rice pie                                  ,"1 kg pumpkin, chopped into small cubes",pumpkin,vegetable,575.0
+181,Pumpkin and rice pie                                  ,150 ml water,water,,
+182,Pumpkin and rice pie                                  ,150 g rice,rice,cereal/crop,205.0
+183,Pumpkin and rice pie                                  ,1 tbsp olive oil,olive_oil,plant derivative,998.0
+184,Pumpkin and rice pie                                  ,100 g chopped onions,red_onion,,
+185,Pumpkin and rice pie                                  ,"12 black olives, chopped",black_olive,,
+186,Pumpkin and rice pie                                  ,3 tbsp fresh mint,fresh_cheese,,
+187,Pumpkin and rice pie                                  ,4 anchovy fillets (or sundried tomatoes),anchovy,,
+188,Pumpkin and rice pie                                  ,"180 g canned tuna, drained",tuna,fish/seafood,296.0
+189,Grilled garfish with roasted potatoes (imsell mixwi)                                  ,"600 g (about 3) sebago potatoes, peeled, chopped ",potato,vegetable,385.0
+190,Grilled garfish with roasted potatoes (imsell mixwi)                                  ,2 tbsp extra virgin olive oil ,olive_oil,plant derivative,998.0
+191,Grilled garfish with roasted potatoes (imsell mixwi)                                  ,1 tsp dried oregano ,oregano,herb,1382.0
+192,Grilled garfish with roasted potatoes (imsell mixwi)                                  ,"18 garfish, cleaned ",fish,fish/seafood,878.0
+193,Grilled garfish with roasted potatoes (imsell mixwi)                                  ,"2 lemons, 1 quartered, 1 juiced ",lemon,fruit,1132.0
+194,Grilled garfish with roasted potatoes (imsell mixwi)                                  ,60 ml (¼ cup) olive oil ,olive_oil,plant derivative,998.0
+195,Grilled garfish with roasted potatoes (imsell mixwi)                                  ,"3 garlic cloves, crushed ",garlic,vegetable,136.0
+196,Grilled garfish with roasted potatoes (imsell mixwi)                                  ,"1 cup flat-leaf parsley, finely chopped",parsley,herb,251.0
+197,Traditional Maltese Christmas honey rings                                  ,400 g plain flour ,corn_flour,,
+198,Traditional Maltese Christmas honey rings                                  ,100 g semolina ,semolina,,
+199,Traditional Maltese Christmas honey rings                                  ,150 g margarine ,margarine,,
+200,Traditional Maltese Christmas honey rings                                  ,200 ml orange juice or water ,orange,fruit,1257.0
+201,Traditional Maltese Christmas honey rings                                  ,1 jar (350 ml) of treacle ,raclette,,
+202,Traditional Maltese Christmas honey rings                                  ,"1 orange, rind grated",orange,fruit,1257.0
+203,Traditional Maltese Christmas honey rings                                  ,"1 lemon, rind grated",lemon,fruit,1132.0
+204,Traditional Maltese Christmas honey rings                                  ,"1 mandarin, rind finely chopped",mandarin,fruit,590.0
+205,Traditional Maltese Christmas honey rings                                  ,½ tsp ground cloves ,clove,spice,1320.0
+206,Traditional Maltese Christmas honey rings                                  ,¼ tsp mixed spice ,five_spices,,
+207,Traditional Maltese Christmas honey rings                                  ,2 tbsp aniseed liqueur ,anise,spice,707.0
+208,Traditional Maltese Christmas honey rings                                  ,350 ml hot water ,water,,
+209,Traditional Maltese Christmas honey rings                                  ,150 g semolina,semolina,,
+210,"Sugarless cake with apricots, dates and almonds                                  ",150 g dried apricots,apricot,fruit,1120.0
+211,"Sugarless cake with apricots, dates and almonds                                  ",150 g pitted dates,date,fruit,483.0
+212,"Sugarless cake with apricots, dates and almonds                                  ",100 g self-raising flour,raisin,fruit,133.0
+213,"Sugarless cake with apricots, dates and almonds                                  ",100 g almond meal,almond_milk,,
+214,"Sugarless cake with apricots, dates and almonds                                  ",finely grated lemon rind,lemon,fruit,1132.0
+215,"Sugarless cake with apricots, dates and almonds                                  ",250 ml apple juice,apple,fruit,1197.0
+216,"Sugarless cake with apricots, dates and almonds                                  ",½ tsp vanilla essence,vanilla,spice,1399.0
+217,Chicken rissoles                                   ,50 g wholemeal breadcrumbs,wholemeal_bread,,
+218,Chicken rissoles                                   ,4 tbsp skim milk,milk,dairy,396.0
+219,Chicken rissoles                                   ,250 g chicken mince,chicken,meat,1338.0
+220,Chicken rissoles                                   ,½ tsp mixed herbs,aromatic_herbs,,
+221,Chicken rissoles                                   ,"3 cloves garlic, crushed",garlic,vegetable,136.0
+222,Chicken rissoles                                   ,1 egg,egg,animal product,848.0
+223,Chicken rissoles                                   ,400 ml chicken stock,chicken,meat,1338.0
+224,Chicken rissoles                                   ,"400 g tomatoes, peeled and diced",tomato,vegetable,1240.0
+225,Chicken rissoles                                   ,1 tbsp tomato paste,tomato,vegetable,1240.0
+226,Chicken rissoles                                   ,2 bay leaves,green_leaves,,
+227,Chicken rissoles                                   ,100 g rice,rice,cereal/crop,205.0
+228,Chicken rissoles                                   ,Parsley to garnish,parsley,herb,251.0
+229,Caponata                                  ,"200 g onions, thinly sliced",onion,vegetable,1447.0
+230,Caponata                                  ,1 tbsp olive oil,olive_oil,plant derivative,998.0
+231,Caponata                                  ,"400 g tomatoes, peeled, chopped",tomato,vegetable,1240.0
+232,Caponata                                  ,"500 g eggplant, cubed",eggplant,,
+233,Caponata                                  ,2 celery stalks,celery_salt,,
+234,Caponata                                  ,6 olives,olive,fruit,466.0
+235,Caponata                                  ,1 tbsp capers,caper,,
+236,Caponata                                  ,2 tbsp tomato paste,tomato,vegetable,1240.0
+237,Caponata                                  ,125 ml (½ cup) water,water,,
+238,Stuffed artichokes                                  ,4 globe artichokes,artichoke,vegetable,1251.0
+239,Stuffed artichokes                                  ,"1 lemon, juiced",lemon,fruit,1132.0
+240,Stuffed artichokes                                  ,"4 heads garlic, finely chopped",garlic,vegetable,136.0
+241,Stuffed artichokes                                  ,4 tbsp finely chopped parsley,parsley,herb,251.0
+242,Stuffed artichokes                                  ,"4 green or black olives, chopped",black_olive,,
+243,Stuffed artichokes                                  ,"4 anchovy fillets, rinsed, chopped",anchovy,,
+244,Stuffed artichokes                                  ,1 can tuna,tuna,fish/seafood,296.0
+245,Stuffed artichokes                                  ,2 tbsp olive oil,olive_oil,plant derivative,998.0
+246,Lenten biscuits (kwarezimal)                                  ,300 g plain flour,corn_flour,,
+247,Lenten biscuits (kwarezimal)                                  ,1 tbsp olive oil,olive_oil,plant derivative,998.0
+248,Lenten biscuits (kwarezimal)                                  ,300 g ground almonds,sea_almonds,,
+249,Lenten biscuits (kwarezimal)                                  ,150 g sugar,sugar,,
+250,Lenten biscuits (kwarezimal)                                  ,1 tbsp cocoa powder,cocoa,plant derivative,1488.0
+251,Lenten biscuits (kwarezimal)                                  ,1 tsp mixed spice,five_spices,,
+252,Lenten biscuits (kwarezimal)                                  ,1 tsp ground cinnamon,cinnamon,spice,439.0
+253,Lenten biscuits (kwarezimal)                                  ,½ tsp ground cloves,clove,spice,1320.0
+254,Lenten biscuits (kwarezimal)                                  ,2 tbsp orange flower water,water,,
+255,Lenten biscuits (kwarezimal)                                  ,grated rind of 1 lemon,lemon,fruit,1132.0
+256,Lenten biscuits (kwarezimal)                                  ,grated rind of 1 orange,orange,fruit,1257.0
+257,Lenten biscuits (kwarezimal)                                  ,200 ml water,water,,
+258,Lenten biscuits (kwarezimal)                                  ,2 tbsp honey,honey,animal product,64.0
+259,Lenten biscuits (kwarezimal)                                  ,2 tbsp chopped roasted almonds,sea_almonds,,
+260,Sweet chestnut soup                                  ,250 g dried chestnuts,chestnut,,
+261,Sweet chestnut soup                                  ,1 tbsp cocoa powder,cocoa,plant derivative,1488.0
+262,Sweet chestnut soup                                  ,2–3 tbsp sugar,sugar,,
+263,Sweet chestnut soup                                  ,mandarin peel,mandarin,fruit,590.0
+264,Sweet chestnut soup                                  ,¼ tsp mixed spice,five_spices,,
+265,Sweet chestnut soup                                  ,12 whole cloves,clove,spice,1320.0
+266,Sweet chestnut soup                                  ,500 ml water,water,,
+267,Maltese traditional biscuit with sesame seeds                                  ,250 g plain flour,corn_flour,,
+268,Maltese traditional biscuit with sesame seeds                                  ,2½ tsp baking powder,Qing_Pi,,
+269,Maltese traditional biscuit with sesame seeds                                  ,pinch of ground cloves,clove,spice,1320.0
+270,Maltese traditional biscuit with sesame seeds                                  ,pinch of ground aniseed,anise,spice,707.0
+271,Maltese traditional biscuit with sesame seeds                                  ,4 tbsp olive oil,olive_oil,plant derivative,998.0
+272,Maltese traditional biscuit with sesame seeds                                  ,75 g sugar,sugar,,
+273,Maltese traditional biscuit with sesame seeds                                  ,grated lemon rind,lemon,fruit,1132.0
+274,Maltese traditional biscuit with sesame seeds                                  ,1 egg,egg,animal product,848.0
+275,Maltese traditional biscuit with sesame seeds                                  ,3 tbsp water,water,,
+276,Maltese traditional biscuit with sesame seeds                                  ,2 tbsp sesame seeds,sesame,,
+277,Food Safari's timpana                                  ,75 g butter ,butter,dairy,298.0
+278,Food Safari's timpana                                  ,"250 g onions, finely diced ",onion,vegetable,1447.0
+279,Food Safari's timpana                                  ,"2 garlic cloves, crushed ",garlic,vegetable,136.0
+280,Food Safari's timpana                                  ,"150 g bacon, finely diced ",bacon,meat,19.0
+281,Food Safari's timpana                                  ,150 g minced pork,pork,meat,417.0
+282,Food Safari's timpana                                  ,150 g minced beef,beef,meat,248.0
+283,Food Safari's timpana                                  ,"150 g chicken livers, diced (optional) ",chicken,meat,1338.0
+284,Food Safari's timpana                                  ,250 ml chicken or beef stock ,chicken,meat,1338.0
+285,Food Safari's timpana                                  ,100 g tomato paste ,tomato,vegetable,1240.0
+286,Food Safari's timpana                                  ,125 ml tomato puree ,tomato,vegetable,1240.0
+287,Food Safari's timpana                                  ,250 g macaroni or penne ,macaroni,cereal/crop,638.0
+288,Food Safari's timpana                                  ,"75 g parmesan, grated ",parmesan,dairy,749.0
+289,Food Safari's timpana                                  ,"75 g tasty cheese, grated ",blue_cheese,dairy,994.0
+290,Food Safari's timpana                                  ,"4 eggs, beaten ",egg,animal product,848.0
+291,Food Safari's timpana                                  ,salt and pepper ,pepper,spice,1471.0
+292,Food Safari's timpana                                  ,250 g puff pastry sheets,puff_pastry,,
+293,Food Safari's timpana                                  ,1 egg,egg,animal product,848.0
+294,Food Safari's timpana                                  ,2½ tbsp milk,milk,dairy,396.0
+295,Beef olives (bragioli)                                  ,3 tbsp olive oil ,olive_oil,plant derivative,998.0
+296,Beef olives (bragioli)                                  ,"2 large onions, diced ",onion,vegetable,1447.0
+297,Beef olives (bragioli)                                  ,"5 garlic cloves, crushed ",garlic,vegetable,136.0
+298,Beef olives (bragioli)                                  ,400 g tin tomatoes ,tomato,vegetable,1240.0
+299,Beef olives (bragioli)                                  ,1 cup flat-leaf parsley leaves ,parsley,herb,251.0
+300,Beef olives (bragioli)                                  ,½ cup basil leaves,green_leaves,,
+301,Beef olives (bragioli)                                  ,2 bay leaves,green_leaves,,
+302,Beef olives (bragioli)                                  ,250 ml red wine ,red_wine,alcoholic beverage,619.0
+303,Beef olives (bragioli)                                  ,500 ml water ,water,,
+304,Beef olives (bragioli)                                  ,salt and pepper ,pepper,spice,1471.0
+305,Beef olives (bragioli)                                  ,6 thin slices of topside or round steak ,steak,,
+306,Beef olives (bragioli)                                  ,400 g minced veal ,veal,meat,652.0
+307,Beef olives (bragioli)                                  ,"2 bacon rashers, diced ",bacon,meat,19.0
+308,Beef olives (bragioli)                                  ,"2 garlic cloves, crushed ",garlic,vegetable,136.0
+309,Beef olives (bragioli)                                  ,½ cup finely chopped flat-leaf parsley,parsley,herb,251.0
+310,Beef olives (bragioli)                                  ,1 tbsp finely chopped oregano,oregano,herb,1382.0
+311,Beef olives (bragioli)                                  ,"1 spring onion, finely sliced ",onion,vegetable,1447.0
+312,Beef olives (bragioli)                                  ,½ cup grated gbejniet (Maltese cheese),grated_cheese,,
+313,Beef olives (bragioli)                                  ,"2 eggs, beaten",egg,animal product,848.0
+314,Beef olives (bragioli)                                  ,salt and pepper,pepper,spice,1471.0
+315,Bread and butter pudding (puddina)                                  ,1 day-old loaf of bread,bread,cereal/crop,105.0
+316,Bread and butter pudding (puddina)                                  ,370 g (1⅓ cup) sugar ,sugar,,
+317,Bread and butter pudding (puddina)                                  ,2 tbsp custard powder ,mustard,plant derivative,1140.0
+318,Bread and butter pudding (puddina)                                  ,2 tbsp cornflour ,flour,,
+319,Bread and butter pudding (puddina)                                  ,35 g (⅓ cup) cocoa ,cocoa,plant derivative,1488.0
+320,Bread and butter pudding (puddina)                                  ,"2 eggs, beaten ",egg,animal product,848.0
+321,Bread and butter pudding (puddina)                                  ,"500 g mixed dried fruit such as sultanas, raisins, currants and chopped peel",dried_grapes,,
+322,Bread and butter pudding (puddina)                                  ,250 g almonds ,almond,nut/seed/pulse,18.0
+323,Bread and butter pudding (puddina)                                  ,"250 g glacé cherries, halved ",berries,,
+324,Bread and butter pudding (puddina)                                  ,vanilla extract ,vanilla,spice,1399.0
+325,Bread and butter pudding (puddina)                                  ,"80 ml whisky, brandy or sherry",whisky,,
+326,Braised potatoes with Maltese sausage                                  ,olive oil,olive_oil,plant derivative,998.0
+327,Braised potatoes with Maltese sausage                                  ,"5 French shallots, sliced",shallots,,
+328,Braised potatoes with Maltese sausage                                  ,"1 head garlic, cut in half",garlic,vegetable,136.0
+329,Braised potatoes with Maltese sausage                                  ,4 sprigs of thyme ,thyme,herb,675.0
+330,Braised potatoes with Maltese sausage                                  ,10 white peppercorns,white_pepper,,
+331,Braised potatoes with Maltese sausage                                  ,"1 bay leaf, torn",green_leaves,,
+332,Braised potatoes with Maltese sausage                                  ,200 ml sherry vinegar,sherry_vinegar,,
+333,Braised potatoes with Maltese sausage                                  ,100 ml port,porto,,
+334,Braised potatoes with Maltese sausage                                  ,100 ml white wine,white_wine,alcoholic beverage,1428.0
+335,Braised potatoes with Maltese sausage                                  ,1 litre reduced chicken stock,chicken,meat,1338.0
+336,Braised potatoes with Maltese sausage                                  ,2 large washed Sebago potatoes,potato,vegetable,385.0
+337,Braised potatoes with Maltese sausage                                  ,200 g Maltese pork sausage meat (see Note),sausage,,
+338,Braised potatoes with Maltese sausage                                  ,10 g baby rocket leaves,rocket,,
+339,Braised potatoes with Maltese sausage                                  ,100 ml olive oil,olive_oil,plant derivative,998.0
+340,Braised potatoes with Maltese sausage                                  ,"10 French shallots, diced",shallots,,
+341,Braised potatoes with Maltese sausage                                  ,½ head garlic,garlic,vegetable,136.0
+342,Braised potatoes with Maltese sausage                                  ,"1 bay leaf, torn",green_leaves,,
+343,Braised potatoes with Maltese sausage                                  ,2 sprigs thyme ,thyme,herb,675.0
+344,Braised potatoes with Maltese sausage                                  ,100 ml port,porto,,
+345,Braised potatoes with Maltese sausage                                  ,100 ml brandy,bran,,
+346,Braised potatoes with Maltese sausage                                  ,200 ml sherry vinegar,sherry_vinegar,,
+347,Braised potatoes with Maltese sausage                                  ,20 ml truffle oil,truffle_oil,,
+348,Braised potatoes with Maltese sausage                                  ,1 tbsp truffle paste,truffle,vegetable,1469.0
+349,Rabbit stew (stuffat tal-fenek)                                  ,1 rabbit (1.5–2 kg) ,rabbit,,
+350,Rabbit stew (stuffat tal-fenek)                                  ,350 ml red wine ,red_wine,alcoholic beverage,619.0
+351,Rabbit stew (stuffat tal-fenek)                                  ,6 bay leaves ,green_leaves,,
+352,Rabbit stew (stuffat tal-fenek)                                  ,"6 garlic cloves, 4 peeled and left whole, 2 finely chopped ",garlic,vegetable,136.0
+353,Rabbit stew (stuffat tal-fenek)                                  ,80 ml extra virgin olive oil ,olive_oil,plant derivative,998.0
+354,Rabbit stew (stuffat tal-fenek)                                  ,salt and pepper,pepper,spice,1471.0
+355,Rabbit stew (stuffat tal-fenek)                                  ,"1 onion, finely diced ",onion,vegetable,1447.0
+356,Rabbit stew (stuffat tal-fenek)                                  ,3 tbsp tomato paste ,tomato,vegetable,1240.0
+357,Rabbit stew (stuffat tal-fenek)                                  ,1.5 litres tomato puree ,tomato,vegetable,1240.0
+358,Rabbit stew (stuffat tal-fenek)                                  ,250 ml water ,water,,
+359,Rabbit stew (stuffat tal-fenek)                                  ,"3–4 potatoes, peeled and cut into chunks",potato,vegetable,385.0
+360,Open sandwich (hobz biz-zejt)                                  ,"slices of dense, crusty bread ",herbs_of_provence,,
+361,Open sandwich (hobz biz-zejt)                                  ,kunserva (Maltese tomato paste) ,erva_doce,,
+362,Open sandwich (hobz biz-zejt)                                  ,capers ,caper,,
+363,Open sandwich (hobz biz-zejt)                                  ,"white anchovies or tinned tuna in oil, drained ",anchova,,
+364,Open sandwich (hobz biz-zejt)                                  ,sea salt and freshly ground black pepper ,pepper,spice,1471.0
+365,Open sandwich (hobz biz-zejt)                                  ,flat-leaf parsley leaves ,parsley,herb,251.0
+366,Open sandwich (hobz biz-zejt)                                  ,extra virgin olive oil,olive_oil,plant derivative,998.0
+367,Widow's soup (soppa tal-armla)                                  ,1 tbsp butter,butter,dairy,298.0
+368,Widow's soup (soppa tal-armla)                                  ,1 tbsp olive oil ,olive_oil,plant derivative,998.0
+369,Widow's soup (soppa tal-armla)                                  ,"1 onion, diced ",onion,vegetable,1447.0
+370,Widow's soup (soppa tal-armla)                                  ,"3–4 garlic cloves, crushed ",garlic,vegetable,136.0
+371,Widow's soup (soppa tal-armla)                                  ,⅔ cup chopped parsley ,parsley,herb,251.0
+372,Widow's soup (soppa tal-armla)                                  ,"2 potatoes, peeled and chopped ",potato,vegetable,385.0
+373,Widow's soup (soppa tal-armla)                                  ,"2 carrots, peeled and chopped ",carrot,vegetable,1216.0
+374,Widow's soup (soppa tal-armla)                                  ,"1 kohlrabi, peeled and chopped ",kohlrabi,vegetable,1232.0
+375,Widow's soup (soppa tal-armla)                                  ,"2 celery stalks, sliced ",celery_salt,,
+376,Widow's soup (soppa tal-armla)                                  ,1 cup podded broad beans (fresh or frozen),broad_bean,,
+377,Widow's soup (soppa tal-armla)                                  ,1 cup podded peas (fresh or frozen) ,pea,vegetable,1088.0
+378,Widow's soup (soppa tal-armla)                                  ,"½ large or 1 small cauliflower, cut into bite-sized pieces ",cauliflower,vegetable,1370.0
+379,Widow's soup (soppa tal-armla)                                  ,1½ tbsp tomato paste ,tomato,vegetable,1240.0
+380,Widow's soup (soppa tal-armla)                                  ,vegetable or chicken stock ,vegetable_broth,,
+381,Widow's soup (soppa tal-armla)                                  ,salt and pepper ,pepper,spice,1471.0
+382,Widow's soup (soppa tal-armla)                                  ,6 soft gbejniet (small Maltese cheeses),soft_bread,,
