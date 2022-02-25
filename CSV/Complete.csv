@@ -1,0 +1,1320 @@
+,FirstIng,FirstCategory,SecondIng,SecondCategory,CommonRec.n,CommonComp.n
+0,corn flour,,salt,,0.1,0.0
+1,corn flour,,water,,0.1,0.0
+2,corn flour,,olive oil,plant derivative,0.1,0.0
+3,corn flour,,onion,vegetable,0.1,0.0
+4,corn flour,,garlic,vegetable,0.2,0.0
+5,corn flour,,green pepper,,0.1,0.0
+6,corn flour,,parsley,herb,0.1,0.0
+7,corn flour,,pepper,spice,0.1,0.0
+8,corn flour,,tomato,vegetable,0.1,0.0
+9,corn flour,,anise,spice,0.2,0.0
+10,corn flour,,cinnamon,spice,0.2,0.0
+11,corn flour,,green leaves,,0.1,0.0
+12,corn flour,,vegetable broth,,0.1,0.0
+13,corn flour,,curry,,0.1,0.0
+14,corn flour,,turmeric,spice,0.1,0.0
+15,corn flour,,paprika,,0.1,0.0
+16,corn flour,,cumin,spice,0.1,0.0
+17,corn flour,,chicken,meat,0.1,0.0
+18,corn flour,,potato,vegetable,0.1,0.0
+19,corn flour,,pea,vegetable,0.1,0.0
+20,corn flour,,red wine,alcoholic beverage,0.1,0.0
+21,corn flour,,clove,spice,0.2,0.0
+22,corn flour,,salted butter,,0.1,0.0
+23,corn flour,,dried grapes,,0.1,0.0
+24,corn flour,,sea almonds,,0.1,0.0
+25,corn flour,,soy sauce,plant derivative,0.1,0.0
+26,corn flour,,brown sugar,,0.1,0.0
+27,corn flour,,albahaca,,0.1,0.0
+28,corn flour,,Jie Mo,,0.1,0.0
+29,corn flour,,mustard,plant derivative,0.1,0.0
+30,corn flour,,honey,animal product,0.1,0.0
+31,salt,,water,,0.2,0.0
+32,salt,,butter,dairy,0.1,0.0
+33,salt,,olive oil,plant derivative,0.2,0.0
+34,salt,,onion,vegetable,0.1,0.0
+35,salt,,garlic,vegetable,0.2,0.0
+36,salt,,zucchini,vegetable,0.1,0.0
+37,salt,,pumpkin,vegetable,0.1,0.0
+38,salt,,green pepper,,0.2,0.0
+39,salt,,parsley,herb,0.2,0.0
+40,salt,,mint,herb,0.1,0.0
+41,salt,,egg,animal product,0.1,0.0
+42,salt,,ricotta,,0.2,0.0
+43,salt,,pepper,spice,0.2,0.0
+44,salt,,tomato,vegetable,0.1,0.0
+45,salt,,anchova,,0.1,0.0
+46,salt,,black olive,,0.1,0.0
+47,salt,,red onion,,0.1,0.0
+48,salt,,caper,,0.1,0.0
+49,salt,,anise,spice,0.2,0.0
+50,salt,,cinnamon,spice,0.2,0.0
+51,salt,,green leaves,,0.1,0.0
+52,salt,,thyme,herb,0.1,0.0
+53,salt,,white pepper,,0.1,0.0
+54,salt,,lemon,fruit,0.1,0.0
+55,salt,,orange,fruit,0.1,0.0
+56,salt,,fresh cheese,,0.1,0.0
+57,salt,,clove,spice,0.1,0.0
+58,salt,,salted butter,,0.1,0.0
+59,salt,,dried grapes,,0.1,0.0
+60,salt,,sea almonds,,0.1,0.0
+61,salt,,soy sauce,plant derivative,0.1,0.0
+62,salt,,brown sugar,,0.1,0.0
+63,salt,,albahaca,,0.1,0.0
+64,salt,,Jie Mo,,0.1,0.0
+65,salt,,mustard,plant derivative,0.1,0.0
+66,salt,,honey,animal product,0.1,0.0
+67,water,,butter,dairy,0.1,0.0
+68,water,,olive oil,plant derivative,0.6,0.0
+69,water,,onion,vegetable,0.3,0.0
+70,water,,garlic,vegetable,0.4,0.0
+71,water,,zucchini,vegetable,0.1,0.0
+72,water,,pumpkin,vegetable,0.2,0.0
+73,water,,green pepper,,0.2,0.0
+74,water,,parsley,herb,0.2,0.0
+75,water,,mint,herb,0.1,0.0
+76,water,,egg,animal product,0.3,0.0
+77,water,,ricotta,,0.1,0.0
+78,water,,pepper,spice,0.3,0.0
+79,water,,tomato,vegetable,0.3,0.0
+80,water,,black olive,,0.1,0.0
+81,water,,red onion,,0.1,0.0
+82,water,,caper,,0.1,0.0
+83,water,,anise,spice,0.3,0.0
+84,water,,cinnamon,spice,0.2,0.0
+85,water,,green leaves,,0.2,0.0
+86,water,,lemon,fruit,0.3,0.0
+87,water,,orange,fruit,0.2,0.0
+88,water,,fresh cheese,,0.1,0.0
+89,water,,potato,vegetable,0.1,0.0
+90,water,,red wine,alcoholic beverage,0.2,0.0
+91,water,,clove,spice,0.5,0.0
+92,water,,Qing Pi,,0.1,0.0
+93,water,,salted butter,,0.1,0.0
+94,water,,bacon,meat,0.1,0.0
+95,water,,sugar,,0.3,0.0
+96,water,,dried grapes,,0.1,0.0
+97,water,,grated cheese,,0.1,0.0
+98,water,,five spices,,0.3,0.0
+99,water,,sea almonds,,0.2,0.0
+100,water,,soy sauce,plant derivative,0.1,0.0
+101,water,,brown sugar,,0.1,0.0
+102,water,,albahaca,,0.1,0.0
+103,water,,Jie Mo,,0.1,0.0
+104,water,,mustard,plant derivative,0.1,0.0
+105,water,,honey,animal product,0.2,0.0
+106,water,,rice,cereal/crop,0.1,0.0
+107,water,,anchovy,,0.1,0.0
+108,water,,tuna,fish/seafood,0.1,0.0
+109,water,,oregano,herb,0.1,0.0
+110,water,,semolina,,0.1,0.0
+111,water,,margarine,,0.1,0.0
+112,water,,raclette,,0.1,0.0
+113,water,,mandarin,fruit,0.2,0.0
+114,water,,eggplant,,0.1,0.0
+115,water,,celery salt,,0.1,0.0
+116,water,,olive,fruit,0.1,0.0
+117,water,,cocoa,plant derivative,0.2,0.0
+118,water,,sesame,,0.1,0.0
+119,water,,steak,,0.1,0.0
+120,water,,veal,meat,0.1,0.0
+121,butter,dairy,olive oil,plant derivative,0.1,0.008695652173913044
+122,butter,dairy,onion,vegetable,0.1,0.13043478260869565
+123,butter,dairy,garlic,vegetable,0.1,0.034782608695652174
+124,butter,dairy,zucchini,vegetable,0.1,0.0
+125,butter,dairy,pumpkin,vegetable,0.1,0.043478260869565216
+126,butter,dairy,green pepper,,0.1,0.0
+127,butter,dairy,parsley,herb,0.1,0.05217391304347826
+128,butter,dairy,mint,herb,0.1,0.06956521739130435
+129,butter,dairy,egg,animal product,0.1,0.24347826086956523
+130,butter,dairy,ricotta,,0.1,0.0
+131,butter,dairy,pepper,spice,0.1,0.043478260869565216
+132,olive oil,plant derivative,onion,vegetable,0.6,0.017391304347826087
+133,olive oil,plant derivative,garlic,vegetable,1.0,0.0
+134,olive oil,plant derivative,zucchini,vegetable,0.1,0.0
+135,olive oil,plant derivative,pumpkin,vegetable,0.2,0.0
+136,olive oil,plant derivative,green pepper,,0.1,0.0
+137,olive oil,plant derivative,parsley,herb,0.8,0.0
+138,olive oil,plant derivative,mint,herb,0.1,0.0
+139,olive oil,plant derivative,egg,animal product,0.4,0.0
+140,olive oil,plant derivative,ricotta,,0.3,0.0
+141,olive oil,plant derivative,pepper,spice,0.6,0.0
+142,olive oil,plant derivative,tomato,vegetable,0.8,0.008695652173913044
+143,olive oil,plant derivative,anchova,,0.2,0.0
+144,olive oil,plant derivative,black olive,,0.4,0.0
+145,olive oil,plant derivative,red onion,,0.3,0.0
+146,olive oil,plant derivative,caper,,0.5,0.0
+147,olive oil,plant derivative,anise,spice,0.3,0.0
+148,olive oil,plant derivative,cinnamon,spice,0.4,0.0
+149,olive oil,plant derivative,green leaves,,0.7,0.0
+150,olive oil,plant derivative,thyme,herb,0.2,0.0
+151,olive oil,plant derivative,white pepper,,0.2,0.0
+152,olive oil,plant derivative,lemon,fruit,0.8,0.017391304347826087
+153,olive oil,plant derivative,orange,fruit,0.2,0.017391304347826087
+154,olive oil,plant derivative,fresh cheese,,0.2,0.0
+155,olive oil,plant derivative,rabbit,,0.1,0.0
+156,olive oil,plant derivative,vegetable broth,,0.2,0.0
+157,olive oil,plant derivative,curry,,0.2,0.0
+158,olive oil,plant derivative,turmeric,spice,0.1,0.0
+159,olive oil,plant derivative,paprika,,0.1,0.0
+160,olive oil,plant derivative,cumin,spice,0.1,0.0
+161,olive oil,plant derivative,chicken,meat,0.4,0.017391304347826087
+162,olive oil,plant derivative,potato,vegetable,0.4,0.008695652173913044
+163,olive oil,plant derivative,pea,vegetable,0.2,0.0
+164,olive oil,plant derivative,red wine,alcoholic beverage,0.2,0.017391304347826087
+165,olive oil,plant derivative,clove,spice,0.3,0.008695652173913044
+166,olive oil,plant derivative,pizza dough,,0.1,0.0
+167,olive oil,plant derivative,Qing Pi,,0.2,0.0
+168,olive oil,plant derivative,bacon,meat,0.1,0.008695652173913044
+169,olive oil,plant derivative,beef,meat,0.1,0.017391304347826087
+170,olive oil,plant derivative,pork,meat,0.1,0.008695652173913044
+171,olive oil,plant derivative,nutmeg,spice,0.1,0.0
+172,olive oil,plant derivative,pasta,,0.1,0.0
+173,olive oil,plant derivative,parmesan,dairy,0.1,0.0
+174,olive oil,plant derivative,puff pastry,,0.1,0.0
+175,olive oil,plant derivative,milk,dairy,0.1,0.008695652173913044
+176,olive oil,plant derivative,schalotte,,0.1,0.0
+177,olive oil,plant derivative,broad bean,,0.1,0.0
+178,olive oil,plant derivative,chilli,,0.1,0.0
+179,olive oil,plant derivative,carrot,vegetable,0.3,0.0
+180,olive oil,plant derivative,almond milk,,0.1,0.0
+181,olive oil,plant derivative,sugar,,0.3,0.0
+182,olive oil,plant derivative,vanilla,spice,0.1,0.0
+183,olive oil,plant derivative,apple,fruit,0.2,0.017391304347826087
+184,olive oil,plant derivative,dried grapes,,0.1,0.0
+185,olive oil,plant derivative,grated cheese,,0.1,0.0
+186,olive oil,plant derivative,raisin,fruit,0.1,0.0
+187,olive oil,plant derivative,five spices,,0.2,0.0
+188,olive oil,plant derivative,whipped cream,,0.1,0.0
+189,olive oil,plant derivative,sea almonds,,0.1,0.0
+190,olive oil,plant derivative,honey,animal product,0.1,0.017391304347826087
+191,olive oil,plant derivative,white wine,alcoholic beverage,0.2,0.017391304347826087
+192,olive oil,plant derivative,rosemary,herb,0.1,0.0
+193,olive oil,plant derivative,mushroom,vegetable,0.1,0.008695652173913044
+194,olive oil,plant derivative,rice,cereal/crop,0.2,0.0
+195,olive oil,plant derivative,rye flour,cereal/crop,0.1,0.0
+196,olive oil,plant derivative,wheat flour,,0.1,0.0
+197,olive oil,plant derivative,joghurt,,0.1,0.0
+198,olive oil,plant derivative,anchovy,,0.2,0.0
+199,olive oil,plant derivative,tuna,fish/seafood,0.2,0.0
+200,olive oil,plant derivative,oregano,herb,0.1,0.0
+201,olive oil,plant derivative,fish,fish/seafood,0.1,0.0
+202,olive oil,plant derivative,eggplant,,0.1,0.0
+203,olive oil,plant derivative,celery salt,,0.2,0.0
+204,olive oil,plant derivative,olive,fruit,0.1,0.02608695652173913
+205,olive oil,plant derivative,cocoa,plant derivative,0.1,0.008695652173913044
+206,olive oil,plant derivative,sesame,,0.1,0.0
+207,olive oil,plant derivative,shallots,,0.1,0.0
+208,olive oil,plant derivative,sherry vinegar,,0.1,0.0
+209,olive oil,plant derivative,porto,,0.1,0.0
+210,olive oil,plant derivative,sausage,,0.1,0.0
+211,olive oil,plant derivative,rocket,,0.1,0.0
+212,olive oil,plant derivative,bran,,0.1,0.0
+213,olive oil,plant derivative,truffle oil,,0.1,0.0
+214,olive oil,plant derivative,truffle,vegetable,0.1,0.0
+215,olive oil,plant derivative,erva doce,,0.1,0.0
+216,olive oil,plant derivative,kohlrabi,vegetable,0.1,0.0
+217,olive oil,plant derivative,cauliflower,vegetable,0.1,0.0
+218,olive oil,plant derivative,soft bread,,0.1,0.0
+219,onion,vegetable,garlic,vegetable,0.8,0.1391304347826087
+220,onion,vegetable,zucchini,vegetable,0.1,0.0
+221,onion,vegetable,pumpkin,vegetable,0.1,0.043478260869565216
+222,onion,vegetable,green pepper,,0.1,0.0
+223,onion,vegetable,parsley,herb,0.5,0.043478260869565216
+224,onion,vegetable,mint,herb,0.1,0.008695652173913044
+225,onion,vegetable,egg,animal product,0.4,0.11304347826086956
+226,onion,vegetable,ricotta,,0.1,0.0
+227,onion,vegetable,pepper,spice,0.6,0.0
+228,onion,vegetable,tomato,vegetable,0.7,0.17391304347826086
+229,onion,vegetable,caper,,0.1,0.0
+230,onion,vegetable,anise,spice,0.1,0.0
+231,onion,vegetable,cinnamon,spice,0.1,0.034782608695652174
+232,onion,vegetable,green leaves,,0.5,0.0
+233,onion,vegetable,lemon,fruit,0.1,0.06086956521739131
+234,onion,vegetable,rabbit,,0.1,0.0
+235,onion,vegetable,vegetable broth,,0.2,0.0
+236,onion,vegetable,curry,,0.2,0.0
+237,onion,vegetable,turmeric,spice,0.1,0.0
+238,onion,vegetable,paprika,,0.1,0.0
+239,onion,vegetable,cumin,spice,0.1,0.0
+240,onion,vegetable,chicken,meat,0.3,0.17391304347826086
+241,onion,vegetable,potato,vegetable,0.3,0.1391304347826087
+242,onion,vegetable,pea,vegetable,0.2,0.10434782608695652
+243,onion,vegetable,red wine,alcoholic beverage,0.3,0.13043478260869565
+244,onion,vegetable,clove,spice,0.1,0.02608695652173913
+245,onion,vegetable,bacon,meat,0.3,0.1565217391304348
+246,onion,vegetable,beef,meat,0.2,0.2608695652173913
+247,onion,vegetable,pork,meat,0.2,0.1565217391304348
+248,onion,vegetable,nutmeg,spice,0.1,0.0
+249,onion,vegetable,pasta,,0.1,0.0
+250,onion,vegetable,parmesan,dairy,0.2,0.0
+251,onion,vegetable,puff pastry,,0.2,0.0
+252,onion,vegetable,milk,dairy,0.2,0.19130434782608696
+253,onion,vegetable,schalotte,,0.1,0.0
+254,onion,vegetable,broad bean,,0.1,0.0
+255,onion,vegetable,carrot,vegetable,0.2,0.05217391304347826
+256,onion,vegetable,grated cheese,,0.1,0.0
+257,onion,vegetable,white wine,alcoholic beverage,0.1,0.16521739130434782
+258,onion,vegetable,rosemary,herb,0.1,0.008695652173913044
+259,onion,vegetable,mushroom,vegetable,0.1,0.13043478260869565
+260,onion,vegetable,rice,cereal/crop,0.1,0.1391304347826087
+261,onion,vegetable,oregano,herb,0.1,0.0
+262,onion,vegetable,celery salt,,0.1,0.0
+263,onion,vegetable,macaroni,cereal/crop,0.1,0.0
+264,onion,vegetable,blue cheese,dairy,0.1,0.17391304347826086
+265,onion,vegetable,steak,,0.1,0.0
+266,onion,vegetable,veal,meat,0.1,0.0782608695652174
+267,onion,vegetable,kohlrabi,vegetable,0.1,0.05217391304347826
+268,onion,vegetable,cauliflower,vegetable,0.1,0.05217391304347826
+269,onion,vegetable,soft bread,,0.1,0.0
+270,garlic,vegetable,zucchini,vegetable,0.1,0.0
+271,garlic,vegetable,pumpkin,vegetable,0.1,0.008695652173913044
+272,garlic,vegetable,green pepper,,0.2,0.0
+273,garlic,vegetable,parsley,herb,0.8,0.017391304347826087
+274,garlic,vegetable,mint,herb,0.1,0.017391304347826087
+275,garlic,vegetable,egg,animal product,0.5,0.034782608695652174
+276,garlic,vegetable,ricotta,,0.1,0.0
+277,garlic,vegetable,pepper,spice,0.6,0.008695652173913044
+278,garlic,vegetable,tomato,vegetable,0.8,0.034782608695652174
+279,garlic,vegetable,black olive,,0.1,0.0
+280,garlic,vegetable,caper,,0.1,0.0
+281,garlic,vegetable,anise,spice,0.2,0.0
+282,garlic,vegetable,cinnamon,spice,0.2,0.008695652173913044
+283,garlic,vegetable,green leaves,,0.7,0.0
+284,garlic,vegetable,thyme,herb,0.1,0.0
+285,garlic,vegetable,white pepper,,0.1,0.0
+286,garlic,vegetable,lemon,fruit,0.4,0.008695652173913044
+287,garlic,vegetable,rabbit,,0.1,0.0
+288,garlic,vegetable,vegetable broth,,0.2,0.0
+289,garlic,vegetable,curry,,0.2,0.0
+290,garlic,vegetable,turmeric,spice,0.1,0.0
+291,garlic,vegetable,paprika,,0.1,0.0
+292,garlic,vegetable,cumin,spice,0.1,0.0
+293,garlic,vegetable,chicken,meat,0.6,0.06086956521739131
+294,garlic,vegetable,potato,vegetable,0.4,0.043478260869565216
+295,garlic,vegetable,pea,vegetable,0.2,0.034782608695652174
+296,garlic,vegetable,red wine,alcoholic beverage,0.3,0.043478260869565216
+297,garlic,vegetable,clove,spice,0.2,0.008695652173913044
+298,garlic,vegetable,salted butter,,0.1,0.0
+299,garlic,vegetable,bacon,meat,0.3,0.043478260869565216
+300,garlic,vegetable,beef,meat,0.2,0.0782608695652174
+301,garlic,vegetable,pork,meat,0.2,0.043478260869565216
+302,garlic,vegetable,nutmeg,spice,0.1,0.008695652173913044
+303,garlic,vegetable,pasta,,0.1,0.0
+304,garlic,vegetable,parmesan,dairy,0.2,0.0
+305,garlic,vegetable,puff pastry,,0.2,0.0
+306,garlic,vegetable,milk,dairy,0.3,0.06086956521739131
+307,garlic,vegetable,schalotte,,0.1,0.0
+308,garlic,vegetable,broad bean,,0.1,0.0
+309,garlic,vegetable,chilli,,0.1,0.0
+310,garlic,vegetable,carrot,vegetable,0.3,0.017391304347826087
+311,garlic,vegetable,dried grapes,,0.1,0.0
+312,garlic,vegetable,grated cheese,,0.1,0.0
+313,garlic,vegetable,sea almonds,,0.1,0.0
+314,garlic,vegetable,soy sauce,plant derivative,0.1,0.0
+315,garlic,vegetable,brown sugar,,0.1,0.0
+316,garlic,vegetable,albahaca,,0.1,0.0
+317,garlic,vegetable,Jie Mo,,0.1,0.0
+318,garlic,vegetable,mustard,plant derivative,0.1,0.02608695652173913
+319,garlic,vegetable,honey,animal product,0.1,0.008695652173913044
+320,garlic,vegetable,white wine,alcoholic beverage,0.2,0.043478260869565216
+321,garlic,vegetable,rosemary,herb,0.1,0.0
+322,garlic,vegetable,mushroom,vegetable,0.1,0.034782608695652174
+323,garlic,vegetable,rice,cereal/crop,0.2,0.043478260869565216
+324,garlic,vegetable,anchovy,,0.1,0.0
+325,garlic,vegetable,tuna,fish/seafood,0.1,0.034782608695652174
+326,garlic,vegetable,oregano,herb,0.2,0.0
+327,garlic,vegetable,fish,fish/seafood,0.1,0.017391304347826087
+328,garlic,vegetable,aromatic herbs,,0.1,0.0
+329,garlic,vegetable,celery salt,,0.1,0.0
+330,garlic,vegetable,macaroni,cereal/crop,0.1,0.0
+331,garlic,vegetable,blue cheese,dairy,0.1,0.05217391304347826
+332,garlic,vegetable,steak,,0.1,0.0
+333,garlic,vegetable,veal,meat,0.1,0.017391304347826087
+334,garlic,vegetable,shallots,,0.1,0.0
+335,garlic,vegetable,sherry vinegar,,0.1,0.0
+336,garlic,vegetable,porto,,0.1,0.0
+337,garlic,vegetable,sausage,,0.1,0.0
+338,garlic,vegetable,rocket,,0.1,0.0
+339,garlic,vegetable,bran,,0.1,0.0
+340,garlic,vegetable,truffle oil,,0.1,0.0
+341,garlic,vegetable,truffle,vegetable,0.1,0.02608695652173913
+342,garlic,vegetable,kohlrabi,vegetable,0.1,0.034782608695652174
+343,garlic,vegetable,cauliflower,vegetable,0.1,0.034782608695652174
+344,garlic,vegetable,soft bread,,0.1,0.0
+345,zucchini,vegetable,pumpkin,vegetable,0.1,0.0
+346,zucchini,vegetable,green pepper,,0.1,0.0
+347,zucchini,vegetable,parsley,herb,0.1,0.0
+348,zucchini,vegetable,mint,herb,0.1,0.0
+349,zucchini,vegetable,egg,animal product,0.1,0.0
+350,zucchini,vegetable,ricotta,,0.1,0.0
+351,zucchini,vegetable,pepper,spice,0.1,0.0
+352,pumpkin,vegetable,green pepper,,0.1,0.0
+353,pumpkin,vegetable,parsley,herb,0.1,0.017391304347826087
+354,pumpkin,vegetable,mint,herb,0.1,0.017391304347826087
+355,pumpkin,vegetable,egg,animal product,0.1,0.06086956521739131
+356,pumpkin,vegetable,ricotta,,0.1,0.0
+357,pumpkin,vegetable,pepper,spice,0.1,0.0
+358,pumpkin,vegetable,black olive,,0.1,0.0
+359,pumpkin,vegetable,red onion,,0.1,0.0
+360,pumpkin,vegetable,fresh cheese,,0.1,0.0
+361,pumpkin,vegetable,rice,cereal/crop,0.1,0.043478260869565216
+362,pumpkin,vegetable,anchovy,,0.1,0.0
+363,pumpkin,vegetable,tuna,fish/seafood,0.1,0.06956521739130435
+364,green pepper,,parsley,herb,0.1,0.0
+365,green pepper,,mint,herb,0.1,0.0
+366,green pepper,,egg,animal product,0.1,0.0
+367,green pepper,,ricotta,,0.1,0.0
+368,green pepper,,pepper,spice,0.1,0.0
+369,green pepper,,anise,spice,0.1,0.0
+370,green pepper,,cinnamon,spice,0.1,0.0
+371,green pepper,,clove,spice,0.1,0.0
+372,green pepper,,salted butter,,0.1,0.0
+373,green pepper,,dried grapes,,0.1,0.0
+374,green pepper,,sea almonds,,0.1,0.0
+375,green pepper,,soy sauce,plant derivative,0.1,0.0
+376,green pepper,,brown sugar,,0.1,0.0
+377,green pepper,,albahaca,,0.1,0.0
+378,green pepper,,Jie Mo,,0.1,0.0
+379,green pepper,,mustard,plant derivative,0.1,0.0
+380,green pepper,,honey,animal product,0.1,0.0
+381,parsley,herb,mint,herb,0.1,0.08695652173913043
+382,parsley,herb,egg,animal product,0.4,0.043478260869565216
+383,parsley,herb,ricotta,,0.2,0.0
+384,parsley,herb,pepper,spice,0.6,0.08695652173913043
+385,parsley,herb,tomato,vegetable,0.6,0.08695652173913043
+386,parsley,herb,anchova,,0.2,0.0
+387,parsley,herb,black olive,,0.2,0.0
+388,parsley,herb,red onion,,0.1,0.0
+389,parsley,herb,caper,,0.3,0.0
+390,parsley,herb,anise,spice,0.2,0.034782608695652174
+391,parsley,herb,cinnamon,spice,0.2,0.0782608695652174
+392,parsley,herb,green leaves,,0.5,0.0
+393,parsley,herb,thyme,herb,0.1,0.06086956521739131
+394,parsley,herb,white pepper,,0.1,0.0
+395,parsley,herb,lemon,fruit,0.4,0.0782608695652174
+396,parsley,herb,orange,fruit,0.1,0.11304347826086956
+397,parsley,herb,fresh cheese,,0.1,0.0
+398,parsley,herb,vegetable broth,,0.2,0.0
+399,parsley,herb,curry,,0.1,0.0
+400,parsley,herb,turmeric,spice,0.1,0.043478260869565216
+401,parsley,herb,paprika,,0.1,0.0
+402,parsley,herb,cumin,spice,0.1,0.06956521739130435
+403,parsley,herb,chicken,meat,0.3,0.05217391304347826
+404,parsley,herb,potato,vegetable,0.2,0.06956521739130435
+405,parsley,herb,pea,vegetable,0.2,0.05217391304347826
+406,parsley,herb,red wine,alcoholic beverage,0.2,0.05217391304347826
+407,parsley,herb,clove,spice,0.1,0.05217391304347826
+408,parsley,herb,bacon,meat,0.2,0.034782608695652174
+409,parsley,herb,beef,meat,0.1,0.06086956521739131
+410,parsley,herb,pork,meat,0.1,0.034782608695652174
+411,parsley,herb,nutmeg,spice,0.1,0.0782608695652174
+412,parsley,herb,pasta,,0.1,0.0
+413,parsley,herb,parmesan,dairy,0.1,0.0
+414,parsley,herb,puff pastry,,0.1,0.0
+415,parsley,herb,milk,dairy,0.2,0.034782608695652174
+416,parsley,herb,schalotte,,0.1,0.0
+417,parsley,herb,broad bean,,0.1,0.0
+418,parsley,herb,carrot,vegetable,0.1,0.09565217391304348
+419,parsley,herb,grated cheese,,0.1,0.0
+420,parsley,herb,rice,cereal/crop,0.1,0.05217391304347826
+421,parsley,herb,anchovy,,0.1,0.0
+422,parsley,herb,tuna,fish/seafood,0.1,0.05217391304347826
+423,parsley,herb,oregano,herb,0.2,0.0
+424,parsley,herb,fish,fish/seafood,0.1,0.043478260869565216
+425,parsley,herb,aromatic herbs,,0.1,0.0
+426,parsley,herb,celery salt,,0.1,0.0
+427,parsley,herb,steak,,0.1,0.0
+428,parsley,herb,veal,meat,0.1,0.02608695652173913
+429,parsley,herb,erva doce,,0.1,0.0
+430,parsley,herb,kohlrabi,vegetable,0.1,0.034782608695652174
+431,parsley,herb,cauliflower,vegetable,0.1,0.043478260869565216
+432,parsley,herb,soft bread,,0.1,0.0
+433,mint,herb,egg,animal product,0.1,0.043478260869565216
+434,mint,herb,ricotta,,0.1,0.0
+435,mint,herb,pepper,spice,0.1,0.0782608695652174
+436,egg,animal product,ricotta,,0.1,0.0
+437,egg,animal product,pepper,spice,0.3,0.0
+438,egg,animal product,tomato,vegetable,0.4,0.20869565217391303
+439,egg,animal product,black olive,,0.1,0.0
+440,egg,animal product,caper,,0.1,0.0
+441,egg,animal product,anise,spice,0.1,0.0
+442,egg,animal product,cinnamon,spice,0.1,0.02608695652173913
+443,egg,animal product,green leaves,,0.3,0.0
+444,egg,animal product,lemon,fruit,0.4,0.06956521739130435
+445,egg,animal product,chicken,meat,0.3,0.25217391304347825
+446,egg,animal product,red wine,alcoholic beverage,0.1,0.16521739130434782
+447,egg,animal product,clove,spice,0.1,0.02608695652173913
+448,egg,animal product,icing sugar,,0.1,0.0
+449,egg,animal product,Qing Pi,,0.2,0.0
+450,egg,animal product,salted butter,,0.1,0.0
+451,egg,animal product,orange blossom,,0.1,0.0
+452,egg,animal product,marzapane,,0.1,0.0
+453,egg,animal product,salmon eggs,,0.1,0.0
+454,egg,animal product,white meat,,0.1,0.0
+455,egg,animal product,bacon,meat,0.3,0.23478260869565218
+456,egg,animal product,beef,meat,0.2,0.3565217391304348
+457,egg,animal product,pork,meat,0.2,0.23478260869565218
+458,egg,animal product,nutmeg,spice,0.1,0.008695652173913044
+459,egg,animal product,pasta,,0.1,0.0
+460,egg,animal product,parmesan,dairy,0.2,0.0
+461,egg,animal product,puff pastry,,0.2,0.0
+462,egg,animal product,milk,dairy,0.3,0.2782608695652174
+463,egg,animal product,schalotte,,0.1,0.0
+464,egg,animal product,sugar,,0.2,0.0
+465,egg,animal product,vanilla,spice,0.1,0.06956521739130435
+466,egg,animal product,apple,fruit,0.1,0.13043478260869565
+467,egg,animal product,dried grapes,,0.2,0.0
+468,egg,animal product,grated cheese,,0.2,0.0
+469,egg,animal product,raisin,fruit,0.1,0.043478260869565216
+470,egg,animal product,five spices,,0.1,0.0
+471,egg,animal product,whipped cream,,0.1,0.0
+472,egg,animal product,mustard,plant derivative,0.1,0.043478260869565216
+473,egg,animal product,rice,cereal/crop,0.1,0.2
+474,egg,animal product,oregano,herb,0.1,0.0
+475,egg,animal product,aromatic herbs,,0.1,0.0
+476,egg,animal product,cocoa,plant derivative,0.1,0.23478260869565218
+477,egg,animal product,sesame,,0.1,0.0
+478,egg,animal product,macaroni,cereal/crop,0.1,0.0
+479,egg,animal product,blue cheese,dairy,0.1,0.2608695652173913
+480,egg,animal product,steak,,0.1,0.0
+481,egg,animal product,veal,meat,0.1,0.16521739130434782
+482,egg,animal product,flour,,0.1,0.0
+483,egg,animal product,almond,nut/seed/pulse,0.1,0.017391304347826087
+484,egg,animal product,berries,,0.1,0.0
+485,egg,animal product,whisky,,0.1,0.0
+486,ricotta,,pepper,spice,0.2,0.0
+487,ricotta,,tomato,vegetable,0.2,0.0
+488,ricotta,,anchova,,0.1,0.0
+489,ricotta,,black olive,,0.2,0.0
+490,ricotta,,red onion,,0.2,0.0
+491,ricotta,,caper,,0.2,0.0
+492,ricotta,,anise,spice,0.1,0.0
+493,ricotta,,cinnamon,spice,0.1,0.0
+494,ricotta,,green leaves,,0.2,0.0
+495,ricotta,,thyme,herb,0.1,0.0
+496,ricotta,,white pepper,,0.1,0.0
+497,ricotta,,lemon,fruit,0.1,0.0
+498,ricotta,,orange,fruit,0.1,0.0
+499,ricotta,,fresh cheese,,0.1,0.0
+500,ricotta,,pizza dough,,0.1,0.0
+501,pepper,spice,tomato,vegetable,0.6,0.08695652173913043
+502,pepper,spice,anchova,,0.2,0.0
+503,pepper,spice,black olive,,0.1,0.0
+504,pepper,spice,red onion,,0.1,0.0
+505,pepper,spice,caper,,0.2,0.0
+506,pepper,spice,anise,spice,0.2,0.043478260869565216
+507,pepper,spice,cinnamon,spice,0.2,0.11304347826086956
+508,pepper,spice,green leaves,,0.4,0.0
+509,pepper,spice,thyme,herb,0.1,0.05217391304347826
+510,pepper,spice,white pepper,,0.1,0.0
+511,pepper,spice,lemon,fruit,0.1,0.12173913043478261
+512,pepper,spice,orange,fruit,0.1,0.14782608695652175
+513,pepper,spice,fresh cheese,,0.1,0.0
+514,pepper,spice,vegetable broth,,0.2,0.0
+515,pepper,spice,curry,,0.1,0.0
+516,pepper,spice,turmeric,spice,0.1,0.034782608695652174
+517,pepper,spice,paprika,,0.1,0.0
+518,pepper,spice,cumin,spice,0.1,0.05217391304347826
+519,pepper,spice,chicken,meat,0.2,0.02608695652173913
+520,pepper,spice,potato,vegetable,0.3,0.06086956521739131
+521,pepper,spice,pea,vegetable,0.2,0.043478260869565216
+522,pepper,spice,red wine,alcoholic beverage,0.3,0.06956521739130435
+523,pepper,spice,clove,spice,0.1,0.08695652173913043
+524,pepper,spice,bacon,meat,0.2,0.008695652173913044
+525,pepper,spice,beef,meat,0.1,0.034782608695652174
+526,pepper,spice,pork,meat,0.1,0.008695652173913044
+527,pepper,spice,parmesan,dairy,0.1,0.0
+528,pepper,spice,puff pastry,,0.1,0.0
+529,pepper,spice,milk,dairy,0.1,0.02608695652173913
+530,pepper,spice,broad bean,,0.1,0.0
+531,pepper,spice,carrot,vegetable,0.1,0.06086956521739131
+532,pepper,spice,grated cheese,,0.1,0.0
+533,pepper,spice,oregano,herb,0.1,0.0
+534,pepper,spice,celery salt,,0.1,0.0
+535,pepper,spice,macaroni,cereal/crop,0.1,0.0
+536,pepper,spice,blue cheese,dairy,0.1,0.043478260869565216
+537,pepper,spice,steak,,0.1,0.0
+538,pepper,spice,veal,meat,0.1,0.008695652173913044
+539,pepper,spice,erva doce,,0.1,0.0
+540,pepper,spice,kohlrabi,vegetable,0.1,0.008695652173913044
+541,pepper,spice,cauliflower,vegetable,0.1,0.008695652173913044
+542,pepper,spice,soft bread,,0.1,0.0
+543,tomato,vegetable,anchova,,0.1,0.0
+544,tomato,vegetable,black olive,,0.2,0.0
+545,tomato,vegetable,red onion,,0.2,0.0
+546,tomato,vegetable,caper,,0.4,0.0
+547,tomato,vegetable,anise,spice,0.2,0.05217391304347826
+548,tomato,vegetable,cinnamon,spice,0.2,0.1391304347826087
+549,tomato,vegetable,green leaves,,0.8,0.0
+550,tomato,vegetable,thyme,herb,0.1,0.0782608695652174
+551,tomato,vegetable,white pepper,,0.1,0.0
+552,tomato,vegetable,lemon,fruit,0.2,0.21739130434782608
+553,tomato,vegetable,orange,fruit,0.1,0.40869565217391307
+554,tomato,vegetable,fresh cheese,,0.1,0.0
+555,tomato,vegetable,rabbit,,0.1,0.0
+556,tomato,vegetable,vegetable broth,,0.2,0.0
+557,tomato,vegetable,curry,,0.2,0.0
+558,tomato,vegetable,turmeric,spice,0.1,0.02608695652173913
+559,tomato,vegetable,paprika,,0.1,0.0
+560,tomato,vegetable,cumin,spice,0.1,0.043478260869565216
+561,tomato,vegetable,chicken,meat,0.4,0.391304347826087
+562,tomato,vegetable,potato,vegetable,0.3,0.46956521739130436
+563,tomato,vegetable,pea,vegetable,0.2,0.33043478260869563
+564,tomato,vegetable,red wine,alcoholic beverage,0.3,0.5391304347826087
+565,tomato,vegetable,clove,spice,0.1,0.12173913043478261
+566,tomato,vegetable,pizza dough,,0.1,0.0
+567,tomato,vegetable,bacon,meat,0.3,0.4260869565217391
+568,tomato,vegetable,beef,meat,0.2,0.6260869565217392
+569,tomato,vegetable,pork,meat,0.2,0.4260869565217391
+570,tomato,vegetable,nutmeg,spice,0.1,0.09565217391304348
+571,tomato,vegetable,pasta,,0.1,0.0
+572,tomato,vegetable,parmesan,dairy,0.2,0.0
+573,tomato,vegetable,puff pastry,,0.2,0.0
+574,tomato,vegetable,milk,dairy,0.3,0.3739130434782609
+575,tomato,vegetable,schalotte,,0.1,0.0
+576,tomato,vegetable,broad bean,,0.1,0.0
+577,tomato,vegetable,carrot,vegetable,0.2,0.19130434782608696
+578,tomato,vegetable,grated cheese,,0.1,0.0
+579,tomato,vegetable,white wine,alcoholic beverage,0.1,0.591304347826087
+580,tomato,vegetable,rosemary,herb,0.1,0.06086956521739131
+581,tomato,vegetable,mushroom,vegetable,0.1,0.43478260869565216
+582,tomato,vegetable,rice,cereal/crop,0.2,0.3652173913043478
+583,tomato,vegetable,oregano,herb,0.1,0.0
+584,tomato,vegetable,aromatic herbs,,0.1,0.0
+585,tomato,vegetable,eggplant,,0.1,0.0
+586,tomato,vegetable,celery salt,,0.2,0.0
+587,tomato,vegetable,olive,fruit,0.1,0.22608695652173913
+588,tomato,vegetable,macaroni,cereal/crop,0.1,0.0
+589,tomato,vegetable,blue cheese,dairy,0.1,0.48695652173913045
+590,tomato,vegetable,steak,,0.1,0.0
+591,tomato,vegetable,veal,meat,0.1,0.2
+592,tomato,vegetable,kohlrabi,vegetable,0.1,0.1391304347826087
+593,tomato,vegetable,cauliflower,vegetable,0.1,0.11304347826086956
+594,tomato,vegetable,soft bread,,0.1,0.0
+595,anchova,,black olive,,0.1,0.0
+596,anchova,,red onion,,0.1,0.0
+597,anchova,,caper,,0.2,0.0
+598,anchova,,anise,spice,0.1,0.0
+599,anchova,,cinnamon,spice,0.1,0.0
+600,anchova,,green leaves,,0.1,0.0
+601,anchova,,thyme,herb,0.1,0.0
+602,anchova,,white pepper,,0.1,0.0
+603,anchova,,lemon,fruit,0.1,0.0
+604,anchova,,orange,fruit,0.1,0.0
+605,anchova,,fresh cheese,,0.1,0.0
+606,anchova,,erva doce,,0.1,0.0
+607,black olive,,red onion,,0.3,0.0
+608,black olive,,caper,,0.2,0.0
+609,black olive,,anise,spice,0.1,0.0
+610,black olive,,cinnamon,spice,0.1,0.0
+611,black olive,,green leaves,,0.2,0.0
+612,black olive,,thyme,herb,0.1,0.0
+613,black olive,,white pepper,,0.1,0.0
+614,black olive,,lemon,fruit,0.3,0.0
+615,black olive,,orange,fruit,0.1,0.0
+616,black olive,,fresh cheese,,0.2,0.0
+617,black olive,,pizza dough,,0.1,0.0
+618,black olive,,icing sugar,,0.1,0.0
+619,black olive,,Qing Pi,,0.1,0.0
+620,black olive,,salted butter,,0.1,0.0
+621,black olive,,orange blossom,,0.1,0.0
+622,black olive,,marzapane,,0.1,0.0
+623,black olive,,salmon eggs,,0.1,0.0
+624,black olive,,white meat,,0.1,0.0
+625,black olive,,rice,cereal/crop,0.1,0.0
+626,black olive,,anchovy,,0.2,0.0
+627,black olive,,tuna,fish/seafood,0.2,0.0
+628,red onion,,caper,,0.2,0.0
+629,red onion,,anise,spice,0.1,0.0
+630,red onion,,cinnamon,spice,0.1,0.0
+631,red onion,,green leaves,,0.2,0.0
+632,red onion,,thyme,herb,0.1,0.0
+633,red onion,,white pepper,,0.1,0.0
+634,red onion,,lemon,fruit,0.1,0.0
+635,red onion,,orange,fruit,0.1,0.0
+636,red onion,,fresh cheese,,0.2,0.0
+637,red onion,,pizza dough,,0.1,0.0
+638,red onion,,rice,cereal/crop,0.1,0.0
+639,red onion,,anchovy,,0.1,0.0
+640,red onion,,tuna,fish/seafood,0.1,0.0
+641,caper,,anise,spice,0.1,0.0
+642,caper,,cinnamon,spice,0.1,0.0
+643,caper,,green leaves,,0.3,0.0
+644,caper,,thyme,herb,0.1,0.0
+645,caper,,white pepper,,0.1,0.0
+646,caper,,lemon,fruit,0.2,0.0
+647,caper,,orange,fruit,0.1,0.0
+648,caper,,fresh cheese,,0.1,0.0
+649,caper,,chicken,meat,0.1,0.0
+650,caper,,pizza dough,,0.1,0.0
+651,caper,,bacon,meat,0.1,0.0
+652,caper,,beef,meat,0.1,0.0
+653,caper,,pork,meat,0.1,0.0
+654,caper,,nutmeg,spice,0.1,0.0
+655,caper,,pasta,,0.1,0.0
+656,caper,,parmesan,dairy,0.1,0.0
+657,caper,,puff pastry,,0.1,0.0
+658,caper,,milk,dairy,0.1,0.0
+659,caper,,schalotte,,0.1,0.0
+660,caper,,eggplant,,0.1,0.0
+661,caper,,celery salt,,0.1,0.0
+662,caper,,olive,fruit,0.1,0.0
+663,caper,,erva doce,,0.1,0.0
+664,anise,spice,cinnamon,spice,0.3,0.08695652173913043
+665,anise,spice,green leaves,,0.2,0.0
+666,anise,spice,thyme,herb,0.1,0.034782608695652174
+667,anise,spice,white pepper,,0.1,0.0
+668,anise,spice,lemon,fruit,0.3,0.06086956521739131
+669,anise,spice,orange,fruit,0.2,0.06956521739130435
+670,anise,spice,fresh cheese,,0.1,0.0
+671,anise,spice,vegetable broth,,0.1,0.0
+672,anise,spice,curry,,0.1,0.0
+673,anise,spice,turmeric,spice,0.1,0.017391304347826087
+674,anise,spice,paprika,,0.1,0.0
+675,anise,spice,cumin,spice,0.1,0.034782608695652174
+676,anise,spice,chicken,meat,0.1,0.008695652173913044
+677,anise,spice,potato,vegetable,0.1,0.02608695652173913
+678,anise,spice,pea,vegetable,0.1,0.008695652173913044
+679,anise,spice,red wine,alcoholic beverage,0.1,0.02608695652173913
+680,anise,spice,clove,spice,0.4,0.0782608695652174
+681,anise,spice,Qing Pi,,0.1,0.0
+682,anise,spice,salted butter,,0.1,0.0
+683,anise,spice,sugar,,0.1,0.0
+684,anise,spice,dried grapes,,0.1,0.0
+685,anise,spice,five spices,,0.1,0.0
+686,anise,spice,sea almonds,,0.1,0.0
+687,anise,spice,soy sauce,plant derivative,0.1,0.0
+688,anise,spice,brown sugar,,0.1,0.0
+689,anise,spice,albahaca,,0.1,0.0
+690,anise,spice,Jie Mo,,0.1,0.0
+691,anise,spice,mustard,plant derivative,0.1,0.008695652173913044
+692,anise,spice,honey,animal product,0.1,0.017391304347826087
+693,anise,spice,semolina,,0.1,0.0
+694,anise,spice,margarine,,0.1,0.0
+695,anise,spice,raclette,,0.1,0.0
+696,anise,spice,mandarin,fruit,0.1,0.05217391304347826
+697,anise,spice,sesame,,0.1,0.0
+698,cinnamon,spice,green leaves,,0.2,0.0
+699,cinnamon,spice,thyme,herb,0.1,0.06086956521739131
+700,cinnamon,spice,white pepper,,0.1,0.0
+701,cinnamon,spice,lemon,fruit,0.3,0.16521739130434782
+702,cinnamon,spice,orange,fruit,0.2,0.1826086956521739
+703,cinnamon,spice,fresh cheese,,0.1,0.0
+704,cinnamon,spice,vegetable broth,,0.1,0.0
+705,cinnamon,spice,curry,,0.1,0.0
+706,cinnamon,spice,turmeric,spice,0.1,0.06086956521739131
+707,cinnamon,spice,paprika,,0.1,0.0
+708,cinnamon,spice,cumin,spice,0.1,0.08695652173913043
+709,cinnamon,spice,chicken,meat,0.1,0.043478260869565216
+710,cinnamon,spice,potato,vegetable,0.1,0.09565217391304348
+711,cinnamon,spice,pea,vegetable,0.1,0.02608695652173913
+712,cinnamon,spice,red wine,alcoholic beverage,0.1,0.10434782608695652
+713,cinnamon,spice,clove,spice,0.3,0.17391304347826086
+714,cinnamon,spice,salted butter,,0.1,0.0
+715,cinnamon,spice,sugar,,0.1,0.0
+716,cinnamon,spice,apple,fruit,0.1,0.11304347826086956
+717,cinnamon,spice,dried grapes,,0.2,0.0
+718,cinnamon,spice,grated cheese,,0.1,0.0
+719,cinnamon,spice,raisin,fruit,0.1,0.02608695652173913
+720,cinnamon,spice,five spices,,0.2,0.0
+721,cinnamon,spice,whipped cream,,0.1,0.0
+722,cinnamon,spice,sea almonds,,0.2,0.0
+723,cinnamon,spice,soy sauce,plant derivative,0.1,0.0
+724,cinnamon,spice,brown sugar,,0.1,0.0
+725,cinnamon,spice,albahaca,,0.1,0.0
+726,cinnamon,spice,Jie Mo,,0.1,0.0
+727,cinnamon,spice,mustard,plant derivative,0.1,0.043478260869565216
+728,cinnamon,spice,honey,animal product,0.2,0.05217391304347826
+729,cinnamon,spice,cocoa,plant derivative,0.1,0.11304347826086956
+730,green leaves,,thyme,herb,0.2,0.0
+731,green leaves,,white pepper,,0.2,0.0
+732,green leaves,,lemon,fruit,0.2,0.0
+733,green leaves,,orange,fruit,0.1,0.0
+734,green leaves,,fresh cheese,,0.1,0.0
+735,green leaves,,rabbit,,0.1,0.0
+736,green leaves,,vegetable broth,,0.1,0.0
+737,green leaves,,curry,,0.2,0.0
+738,green leaves,,turmeric,spice,0.1,0.0
+739,green leaves,,paprika,,0.1,0.0
+740,green leaves,,cumin,spice,0.1,0.0
+741,green leaves,,chicken,meat,0.4,0.0
+742,green leaves,,potato,vegetable,0.3,0.0
+743,green leaves,,pea,vegetable,0.1,0.0
+744,green leaves,,red wine,alcoholic beverage,0.3,0.0
+745,green leaves,,clove,spice,0.1,0.0
+746,green leaves,,pizza dough,,0.1,0.0
+747,green leaves,,bacon,meat,0.2,0.0
+748,green leaves,,beef,meat,0.1,0.0
+749,green leaves,,pork,meat,0.1,0.0
+750,green leaves,,nutmeg,spice,0.1,0.0
+751,green leaves,,pasta,,0.1,0.0
+752,green leaves,,parmesan,dairy,0.1,0.0
+753,green leaves,,puff pastry,,0.1,0.0
+754,green leaves,,milk,dairy,0.2,0.0
+755,green leaves,,schalotte,,0.1,0.0
+756,green leaves,,carrot,vegetable,0.1,0.0
+757,green leaves,,grated cheese,,0.1,0.0
+758,green leaves,,white wine,alcoholic beverage,0.2,0.0
+759,green leaves,,rosemary,herb,0.1,0.0
+760,green leaves,,mushroom,vegetable,0.1,0.0
+761,green leaves,,rice,cereal/crop,0.2,0.0
+762,green leaves,,oregano,herb,0.1,0.0
+763,green leaves,,aromatic herbs,,0.1,0.0
+764,green leaves,,steak,,0.1,0.0
+765,green leaves,,veal,meat,0.1,0.0
+766,green leaves,,shallots,,0.1,0.0
+767,green leaves,,sherry vinegar,,0.1,0.0
+768,green leaves,,porto,,0.1,0.0
+769,green leaves,,sausage,,0.1,0.0
+770,green leaves,,rocket,,0.1,0.0
+771,green leaves,,bran,,0.1,0.0
+772,green leaves,,truffle oil,,0.1,0.0
+773,green leaves,,truffle,vegetable,0.1,0.0
+774,thyme,herb,white pepper,,0.2,0.0
+775,thyme,herb,lemon,fruit,0.1,0.09565217391304348
+776,thyme,herb,orange,fruit,0.1,0.11304347826086956
+777,thyme,herb,fresh cheese,,0.1,0.0
+778,thyme,herb,chicken,meat,0.1,0.06086956521739131
+779,thyme,herb,potato,vegetable,0.1,0.06956521739130435
+780,thyme,herb,white wine,alcoholic beverage,0.1,0.08695652173913043
+781,thyme,herb,shallots,,0.1,0.0
+782,thyme,herb,sherry vinegar,,0.1,0.0
+783,thyme,herb,porto,,0.1,0.0
+784,thyme,herb,sausage,,0.1,0.0
+785,thyme,herb,rocket,,0.1,0.0
+786,thyme,herb,bran,,0.1,0.0
+787,thyme,herb,truffle oil,,0.1,0.0
+788,thyme,herb,truffle,vegetable,0.1,0.02608695652173913
+789,white pepper,,lemon,fruit,0.1,0.0
+790,white pepper,,orange,fruit,0.1,0.0
+791,white pepper,,fresh cheese,,0.1,0.0
+792,white pepper,,chicken,meat,0.1,0.0
+793,white pepper,,potato,vegetable,0.1,0.0
+794,white pepper,,white wine,alcoholic beverage,0.1,0.0
+795,white pepper,,shallots,,0.1,0.0
+796,white pepper,,sherry vinegar,,0.1,0.0
+797,white pepper,,porto,,0.1,0.0
+798,white pepper,,sausage,,0.1,0.0
+799,white pepper,,rocket,,0.1,0.0
+800,white pepper,,bran,,0.1,0.0
+801,white pepper,,truffle oil,,0.1,0.0
+802,white pepper,,truffle,vegetable,0.1,0.0
+803,lemon,fruit,orange,fruit,0.3,0.6
+804,lemon,fruit,fresh cheese,,0.1,0.0
+805,lemon,fruit,chicken,meat,0.2,0.1565217391304348
+806,lemon,fruit,clove,spice,0.3,0.12173913043478261
+807,lemon,fruit,icing sugar,,0.1,0.0
+808,lemon,fruit,Qing Pi,,0.2,0.0
+809,lemon,fruit,salted butter,,0.2,0.0
+810,lemon,fruit,orange blossom,,0.1,0.0
+811,lemon,fruit,marzapane,,0.1,0.0
+812,lemon,fruit,salmon eggs,,0.1,0.0
+813,lemon,fruit,white meat,,0.1,0.0
+814,lemon,fruit,bacon,meat,0.1,0.16521739130434782
+815,lemon,fruit,beef,meat,0.1,0.21739130434782608
+816,lemon,fruit,pork,meat,0.1,0.16521739130434782
+817,lemon,fruit,nutmeg,spice,0.1,0.1565217391304348
+818,lemon,fruit,pasta,,0.1,0.0
+819,lemon,fruit,parmesan,dairy,0.1,0.0
+820,lemon,fruit,puff pastry,,0.1,0.0
+821,lemon,fruit,milk,dairy,0.1,0.2
+822,lemon,fruit,schalotte,,0.1,0.0
+823,lemon,fruit,chilli,,0.1,0.0
+824,lemon,fruit,carrot,vegetable,0.1,0.13043478260869565
+825,lemon,fruit,sweet pepper,,0.1,0.0
+826,lemon,fruit,almond milk,,0.2,0.0
+827,lemon,fruit,sugar,,0.3,0.0
+828,lemon,fruit,amarena,,0.1,0.0
+829,lemon,fruit,vanilla,spice,0.2,0.08695652173913043
+830,lemon,fruit,apple,fruit,0.2,0.34782608695652173
+831,lemon,fruit,dried grapes,,0.1,0.0
+832,lemon,fruit,grated cheese,,0.1,0.0
+833,lemon,fruit,raisin,fruit,0.2,0.05217391304347826
+834,lemon,fruit,five spices,,0.3,0.0
+835,lemon,fruit,whipped cream,,0.1,0.0
+836,lemon,fruit,sea almonds,,0.1,0.0
+837,lemon,fruit,honey,animal product,0.1,0.0782608695652174
+838,lemon,fruit,date,fruit,0.1,0.0
+839,lemon,fruit,anchovy,,0.1,0.0
+840,lemon,fruit,tuna,fish/seafood,0.1,0.13043478260869565
+841,lemon,fruit,oregano,herb,0.1,0.0
+842,lemon,fruit,fish,fish/seafood,0.1,0.08695652173913043
+843,lemon,fruit,semolina,,0.1,0.0
+844,lemon,fruit,margarine,,0.1,0.0
+845,lemon,fruit,raclette,,0.1,0.0
+846,lemon,fruit,mandarin,fruit,0.1,0.48695652173913045
+847,lemon,fruit,cocoa,plant derivative,0.1,0.1391304347826087
+848,lemon,fruit,sesame,,0.1,0.0
+849,orange,fruit,fresh cheese,,0.1,0.0
+850,orange,fruit,clove,spice,0.2,0.17391304347826086
+851,orange,fruit,sugar,,0.1,0.0
+852,orange,fruit,five spices,,0.2,0.0
+853,orange,fruit,sea almonds,,0.1,0.0
+854,orange,fruit,honey,animal product,0.1,0.1565217391304348
+855,orange,fruit,semolina,,0.1,0.0
+856,orange,fruit,margarine,,0.1,0.0
+857,orange,fruit,raclette,,0.1,0.0
+858,orange,fruit,mandarin,fruit,0.1,0.4956521739130435
+859,orange,fruit,cocoa,plant derivative,0.1,0.2608695652173913
+860,fresh cheese,,rice,cereal/crop,0.1,0.0
+861,fresh cheese,,anchovy,,0.1,0.0
+862,fresh cheese,,tuna,fish/seafood,0.1,0.0
+863,rabbit,,curry,,0.1,0.0
+864,rabbit,,carrot,vegetable,0.1,0.0
+865,rabbit,,white wine,alcoholic beverage,0.1,0.0
+866,rabbit,,rosemary,herb,0.1,0.0
+867,rabbit,,mushroom,vegetable,0.1,0.0
+868,rabbit,,rice,cereal/crop,0.1,0.0
+869,vegetable broth,,curry,,0.1,0.0
+870,vegetable broth,,turmeric,spice,0.1,0.0
+871,vegetable broth,,paprika,,0.1,0.0
+872,vegetable broth,,cumin,spice,0.1,0.0
+873,vegetable broth,,chicken,meat,0.1,0.0
+874,vegetable broth,,potato,vegetable,0.2,0.0
+875,vegetable broth,,pea,vegetable,0.2,0.0
+876,vegetable broth,,red wine,alcoholic beverage,0.1,0.0
+877,vegetable broth,,clove,spice,0.1,0.0
+878,vegetable broth,,broad bean,,0.1,0.0
+879,vegetable broth,,carrot,vegetable,0.1,0.0
+880,vegetable broth,,celery salt,,0.1,0.0
+881,vegetable broth,,kohlrabi,vegetable,0.1,0.0
+882,vegetable broth,,cauliflower,vegetable,0.1,0.0
+883,vegetable broth,,soft bread,,0.1,0.0
+884,curry,,turmeric,spice,0.1,0.0
+885,curry,,paprika,,0.1,0.0
+886,curry,,cumin,spice,0.1,0.0
+887,curry,,chicken,meat,0.1,0.0
+888,curry,,potato,vegetable,0.1,0.0
+889,curry,,pea,vegetable,0.1,0.0
+890,curry,,red wine,alcoholic beverage,0.1,0.0
+891,curry,,clove,spice,0.1,0.0
+892,curry,,carrot,vegetable,0.1,0.0
+893,curry,,white wine,alcoholic beverage,0.1,0.0
+894,curry,,rosemary,herb,0.1,0.0
+895,curry,,mushroom,vegetable,0.1,0.0
+896,curry,,rice,cereal/crop,0.1,0.0
+897,turmeric,spice,paprika,,0.1,0.0
+898,turmeric,spice,cumin,spice,0.1,0.06086956521739131
+899,turmeric,spice,chicken,meat,0.1,0.008695652173913044
+900,turmeric,spice,potato,vegetable,0.1,0.017391304347826087
+901,turmeric,spice,pea,vegetable,0.1,0.008695652173913044
+902,turmeric,spice,red wine,alcoholic beverage,0.1,0.008695652173913044
+903,turmeric,spice,clove,spice,0.1,0.043478260869565216
+904,paprika,,cumin,spice,0.1,0.0
+905,paprika,,chicken,meat,0.1,0.0
+906,paprika,,potato,vegetable,0.1,0.0
+907,paprika,,pea,vegetable,0.1,0.0
+908,paprika,,red wine,alcoholic beverage,0.1,0.0
+909,paprika,,clove,spice,0.1,0.0
+910,cumin,spice,chicken,meat,0.1,0.008695652173913044
+911,cumin,spice,potato,vegetable,0.1,0.02608695652173913
+912,cumin,spice,pea,vegetable,0.1,0.017391304347826087
+913,cumin,spice,red wine,alcoholic beverage,0.1,0.008695652173913044
+914,cumin,spice,clove,spice,0.1,0.06956521739130435
+915,chicken,meat,potato,vegetable,0.2,0.4260869565217391
+916,chicken,meat,pea,vegetable,0.1,0.2782608695652174
+917,chicken,meat,red wine,alcoholic beverage,0.1,0.3739130434782609
+918,chicken,meat,clove,spice,0.1,0.06086956521739131
+919,chicken,meat,bacon,meat,0.2,0.7304347826086957
+920,chicken,meat,beef,meat,0.2,0.8521739130434782
+921,chicken,meat,pork,meat,0.2,0.6956521739130435
+922,chicken,meat,nutmeg,spice,0.1,0.034782608695652174
+923,chicken,meat,pasta,,0.1,0.0
+924,chicken,meat,parmesan,dairy,0.2,0.0
+925,chicken,meat,puff pastry,,0.2,0.0
+926,chicken,meat,milk,dairy,0.3,0.5304347826086957
+927,chicken,meat,schalotte,,0.1,0.0
+928,chicken,meat,chilli,,0.1,0.0
+929,chicken,meat,carrot,vegetable,0.1,0.09565217391304348
+930,chicken,meat,white wine,alcoholic beverage,0.1,0.43478260869565216
+931,chicken,meat,rice,cereal/crop,0.1,0.4260869565217391
+932,chicken,meat,aromatic herbs,,0.1,0.0
+933,chicken,meat,macaroni,cereal/crop,0.1,0.034782608695652174
+934,chicken,meat,blue cheese,dairy,0.1,0.6
+935,chicken,meat,shallots,,0.1,0.0
+936,chicken,meat,sherry vinegar,,0.1,0.0
+937,chicken,meat,porto,,0.1,0.0
+938,chicken,meat,sausage,,0.1,0.0
+939,chicken,meat,rocket,,0.1,0.0
+940,chicken,meat,bran,,0.1,0.0
+941,chicken,meat,truffle oil,,0.1,0.0
+942,chicken,meat,truffle,vegetable,0.1,0.10434782608695652
+943,potato,vegetable,pea,vegetable,0.2,0.30434782608695654
+944,potato,vegetable,red wine,alcoholic beverage,0.2,0.28695652173913044
+945,potato,vegetable,clove,spice,0.1,0.10434782608695652
+946,potato,vegetable,broad bean,,0.1,0.0
+947,potato,vegetable,carrot,vegetable,0.1,0.12173913043478261
+948,potato,vegetable,white wine,alcoholic beverage,0.1,0.3739130434782609
+949,potato,vegetable,celery salt,,0.1,0.0
+950,potato,vegetable,shallots,,0.1,0.0
+951,potato,vegetable,sherry vinegar,,0.1,0.0
+952,potato,vegetable,porto,,0.1,0.0
+953,potato,vegetable,sausage,,0.1,0.0
+954,potato,vegetable,rocket,,0.1,0.0
+955,potato,vegetable,bran,,0.1,0.0
+956,potato,vegetable,truffle oil,,0.1,0.0
+957,potato,vegetable,truffle,vegetable,0.1,0.08695652173913043
+958,potato,vegetable,kohlrabi,vegetable,0.1,0.1391304347826087
+959,potato,vegetable,cauliflower,vegetable,0.1,0.09565217391304348
+960,potato,vegetable,soft bread,,0.1,0.0
+961,pea,vegetable,red wine,alcoholic beverage,0.1,0.26956521739130435
+962,pea,vegetable,clove,spice,0.1,0.05217391304347826
+963,pea,vegetable,broad bean,,0.1,0.0
+964,pea,vegetable,carrot,vegetable,0.1,0.1391304347826087
+965,pea,vegetable,celery salt,,0.1,0.0
+966,pea,vegetable,kohlrabi,vegetable,0.1,0.12173913043478261
+967,pea,vegetable,cauliflower,vegetable,0.1,0.11304347826086956
+968,pea,vegetable,soft bread,,0.1,0.0
+969,red wine,alcoholic beverage,clove,spice,0.1,0.13043478260869565
+970,red wine,alcoholic beverage,bacon,meat,0.1,0.34782608695652173
+971,red wine,alcoholic beverage,grated cheese,,0.1,0.0
+972,red wine,alcoholic beverage,oregano,herb,0.1,0.0
+973,red wine,alcoholic beverage,steak,,0.1,0.0
+974,red wine,alcoholic beverage,veal,meat,0.1,0.19130434782608696
+975,clove,spice,Qing Pi,,0.1,0.0
+976,clove,spice,salted butter,,0.1,0.0
+977,clove,spice,sugar,,0.3,0.0
+978,clove,spice,dried grapes,,0.1,0.0
+979,clove,spice,five spices,,0.3,0.0
+980,clove,spice,sea almonds,,0.2,0.0
+981,clove,spice,soy sauce,plant derivative,0.1,0.0
+982,clove,spice,brown sugar,,0.1,0.0
+983,clove,spice,albahaca,,0.1,0.0
+984,clove,spice,Jie Mo,,0.1,0.0
+985,clove,spice,mustard,plant derivative,0.1,0.02608695652173913
+986,clove,spice,honey,animal product,0.2,0.05217391304347826
+987,clove,spice,semolina,,0.1,0.0
+988,clove,spice,margarine,,0.1,0.0
+989,clove,spice,raclette,,0.1,0.0
+990,clove,spice,mandarin,fruit,0.2,0.10434782608695652
+991,clove,spice,cocoa,plant derivative,0.2,0.1391304347826087
+992,clove,spice,sesame,,0.1,0.0
+993,icing sugar,,Qing Pi,,0.1,0.0
+994,icing sugar,,salted butter,,0.1,0.0
+995,icing sugar,,orange blossom,,0.1,0.0
+996,icing sugar,,marzapane,,0.1,0.0
+997,icing sugar,,salmon eggs,,0.1,0.0
+998,icing sugar,,white meat,,0.1,0.0
+999,icing sugar,,concentrated milk,,0.1,0.0
+1000,icing sugar,,whiskey,alcoholic beverage,0.1,0.0
+1001,icing sugar,,biscuit,,0.1,0.0
+1002,icing sugar,,hazelnut,nut/seed/pulse,0.1,0.0
+1003,icing sugar,,apricot,fruit,0.1,0.0
+1004,icing sugar,,chocolate,,0.1,0.0
+1005,Qing Pi,,salted butter,,0.1,0.0
+1006,Qing Pi,,orange blossom,,0.1,0.0
+1007,Qing Pi,,marzapane,,0.1,0.0
+1008,Qing Pi,,salmon eggs,,0.1,0.0
+1009,Qing Pi,,white meat,,0.1,0.0
+1010,Qing Pi,,almond milk,,0.1,0.0
+1011,Qing Pi,,sugar,,0.2,0.0
+1012,Qing Pi,,vanilla,spice,0.1,0.0
+1013,Qing Pi,,apple,fruit,0.1,0.0
+1014,Qing Pi,,rye flour,cereal/crop,0.1,0.0
+1015,Qing Pi,,wheat flour,,0.1,0.0
+1016,Qing Pi,,joghurt,,0.1,0.0
+1017,Qing Pi,,sesame,,0.1,0.0
+1018,salted butter,,orange blossom,,0.1,0.0
+1019,salted butter,,marzapane,,0.1,0.0
+1020,salted butter,,salmon eggs,,0.1,0.0
+1021,salted butter,,white meat,,0.1,0.0
+1022,salted butter,,sweet pepper,,0.1,0.0
+1023,salted butter,,almond milk,,0.1,0.0
+1024,salted butter,,sugar,,0.1,0.0
+1025,salted butter,,amarena,,0.1,0.0
+1026,salted butter,,vanilla,spice,0.1,0.0
+1027,salted butter,,dried grapes,,0.1,0.0
+1028,salted butter,,sea almonds,,0.1,0.0
+1029,salted butter,,soy sauce,plant derivative,0.1,0.0
+1030,salted butter,,brown sugar,,0.1,0.0
+1031,salted butter,,albahaca,,0.1,0.0
+1032,salted butter,,Jie Mo,,0.1,0.0
+1033,salted butter,,mustard,plant derivative,0.1,0.0
+1034,salted butter,,honey,animal product,0.1,0.0
+1035,orange blossom,,marzapane,,0.1,0.0
+1036,orange blossom,,salmon eggs,,0.1,0.0
+1037,orange blossom,,white meat,,0.1,0.0
+1038,marzapane,,salmon eggs,,0.1,0.0
+1039,marzapane,,white meat,,0.1,0.0
+1040,salmon eggs,,white meat,,0.1,0.0
+1041,bacon,meat,beef,meat,0.2,0.8869565217391304
+1042,bacon,meat,pork,meat,0.2,1.0
+1043,bacon,meat,nutmeg,spice,0.1,0.02608695652173913
+1044,bacon,meat,pasta,,0.1,0.0
+1045,bacon,meat,parmesan,dairy,0.2,0.0
+1046,bacon,meat,puff pastry,,0.2,0.0
+1047,bacon,meat,milk,dairy,0.2,0.4782608695652174
+1048,bacon,meat,schalotte,,0.1,0.0
+1049,bacon,meat,grated cheese,,0.1,0.0
+1050,bacon,meat,oregano,herb,0.1,0.0
+1051,bacon,meat,macaroni,cereal/crop,0.1,0.034782608695652174
+1052,bacon,meat,blue cheese,dairy,0.1,0.5652173913043478
+1053,bacon,meat,steak,,0.1,0.0
+1054,bacon,meat,veal,meat,0.1,0.41739130434782606
+1055,beef,meat,pork,meat,0.2,0.8434782608695652
+1056,beef,meat,nutmeg,spice,0.1,0.043478260869565216
+1057,beef,meat,pasta,,0.1,0.0
+1058,beef,meat,parmesan,dairy,0.2,0.0
+1059,beef,meat,puff pastry,,0.2,0.0
+1060,beef,meat,milk,dairy,0.2,0.6521739130434783
+1061,beef,meat,schalotte,,0.1,0.0
+1062,beef,meat,macaroni,cereal/crop,0.1,0.034782608695652174
+1063,beef,meat,blue cheese,dairy,0.1,0.7304347826086957
+1064,pork,meat,nutmeg,spice,0.1,0.02608695652173913
+1065,pork,meat,pasta,,0.1,0.0
+1066,pork,meat,parmesan,dairy,0.2,0.0
+1067,pork,meat,puff pastry,,0.2,0.0
+1068,pork,meat,milk,dairy,0.2,0.4782608695652174
+1069,pork,meat,schalotte,,0.1,0.0
+1070,pork,meat,macaroni,cereal/crop,0.1,0.0
+1071,pork,meat,blue cheese,dairy,0.1,0.5304347826086957
+1072,nutmeg,spice,pasta,,0.1,0.0
+1073,nutmeg,spice,parmesan,dairy,0.1,0.0
+1074,nutmeg,spice,puff pastry,,0.1,0.0
+1075,nutmeg,spice,milk,dairy,0.1,0.06086956521739131
+1076,nutmeg,spice,schalotte,,0.1,0.0
+1077,pasta,,parmesan,dairy,0.1,0.0
+1078,pasta,,puff pastry,,0.1,0.0
+1079,pasta,,milk,dairy,0.1,0.0
+1080,pasta,,schalotte,,0.1,0.0
+1081,parmesan,dairy,puff pastry,,0.2,0.0
+1082,parmesan,dairy,milk,dairy,0.2,0.0
+1083,parmesan,dairy,schalotte,,0.1,0.0
+1084,parmesan,dairy,macaroni,cereal/crop,0.1,0.0
+1085,parmesan,dairy,blue cheese,dairy,0.1,0.0
+1086,puff pastry,,milk,dairy,0.2,0.0
+1087,puff pastry,,schalotte,,0.1,0.0
+1088,puff pastry,,macaroni,cereal/crop,0.1,0.0
+1089,puff pastry,,blue cheese,dairy,0.1,0.0
+1090,milk,dairy,schalotte,,0.1,0.0
+1091,milk,dairy,rice,cereal/crop,0.1,0.3565217391304348
+1092,milk,dairy,aromatic herbs,,0.1,0.0
+1093,milk,dairy,macaroni,cereal/crop,0.1,0.0
+1094,milk,dairy,blue cheese,dairy,0.1,0.6608695652173913
+1095,broad bean,,carrot,vegetable,0.1,0.0
+1096,broad bean,,celery salt,,0.1,0.0
+1097,broad bean,,kohlrabi,vegetable,0.1,0.0
+1098,broad bean,,cauliflower,vegetable,0.1,0.0
+1099,broad bean,,soft bread,,0.1,0.0
+1100,chilli,,carrot,vegetable,0.1,0.0
+1101,carrot,vegetable,white wine,alcoholic beverage,0.1,0.1565217391304348
+1102,carrot,vegetable,rosemary,herb,0.1,0.06956521739130435
+1103,carrot,vegetable,mushroom,vegetable,0.1,0.09565217391304348
+1104,carrot,vegetable,rice,cereal/crop,0.1,0.10434782608695652
+1105,carrot,vegetable,celery salt,,0.1,0.0
+1106,carrot,vegetable,kohlrabi,vegetable,0.1,0.034782608695652174
+1107,carrot,vegetable,cauliflower,vegetable,0.1,0.06086956521739131
+1108,carrot,vegetable,soft bread,,0.1,0.0
+1109,sweet pepper,,almond milk,,0.1,0.0
+1110,sweet pepper,,sugar,,0.1,0.0
+1111,sweet pepper,,amarena,,0.1,0.0
+1112,sweet pepper,,vanilla,spice,0.1,0.0
+1113,almond milk,,sugar,,0.2,0.0
+1114,almond milk,,amarena,,0.1,0.0
+1115,almond milk,,vanilla,spice,0.3,0.0
+1116,almond milk,,apple,fruit,0.2,0.0
+1117,almond milk,,raisin,fruit,0.1,0.0
+1118,almond milk,,rye flour,cereal/crop,0.1,0.0
+1119,almond milk,,wheat flour,,0.1,0.0
+1120,almond milk,,joghurt,,0.1,0.0
+1121,almond milk,,date,fruit,0.1,0.0
+1122,sugar,,amarena,,0.1,0.0
+1123,sugar,,vanilla,spice,0.3,0.0
+1124,sugar,,apple,fruit,0.1,0.0
+1125,sugar,,dried grapes,,0.1,0.0
+1126,sugar,,five spices,,0.2,0.0
+1127,sugar,,sea almonds,,0.1,0.0
+1128,sugar,,mustard,plant derivative,0.1,0.0
+1129,sugar,,honey,animal product,0.1,0.0
+1130,sugar,,rye flour,cereal/crop,0.1,0.0
+1131,sugar,,wheat flour,,0.1,0.0
+1132,sugar,,joghurt,,0.1,0.0
+1133,sugar,,mandarin,fruit,0.1,0.0
+1134,sugar,,cocoa,plant derivative,0.3,0.0
+1135,sugar,,sesame,,0.1,0.0
+1136,sugar,,flour,,0.1,0.0
+1137,sugar,,almond,nut/seed/pulse,0.1,0.0
+1138,sugar,,berries,,0.1,0.0
+1139,sugar,,whisky,,0.1,0.0
+1140,amarena,,vanilla,spice,0.1,0.0
+1141,vanilla,spice,apple,fruit,0.2,0.28695652173913044
+1142,vanilla,spice,dried grapes,,0.1,0.0
+1143,vanilla,spice,raisin,fruit,0.1,0.09565217391304348
+1144,vanilla,spice,mustard,plant derivative,0.1,0.05217391304347826
+1145,vanilla,spice,rye flour,cereal/crop,0.1,0.0
+1146,vanilla,spice,wheat flour,,0.1,0.0
+1147,vanilla,spice,joghurt,,0.1,0.0
+1148,vanilla,spice,date,fruit,0.1,0.0
+1149,vanilla,spice,cocoa,plant derivative,0.1,0.2608695652173913
+1150,vanilla,spice,flour,,0.1,0.0
+1151,vanilla,spice,almond,nut/seed/pulse,0.1,0.017391304347826087
+1152,vanilla,spice,berries,,0.1,0.0
+1153,vanilla,spice,whisky,,0.1,0.0
+1154,apple,fruit,dried grapes,,0.1,0.0
+1155,apple,fruit,grated cheese,,0.1,0.0
+1156,apple,fruit,raisin,fruit,0.2,0.10434782608695652
+1157,apple,fruit,five spices,,0.1,0.0
+1158,apple,fruit,whipped cream,,0.1,0.0
+1159,apple,fruit,rye flour,cereal/crop,0.1,0.0
+1160,apple,fruit,wheat flour,,0.1,0.0
+1161,apple,fruit,joghurt,,0.1,0.0
+1162,apple,fruit,date,fruit,0.1,0.0
+1163,dried grapes,,grated cheese,,0.1,0.0
+1164,dried grapes,,raisin,fruit,0.1,0.0
+1165,dried grapes,,five spices,,0.1,0.0
+1166,dried grapes,,whipped cream,,0.1,0.0
+1167,dried grapes,,sea almonds,,0.1,0.0
+1168,dried grapes,,soy sauce,plant derivative,0.1,0.0
+1169,dried grapes,,brown sugar,,0.1,0.0
+1170,dried grapes,,albahaca,,0.1,0.0
+1171,dried grapes,,Jie Mo,,0.1,0.0
+1172,dried grapes,,mustard,plant derivative,0.2,0.0
+1173,dried grapes,,honey,animal product,0.1,0.0
+1174,dried grapes,,cocoa,plant derivative,0.1,0.0
+1175,dried grapes,,flour,,0.1,0.0
+1176,dried grapes,,almond,nut/seed/pulse,0.1,0.0
+1177,dried grapes,,berries,,0.1,0.0
+1178,dried grapes,,whisky,,0.1,0.0
+1179,grated cheese,,raisin,fruit,0.1,0.0
+1180,grated cheese,,five spices,,0.1,0.0
+1181,grated cheese,,whipped cream,,0.1,0.0
+1182,grated cheese,,oregano,herb,0.1,0.0
+1183,grated cheese,,steak,,0.1,0.0
+1184,grated cheese,,veal,meat,0.1,0.0
+1185,raisin,fruit,five spices,,0.1,0.0
+1186,raisin,fruit,whipped cream,,0.1,0.0
+1187,raisin,fruit,date,fruit,0.1,0.0
+1188,five spices,,whipped cream,,0.1,0.0
+1189,five spices,,sea almonds,,0.1,0.0
+1190,five spices,,honey,animal product,0.1,0.0
+1191,five spices,,semolina,,0.1,0.0
+1192,five spices,,margarine,,0.1,0.0
+1193,five spices,,raclette,,0.1,0.0
+1194,five spices,,mandarin,fruit,0.2,0.0
+1195,five spices,,cocoa,plant derivative,0.2,0.0
+1196,sea almonds,,soy sauce,plant derivative,0.1,0.0
+1197,sea almonds,,brown sugar,,0.1,0.0
+1198,sea almonds,,albahaca,,0.1,0.0
+1199,sea almonds,,Jie Mo,,0.1,0.0
+1200,sea almonds,,mustard,plant derivative,0.1,0.0
+1201,sea almonds,,honey,animal product,0.2,0.0
+1202,sea almonds,,cocoa,plant derivative,0.1,0.0
+1203,soy sauce,plant derivative,brown sugar,,0.1,0.0
+1204,soy sauce,plant derivative,albahaca,,0.1,0.0
+1205,soy sauce,plant derivative,Jie Mo,,0.1,0.0
+1206,soy sauce,plant derivative,mustard,plant derivative,0.1,0.0
+1207,soy sauce,plant derivative,honey,animal product,0.1,0.0
+1208,brown sugar,,albahaca,,0.1,0.0
+1209,brown sugar,,Jie Mo,,0.1,0.0
+1210,brown sugar,,mustard,plant derivative,0.1,0.0
+1211,brown sugar,,honey,animal product,0.1,0.0
+1212,albahaca,,Jie Mo,,0.1,0.0
+1213,albahaca,,mustard,plant derivative,0.1,0.0
+1214,albahaca,,honey,animal product,0.1,0.0
+1215,Jie Mo,,mustard,plant derivative,0.1,0.0
+1216,Jie Mo,,honey,animal product,0.1,0.0
+1217,mustard,plant derivative,honey,animal product,0.1,0.06086956521739131
+1218,mustard,plant derivative,cocoa,plant derivative,0.1,0.06956521739130435
+1219,mustard,plant derivative,flour,,0.1,0.0
+1220,mustard,plant derivative,almond,nut/seed/pulse,0.1,0.0
+1221,mustard,plant derivative,berries,,0.1,0.0
+1222,mustard,plant derivative,whisky,,0.1,0.0
+1223,honey,animal product,cocoa,plant derivative,0.1,0.25217391304347825
+1224,white wine,alcoholic beverage,rosemary,herb,0.1,0.06086956521739131
+1225,white wine,alcoholic beverage,mushroom,vegetable,0.1,0.4956521739130435
+1226,white wine,alcoholic beverage,rice,cereal/crop,0.1,0.3391304347826087
+1227,white wine,alcoholic beverage,shallots,,0.1,0.0
+1228,white wine,alcoholic beverage,sherry vinegar,,0.1,0.0
+1229,white wine,alcoholic beverage,porto,,0.1,0.0
+1230,white wine,alcoholic beverage,sausage,,0.1,0.0
+1231,white wine,alcoholic beverage,rocket,,0.1,0.0
+1232,white wine,alcoholic beverage,bran,,0.1,0.0
+1233,white wine,alcoholic beverage,truffle oil,,0.1,0.0
+1234,white wine,alcoholic beverage,truffle,vegetable,0.1,0.11304347826086956
+1235,rosemary,herb,mushroom,vegetable,0.1,0.0782608695652174
+1236,rosemary,herb,rice,cereal/crop,0.1,0.05217391304347826
+1237,mushroom,vegetable,rice,cereal/crop,0.1,0.3826086956521739
+1238,rice,cereal/crop,anchovy,,0.1,0.0
+1239,rice,cereal/crop,tuna,fish/seafood,0.1,0.33043478260869563
+1240,rice,cereal/crop,aromatic herbs,,0.1,0.0
+1241,rye flour,cereal/crop,wheat flour,,0.1,0.0
+1242,rye flour,cereal/crop,joghurt,,0.1,0.0
+1243,wheat flour,,joghurt,,0.1,0.0
+1244,concentrated milk,,whiskey,alcoholic beverage,0.1,0.0
+1245,concentrated milk,,biscuit,,0.1,0.0
+1246,concentrated milk,,hazelnut,nut/seed/pulse,0.1,0.0
+1247,concentrated milk,,apricot,fruit,0.1,0.0
+1248,concentrated milk,,chocolate,,0.1,0.0
+1249,whiskey,alcoholic beverage,biscuit,,0.1,0.0
+1250,whiskey,alcoholic beverage,hazelnut,nut/seed/pulse,0.1,0.034782608695652174
+1251,whiskey,alcoholic beverage,apricot,fruit,0.1,0.21739130434782608
+1252,whiskey,alcoholic beverage,chocolate,,0.1,0.0
+1253,biscuit,,hazelnut,nut/seed/pulse,0.1,0.0
+1254,biscuit,,apricot,fruit,0.1,0.0
+1255,biscuit,,chocolate,,0.1,0.0
+1256,hazelnut,nut/seed/pulse,apricot,fruit,0.1,0.034782608695652174
+1257,hazelnut,nut/seed/pulse,chocolate,,0.1,0.0
+1258,apricot,fruit,chocolate,,0.1,0.0
+1259,anchovy,,tuna,fish/seafood,0.2,0.0
+1260,oregano,herb,fish,fish/seafood,0.1,0.0
+1261,oregano,herb,steak,,0.1,0.0
+1262,oregano,herb,veal,meat,0.1,0.0
+1263,semolina,,margarine,,0.1,0.0
+1264,semolina,,raclette,,0.1,0.0
+1265,semolina,,mandarin,fruit,0.1,0.0
+1266,margarine,,raclette,,0.1,0.0
+1267,margarine,,mandarin,fruit,0.1,0.0
+1268,raclette,,mandarin,fruit,0.1,0.0
+1269,mandarin,fruit,cocoa,plant derivative,0.1,0.10434782608695652
+1270,eggplant,,celery salt,,0.1,0.0
+1271,eggplant,,olive,fruit,0.1,0.0
+1272,celery salt,,olive,fruit,0.1,0.0
+1273,celery salt,,kohlrabi,vegetable,0.1,0.0
+1274,celery salt,,cauliflower,vegetable,0.1,0.0
+1275,celery salt,,soft bread,,0.1,0.0
+1276,cocoa,plant derivative,flour,,0.1,0.0
+1277,cocoa,plant derivative,almond,nut/seed/pulse,0.1,0.05217391304347826
+1278,cocoa,plant derivative,berries,,0.1,0.0
+1279,cocoa,plant derivative,whisky,,0.1,0.0
+1280,macaroni,cereal/crop,blue cheese,dairy,0.1,0.034782608695652174
+1281,steak,,veal,meat,0.1,0.0
+1282,flour,,almond,nut/seed/pulse,0.1,0.0
+1283,flour,,berries,,0.1,0.0
+1284,flour,,whisky,,0.1,0.0
+1285,almond,nut/seed/pulse,berries,,0.1,0.0
+1286,almond,nut/seed/pulse,whisky,,0.1,0.0
+1287,berries,,whisky,,0.1,0.0
+1288,shallots,,sherry vinegar,,0.1,0.0
+1289,shallots,,porto,,0.1,0.0
+1290,shallots,,sausage,,0.1,0.0
+1291,shallots,,rocket,,0.1,0.0
+1292,shallots,,bran,,0.1,0.0
+1293,shallots,,truffle oil,,0.1,0.0
+1294,shallots,,truffle,vegetable,0.1,0.0
+1295,sherry vinegar,,porto,,0.1,0.0
+1296,sherry vinegar,,sausage,,0.1,0.0
+1297,sherry vinegar,,rocket,,0.1,0.0
+1298,sherry vinegar,,bran,,0.1,0.0
+1299,sherry vinegar,,truffle oil,,0.1,0.0
+1300,sherry vinegar,,truffle,vegetable,0.1,0.0
+1301,porto,,sausage,,0.1,0.0
+1302,porto,,rocket,,0.1,0.0
+1303,porto,,bran,,0.1,0.0
+1304,porto,,truffle oil,,0.1,0.0
+1305,porto,,truffle,vegetable,0.1,0.0
+1306,sausage,,rocket,,0.1,0.0
+1307,sausage,,bran,,0.1,0.0
+1308,sausage,,truffle oil,,0.1,0.0
+1309,sausage,,truffle,vegetable,0.1,0.0
+1310,rocket,,bran,,0.1,0.0
+1311,rocket,,truffle oil,,0.1,0.0
+1312,rocket,,truffle,vegetable,0.1,0.0
+1313,bran,,truffle oil,,0.1,0.0
+1314,bran,,truffle,vegetable,0.1,0.0
+1315,truffle oil,,truffle,vegetable,0.1,0.0
+1316,kohlrabi,vegetable,cauliflower,vegetable,0.1,0.0782608695652174
+1317,kohlrabi,vegetable,soft bread,,0.1,0.0
+1318,cauliflower,vegetable,soft bread,,0.1,0.0
