@@ -1,0 +1,162 @@
+---
+title: "Practical Exercise 4 | Statistics for CSAI II| SOLUTION"
+output:
+  word_document:
+    reference_docx: reference_tasks.docx
+---
+
+The goals of this exercise are to (a) to use R to run multiple linear regression models, b) check the assumptions of the model and c) report your results with a focus on interactions and regression with multiple categories.
+
+
+\vspace{10mm}
+
+
+For this part of Practical Exercise #4, Tasks indicate things that you need to complete in R/R Studio.
+
+
+Task 1. Install the carData package for R and load the "Salaries" data set. This data includes the 2008-2009 nine-month academic salary for Assistant Professors, Associate Professors, and Professors at a college in the U.S..
+
+```{r task1}
+
+require(carData)
+data(Salaries)
+require(lsr)
+require(QuantPsyc)
+
+```
+
+
+Task 2. Inspect the data by looking at the first few entries and the last few entries in the dataset as well as the variable types. For this analysis, we are interested in predicting the salaries of professors as a function of the number of years since they obtained their Ph.D. (yrs.since.phd) and the number of years of service (yrs.service) and gender (sex).  
+
+```{r task2}
+
+head(Salaries)
+tail(Salaries)
+
+```
+
+
+a. Generate descriptive statistics. Evaluate these descriptives and print them here. 
+
+```{r task2a}
+
+summary(Salaries)
+
+```
+
+
+b. Generate a correlation matrix that includes all appropriate variables in the data set and print it here. Consider if there are any variables that we are interested in that you should be concerned about multicollinearity problems. If there is a correlation that is too high, make a decision about whether to drop one of the variables or try centering both predictor variables.
+
+
+```{r task2b}
+
+correlate(Salaries)
+
+#From this correlation matrix, we can see there may be multicollinearity problems with the variables we are interested in yrs.since.phd and yrs.service. So I tried centering them to see if that fixed the problem and my output is below. No luck! So I decide to drop one of them (I chose years of service to drop in my model).
+
+
+Salaries$yrs.since.phd.c<-as.numeric(scale(Salaries$yrs.since.phd,center=TRUE,scale=FALSE)) 
+Salaries$yrs.service.c<-as.numeric(scale(Salaries$yrs.service,center=TRUE,scale=FALSE)) 
+cor.test(Salaries$yrs.since.phd.c,Salaries$yrs.service.c)
+
+```
+
+
+Task 3. Run a multiple regression model to predict "salary" that includes the variables of interest described in Task 2 (yrs.since.phd, yrs.service, sex), but taking into account your decisions from question 2. For example, perhaps you are leaving a variable out or you are including centered versions of some variables. Generate 95% confidence intervals of the b estimates and also generate the standardized beta estimates.
+
+```{r task 3}
+
+mod.1<-lm(salary~yrs.since.phd + sex,data=Salaries)
+summary(mod.1)
+confint(mod.1)
+lm.beta(mod.1)
+
+```
+
+
+a. Report the results here in APA format. Be sure to include the adjusted $R^2$ value, the b estimates, the p-values, and the 95% confidence intervals. What can you conclude from your results? 
+
+
+A multiple linear regression analysis was conducted to evaluate the degree to which years since phd and sex can predict salary. The overall model accounted for a significant 18% of the variability in salaries (Adj $R^2$ = 0.18), F (2, 294) = 43.74, _p_ < .001. Specifically, the number of years since phd was a significant positive predictor of salary, β = .41, _b_ = 958.1, _p_ < .001, $CI_{95}$ = [745.12, 1171.03]. However, sex was not as significant predictor of salary, β = .08, _b_ = 7923.6, _p_ > .05, $CI_{95}$ = [-1285.29, 17132.54]. Thus, we can conclude that our model does a decent job predicting salaries using these variables. We also see that for every unit of increase in years since phd we can predict a salary increase on average of about 958 dollars. The fact that R tells us sex is not significant, but potentially of interest (_p_ < .1), is one indicator that there could be something more complex to the story of that variable. Thus, we move on to test an interaction.
+
+
+
+Task 4. Now run a multiple regression model to predict "salary" that includes the same variables from your last model, but tests for an interaction between sex and yrs.since.phd. Is there a significant interaction? If yes, then you should compare the model fit to your first model. If it is better, then generate 95% confidence intervals of the b estimates and also generate the standardized beta estimates and report the results and change in adj $R^2$. Otherwise, proceed to answer question 4a. 
+
+```{r task4}
+
+mod.2<-lm(salary~yrs.since.phd*sex,data=Salaries)
+summary(mod.2)
+confint(mod.2)
+lm.beta(mod.2)
+
+#Just double checking if mod.2 was better
+anova(mod.1,mod.2)
+
+```
+
+
+a. What can you conclude from your results for Task 4?
+
+Here we see something weird. Once we add the interaction term, our sex variable now becomes a significant predictor. Ignore that! Or double check by comparing the models. This one does is not improve the fit.
+
+
+b. What salary would you expect if you are female and have 7 years since Ph.D.?
+
+Here we should go back to our original model output. Y = 85181.8 + (958.1 \*7) + (7923.6\*0) This would be our equation to answer the question. We plug in 7 because that is number of years, and 0 for female (R tells us that male gets the 1) value. We can then predict that salary equals 91888.5 for women in with 7 year of experience since phd.
+
+
+Task 5. Load the "Friendly" dataset from the carData package for R. This data includes results from a word recall experiment with three conditions: Before (recalled words presented before others); Meshed (recalled words meshed with others); SFR (standard free recall). Correct is the number of words correctly recalled, out of 40 on the final trial of the experiment.  
+
+
+
+a. Generate descriptive statistics. Evaluate these descriptives and print them here. 
+
+```{r task5a}
+
+data(Friendly)
+summary(Friendly)
+
+```
+
+
+Task 6. Run a multiple regression model to predict "correct" using dummy coding for the condition variable. Generate 95% confidence intervals of the b estimates. Be sure to consider and/or specify your reference group.
+
+```{r task6}
+
+mod.3<-lm(correct~condition,data=Friendly)
+summary(mod.3)
+confint(mod.3)
+
+```
+
+a. Report the results here in APA format. Be sure to include the adjusted R2 value, the b estimates, the p-values, and the 95% confidence intervals. What can you conclude from your results? 
+
+
+A multiple linear regression analysis was conducted to evaluate the degree to which word presentation condition (before, meshed, standard free recall) can predict the correct amount of words recalled. The overall model accounted for a significant 18.7% of the variability in salaries (Adj $R^2$ = 0.187), F (2, 27) = 4.34, _p_ < .05. Specifically, the standard free recall condition (M =30.30) had significantly fewer correct words recalled than the before condition (which was the reference, M = 36.60), _b_ = -6.30, _p_ < .05, $CI_{95}$ = [-11.37, -1.23]. However, the mean number of correct words recalled in the meshed condition did not significantly differ from the before condition, _p_ > .05, $CI_{95}$ [-5.07, 5.07]. Thus, we can conclude that both before and meshed conditions are approximately the same in terms of number average number of correct words recalled and that standard free recall has the lowest amount of correct words recalled.
+
+
+Task 7. Run a multiple regression model to predict "correct" using unweighted effects coding for the condition variable. Generate 95% confidence intervals of the b estimates. Be sure to consider and/or specify your reference group. 
+
+
+```{r task7}
+
+mod.4<-lm(correct~condition, data=Friendly,contrasts=list(condition=contr.sum))
+summary(mod.4)
+confint(mod.4)
+
+```
+
+
+a. What are the differences in the interpretation of your intercept and b estimates when using unweighted effects code versus dummy coding as you used in Task 6? 
+
+Using dummy coding we interpret the intercept as the mean of the reference group. With unweighted (or weighted) effects coding, we interpret the intercept as the grand mean. With dummy coding the regression coefficients signify the change in the mean for that group relative to the reference group. For unweighted (or weighted) effects coding, the regression coefficients signify the change in from the grand mean for that group. In this case, we know that our first two conditions (before and meshed) are higher than the grand mean, but not significantly higher.
+
+
+b. What is the mean of the base group?
+
+M = - B1 - B2 - B3.Bi + B0 Formula to find mean of base group
+
+-2.1-(2.1)+34.5 #Base group mean
+
+And in this case we know that our base group is the last condition (standard free recall, which has the lowest mean).
