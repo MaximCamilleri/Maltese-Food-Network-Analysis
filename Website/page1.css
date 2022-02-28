@@ -1,0 +1,38 @@
+body{
+    color: white;
+    
+}
+
+.intro{
+    text-align: left;
+    width: 30%;
+
+    position: relative;
+    top: 300px;
+    bottom: 0;
+    
+    
+    margin-right: auto;
+    margin-left: 20px;
+    
+}
+
+.test-button{
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    border-left: 2px solid black;
+    border-top: 2px solid black;
+    border-right: 4px solid black;
+    border-bottom: 4px solid black;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+.test-button:hover{
+    background-color: black;
+    color: white;
+}
+
