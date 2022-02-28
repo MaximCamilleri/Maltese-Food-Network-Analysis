@@ -1,31 +1,207 @@
-Recipe Name,Links
-Maltese kapunata                                  ,https://www.sbs.com.au/food/recipes/maltese-kapunata
-Maltese baked ricotta pie                                  ,https://www.sbs.com.au/food/recipes/maltese-baked-ricotta-pie
-Maltese-style bruschetta (hobż biż-żejt)                                  ,https://www.sbs.com.au/food/recipes/maltese-style-bruschetta-hobz-biz-zejt
-Maltese rabbit stew (stuffat tal-fenek)                                  ,https://www.sbs.com.au/food/recipes/maltese-rabbit-stew-stuffat-tal-fenek
-Bread with oil (hobż biż-żejt)                                  ,https://www.sbs.com.au/food/recipes/bread-oil-hobz-biz-zejt
-Maltese Easter biscuits (figolli)                                  ,https://www.sbs.com.au/food/recipes/maltese-easter-biscuits-figolli
-Timpana                                  ,https://www.sbs.com.au/food/recipes/timpana
-Broad bean dip (bigilla)                                  ,https://www.sbs.com.au/food/recipes/broad-bean-dip-bigilla
-"Pears baked with white wine, almonds and armaretto (langas mimli bil-lewz)                                  ",https://www.sbs.com.au/food/recipes/pears-baked-white-wine-almonds-and-armaretto-langas-mimli-bil-lewz
-Apple and fig cake                                   ,https://www.sbs.com.au/food/recipes/apple-and-fig-cake
-Pork and pea pastizzi                                  ,https://www.sbs.com.au/food/recipes/pork-and-pea-pastizzi
-Rabbit in tomato and wine sauce with rice                                  ,https://www.sbs.com.au/food/recipes/rabbit-tomato-and-wine-sauce-rice
-Peach and almond crumble                                  ,https://www.sbs.com.au/food/recipes/peach-and-almond-crumble
-Christmas chocolate salami (romblu tal-milied bic-cikkulata)                                  ,https://www.sbs.com.au/food/recipes/christmas-chocolate-salami-romblu-tal-milied-bic-cikkulata
-Pumpkin and rice pie                                  ,https://www.sbs.com.au/food/recipes/pumpkin-and-rice-pie
-Grilled garfish with roasted potatoes (imsell mixwi)                                  ,https://www.sbs.com.au/food/recipes/grilled-garfish-roasted-potatoes-imsell-mixwi
-Traditional Maltese Christmas honey rings                                  ,https://www.sbs.com.au/food/recipes/traditional-maltese-christmas-honey-rings
-"Sugarless cake with apricots, dates and almonds                                  ",https://www.sbs.com.au/food/recipes/sugarless-cake-apricots-dates-and-almonds
-Chicken rissoles                                   ,https://www.sbs.com.au/food/recipes/chicken-rissoles
-Caponata                                  ,https://www.sbs.com.au/food/recipes/caponata-0
-Stuffed artichokes                                  ,https://www.sbs.com.au/food/recipes/stuffed-artichokes
-Lenten biscuits (kwarezimal)                                  ,https://www.sbs.com.au/food/recipes/lenten-biscuits-kwarezimal
-Sweet chestnut soup                                  ,https://www.sbs.com.au/food/recipes/sweet-chestnut-soup
-Maltese traditional biscuit with sesame seeds                                  ,https://www.sbs.com.au/food/recipes/maltese-traditional-biscuit-sesame-seeds
-Bread and butter pudding (puddina)                                  ,https://www.sbs.com.au/food/recipes/bread-and-butter-pudding-puddina
-Food Safari's timpana                                  ,https://www.sbs.com.au/food/recipes/food-safaris-timpana
-Beef olives (bragioli)                                  ,https://www.sbs.com.au/food/recipes/beef-olives-bragioli
-Braised potatoes with Maltese sausage                                  ,https://www.sbs.com.au/food/recipes/braised-potatoes-maltese-sausage
-Rabbit stew (stuffat tal-fenek)                                  ,https://www.sbs.com.au/food/recipes/rabbit-stew-stuffat-tal-fenek
-Open sandwich (hobz biz-zejt)                                  ,https://www.sbs.com.au/food/recipes/open-sandwich-hobz-biz-zejt
+,0,1,Links,Recipe Name
+0,,,https://www.sbs.com.au/food/recipes/maltese-kapunata,Maltese kapunata                                  
+1,,,https://www.sbs.com.au/food/recipes/maltese-baked-ricotta-pie,Maltese baked ricotta pie                                  
+2,,,https://www.sbs.com.au/food/recipes/maltese-style-bruschetta-hobz-biz-zejt,Maltese-style bruschetta (hobż biż-żejt)                                  
+3,,,https://www.sbs.com.au/food/recipes/maltese-rabbit-stew-stuffat-tal-fenek,Maltese rabbit stew (stuffat tal-fenek)                                  
+4,,,https://www.sbs.com.au/food/recipes/bread-oil-hobz-biz-zejt,Bread with oil (hobż biż-żejt)                                  
+5,,,https://www.sbs.com.au/food/recipes/maltese-easter-biscuits-figolli,Maltese Easter biscuits (figolli)                                  
+6,,,https://www.sbs.com.au/food/recipes/timpana,Timpana                                  
+7,,,https://www.sbs.com.au/food/recipes/broad-bean-dip-bigilla,Broad bean dip (bigilla)                                  
+8,,,https://www.sbs.com.au/food/recipes/pears-baked-white-wine-almonds-and-armaretto-langas-mimli-bil-lewz,"Pears baked with white wine, almonds and armaretto (langas mimli bil-lewz)                                  "
+9,,,https://www.sbs.com.au/food/recipes/apple-and-fig-cake,Apple and fig cake                                   
+10,,,https://www.sbs.com.au/food/recipes/pork-and-pea-pastizzi,Pork and pea pastizzi                                  
+11,,,https://www.sbs.com.au/food/recipes/rabbit-tomato-and-wine-sauce-rice,Rabbit in tomato and wine sauce with rice                                  
+12,,,https://www.sbs.com.au/food/recipes/peach-and-almond-crumble,Peach and almond crumble                                  
+13,,,https://www.sbs.com.au/food/recipes/christmas-chocolate-salami-romblu-tal-milied-bic-cikkulata,Christmas chocolate salami (romblu tal-milied bic-cikkulata)                                  
+14,,,https://www.sbs.com.au/food/recipes/pumpkin-and-rice-pie,Pumpkin and rice pie                                  
+15,,,https://www.sbs.com.au/food/recipes/grilled-garfish-roasted-potatoes-imsell-mixwi,Grilled garfish with roasted potatoes (imsell mixwi)                                  
+16,,,https://www.sbs.com.au/food/recipes/traditional-maltese-christmas-honey-rings,Traditional Maltese Christmas honey rings                                  
+17,,,https://www.sbs.com.au/food/recipes/sugarless-cake-apricots-dates-and-almonds,"Sugarless cake with apricots, dates and almonds                                  "
+18,,,https://www.sbs.com.au/food/recipes/chicken-rissoles,Chicken rissoles                                   
+19,,,https://www.sbs.com.au/food/recipes/caponata-0,Caponata                                  
+20,,,https://www.sbs.com.au/food/recipes/stuffed-artichokes,Stuffed artichokes                                  
+21,,,https://www.sbs.com.au/food/recipes/lenten-biscuits-kwarezimal,Lenten biscuits (kwarezimal)                                  
+22,,,https://www.sbs.com.au/food/recipes/sweet-chestnut-soup,Sweet chestnut soup                                  
+23,,,https://www.sbs.com.au/food/recipes/maltese-traditional-biscuit-sesame-seeds,Maltese traditional biscuit with sesame seeds                                  
+24,,,https://www.sbs.com.au/food/recipes/bread-and-butter-pudding-puddina,Bread and butter pudding (puddina)                                  
+25,,,https://www.sbs.com.au/food/recipes/food-safaris-timpana,Food Safari's timpana                                  
+26,,,https://www.sbs.com.au/food/recipes/beef-olives-bragioli,Beef olives (bragioli)                                  
+27,,,https://www.sbs.com.au/food/recipes/braised-potatoes-maltese-sausage,Braised potatoes with Maltese sausage                                  
+28,,,https://www.sbs.com.au/food/recipes/rabbit-stew-stuffat-tal-fenek,Rabbit stew (stuffat tal-fenek)                                  
+29,,,https://www.sbs.com.au/food/recipes/open-sandwich-hobz-biz-zejt,Open sandwich (hobz biz-zejt)                                  
+30,Veal Chop – Kustilja tal-Vitella,https://maltesecuisine.com/2022/02/05/veal-chop-kustilja-tal-vitella/,,
+31,Sweet Ricotta Tart,https://maltesecuisine.com/2021/12/19/sweet-ricotta-tart/,,
+32,Baked Pasta Shells with Pumpkin,https://maltesecuisine.com/2021/12/05/baked-pasta-shells-with-pumpkin/,,
+33,Pizza 4 Seasons,https://maltesecuisine.com/2021/11/23/pizza-4-seasons/,,
+34,Fried Mozzarella Sandwich,https://maltesecuisine.com/2021/10/23/fried-mozzarella-sandwich/,,
+35,Tiramisu,https://maltesecuisine.com/2021/10/17/tiramisu/,,
+36,Oven-Baked Ftira,https://maltesecuisine.com/2021/08/11/oven-baked-ftira/,,
+37,Zaqq tal-Majjal fil-Forn – Pork Belly Oven Cooked,https://maltesecuisine.com/2021/07/31/zaqq-tal-majjal-fil-forn-pork-belly-oven-cooked/,,
+38,Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,https://maltesecuisine.com/2021/06/19/roasted-red-pepper-soup-soppa-tal-bzar-ahmar/,,
+39,Stuffed Calamari,https://maltesecuisine.com/2021/05/30/stuffed-calamari/,,
+40,Għaġin bit-Tadam Imqadded,https://maltesecuisine.com/2021/05/15/ghagin-bit-tadam-imqadded/,,
+41,Strawberry Roly Poly,https://maltesecuisine.com/2021/04/29/strawberry-roly-poly/,,
+42,Potato and Blue Cheese Soup,https://maltesecuisine.com/2021/04/03/potato-and-blue-cheese-soup/,,
+43,Lemon Cheesecake,https://maltesecuisine.com/2021/03/27/lemon-cheesecake/,,
+44,Insalta tal-Bakkaljaw – Salt Cod Salad,https://maltesecuisine.com/2021/03/20/insalta-tal-bakkaljaw-salt-cod-salad/,,
+45,Ghagin bil-Lumi – Lemon Pasta,https://maltesecuisine.com/2021/03/13/ghagin-bil-lumi-lemon-pasta/,,
+46,Torta taż-Żaqq tal-Majjal – Pork Belly Pie,https://maltesecuisine.com/2021/03/07/torta-taz-zaqq-tal-majjal-pork-belly-pie/,,
+47,Stuffat tat-Tonn taz-Zejt,https://maltesecuisine.com/2021/02/20/stuffat-tat-tonn-taz-zejt/,,
+48,Rabbit Liver Pappardelle,https://maltesecuisine.com/2021/01/30/rabbit-liver-pappardelle/,,
+49,Orange Cake – Kejk tal-Laring,https://maltesecuisine.com/2021/01/23/orange-cake-kejk-tal-laring/,,
+50,Ravjul (Ravioli) with artichoke hearts filling,https://maltesecuisine.com/2021/01/17/ravjul-ravioli-with-artichoke-hearts-filling/,,
+51,Qassatat,https://maltesecuisine.com/2021/01/10/qassatat/,,
+52,Maltese Lasagna and a Cheeselets Panna Cotta Entree,https://maltesecuisine.com/2021/01/03/maltese-lasagna-and-a-cheeselets-panna-cotta-entree/,,
+53,Lamb Shanks cooked in Red Wine and Tomatoes,https://maltesecuisine.com/2020/12/27/lamb-shank-cooked-in-red-wine-and-tomatoes/,,
+54,Mince Pies,https://maltesecuisine.com/2020/12/19/mice-pies/,,
+55,Pork Roulade – Bragjoli tal-Majjal,https://maltesecuisine.com/2020/12/13/pork-roulade-bragjoli-tal-majjal/,,
+56,Qaghaq tal-Ghasel – Honey Rings,https://maltesecuisine.com/2020/12/05/qaghaq-tal-ghasel-honey-rings/,,
+57,Scotch egg with Maltese Sausage,https://maltesecuisine.com/2020/11/28/scotch-egg-with-maltese-sausage/,,
+58,Penne with Maltese Sausage in a pastry plate,https://maltesecuisine.com/2020/11/22/penne-with-maltese-sausage-in-a-pastry-plate/,,
+59,Pasta Salad,https://maltesecuisine.com/2020/11/19/pasta-salad/,,
+60,Pulpetti tal-Qarabaghli u Wraps bil-laham,https://maltesecuisine.com/2020/11/01/pulpetti-tal-qarabaghli-u-wraps-bil-laham/,,
+61,Ghadam – Bones,https://maltesecuisine.com/2020/10/24/ghadam-bones/,,
+62,Maltese Platter,https://maltesecuisine.com/2020/10/17/maltese-platter/,,
+63,Wraps – Three Ways,https://maltesecuisine.com/2020/10/11/wraps-three-ways/,,
+64,Maltese Trifle,https://maltesecuisine.com/2020/10/03/maltese-trifle/,,
+65,Pulled Pork Ftira & Wrap,https://maltesecuisine.com/2020/09/26/pulled-pork-ftira-wrap/,,
+66,Spalla tal-Majjal – Pulled Pork with Cream Cheese Potato,https://maltesecuisine.com/2020/09/20/spalla-tal-majjal-pulled-pork-with-cream-cheese-potato/,,
+67,Torta tal-Lampuki – Lampuki Pie,https://maltesecuisine.com/2020/09/13/torta-tal-lampuki-lampuki-pie/,,
+68,Stuffed Peppers and Pork Chops,https://maltesecuisine.com/2020/08/29/stuffed-peppers-and-pork-chops/,,
+69,Pixxispad Mixwi – Grilled Swordfish,https://maltesecuisine.com/2020/08/21/pixxispad-mixwi-grilled-swordfish/,,
+70,Spaghetti – Taste of Malta,https://maltesecuisine.com/2020/08/07/spaghetti-taste-of-malta/,,
+71,Stuffed Aubergine and Pork Burgers,https://maltesecuisine.com/2020/08/01/stuffed-aubergine-and-pork-burgers/,,
+72,Salads pt 2,https://maltesecuisine.com/2020/07/24/salads-pt-2/,,
+73,Crusted Salmon,https://maltesecuisine.com/2020/07/19/crusted-salmon/,,
+74,Salads PT1,https://maltesecuisine.com/2020/07/13/salads-pt1/,,
+75,Rustic Bread,https://maltesecuisine.com/2020/07/06/rustic-bread/,,
+76,Aljoli Dip,https://maltesecuisine.com/2020/06/28/aljoli-dip/,,
+77,Pulpetti tal-Makku – Whitebait Fritters,https://maltesecuisine.com/2020/06/20/pulpetti-tal-makku-whitebait-fritters/,,
+78,Stuffed Maltese Bread,https://maltesecuisine.com/2020/06/12/stuffed-maltese-bread/,,
+79,Pasta with King Prawns,https://maltesecuisine.com/2020/06/07/pasta-with-king-prawns/,,
+80,Pizza Maltija – Maltese Pizza,https://maltesecuisine.com/2020/05/20/pizza-maltija-maltese-pizza/,,
+81,Tarja Moqlija – Fried Vermicelli Omelette,https://maltesecuisine.com/2020/05/12/tarja-moqlija-fried-vermicelli-omelette/,,
+82,Kawlata,https://maltesecuisine.com/2020/05/02/kawlata/,,
+83,Stuffat tal-Wardiet tal-Majjal – Pork Cheeks,https://maltesecuisine.com/2020/04/25/stuffat-tal-wardiet-tal-majjal-pork-cheeks/,,
+84,Kusksu,https://maltesecuisine.com/2020/04/20/kusksu/,,
+85,Qaqocc Mimli  – Stuffed Artichokes,https://maltesecuisine.com/2020/04/14/qaqocc-mimli-stuffed-artichokes/,,
+86,Figolli,https://maltesecuisine.com/2020/04/07/figolli/,,
+87,Kwarezimal,https://maltesecuisine.com/2020/04/04/kwarezimal/,,
+88,Broccoli and Blue Cheese Quiche,https://maltesecuisine.com/2020/04/02/broccoli-and-blue-cheese-quiche/,,
+89,Sfinec,https://maltesecuisine.com/2020/03/22/sfinec/,,
+90,Zeppoli,https://maltesecuisine.com/2020/03/14/zeppoli/,,
+91,Torta tal-Pastard u l-Ispinaċi,https://maltesecuisine.com/2020/03/08/torta-tal-pastard-u-l-ispinaci/,,
+92,Għagin il-Forn bl-Irkotta u l-Ful,https://maltesecuisine.com/2020/03/02/ghagin-il-forn-bl-irkotta-u-l-ful/,,
+93,Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,https://maltesecuisine.com/2020/02/25/poached-cod-with-lemon-vinaigrette-merluzz-bil-lumi/,,
+94,Rabbit with Mustard – Fenek bil-Mustarda,https://maltesecuisine.com/2020/02/24/rabbit-with-mustard-fenek-bil-mustarda/,,
+95,Prinjolata,https://maltesecuisine.com/2020/02/23/prinjolata/,,
+96,Split Pea Soup – Soppa tal-Pizelli Maqsuma,https://maltesecuisine.com/2020/02/16/204/,,
+97,Spinach and Tuna Pie – Torta tal-Ispinaci u t-Tonn,https://maltesecuisine.com/2020/01/25/spinach-and-tuna-pie-torta-tal-ispinaci-u-t-tonn/,,
+98,Fried Rabbit Liver with Carrob Syrup,https://maltesecuisine.com/2020/01/17/fried-rabbit-liver-with-carrob-syrup/,,
+99,Ftira with Pork and Ricotta,https://maltesecuisine.com/2020/01/13/ftira-with-pork-and-ricotta/,,
+100,Baked Chicken Thighs in Orange,https://maltesecuisine.com/2022/02/26/baked-chicken-thighs-in-orange/,,
+101,Goat Cheese Soup,https://maltesecuisine.com/2022/02/13/goat-cheese-soup/,,
+102,Torta tal-Bciecen – Pigeon Pie,https://maltesecuisine.com/2022/02/01/torta-tal-bciecen-pigeon-pie/,,
+103,Maltese Shakshuka,https://maltesecuisine.com/2022/01/15/maltese-shakshuka/,,
+104,Burger Malti – Maltese Burger,https://maltesecuisine.com/2022/01/11/burger-malti-maltese-burger/,,
+105,Salmon and Prawn Terrine,https://maltesecuisine.com/2021/12/11/salmon-and-prawn-terrine/,,
+106,Spaghetti with Anchovies,https://maltesecuisine.com/2021/11/07/spaghetti-with-anchovies/,,
+107,Spinach and Ricotta Pie,https://maltesecuisine.com/2021/10/31/spinach-and-ricotta-pie/,,
+108,Fried Mozzarella Sandwich,https://maltesecuisine.com/2021/10/23/fried-mozzarella-sandwich/,,
+109,Tiramisu,https://maltesecuisine.com/2021/10/17/tiramisu/,,
+110,Xikel tal-Vitella – Veal Shanks,https://maltesecuisine.com/2021/10/10/xikel-tal-vitella-veal-shanks/,,
+111,Chicken Thighs with Creamy Tomato Spinach Sauce,https://maltesecuisine.com/2021/09/19/chicken-thighs-with-creamy-tomato-spinach-sauce/,,
+112,Spaghetti with Olives and Capers sauce,https://maltesecuisine.com/2021/09/12/spaghetti-with-olives-and-capers-sauce/,,
+113,Chicken Breast Stuffed with Spinach and Feta,https://maltesecuisine.com/2021/09/05/chicken-breast-stuffed-with-spinach-and-feta/,,
+114,Ribs with baked potatoes and sausage,https://maltesecuisine.com/2021/08/30/ribs-with-baked-potatoes-and-sausage/,,
+115,Kapunata,https://maltesecuisine.com/2021/08/21/kapunata/,,
+116,Bucatini with sausage and marinated mozzarella,https://maltesecuisine.com/2021/08/14/bucatini-with-sausage-and-marinated-mozzarella/,,
+117,Oven-Baked Ftira,https://maltesecuisine.com/2021/08/11/oven-baked-ftira/,,
+118,Zaqq tal-Majjal fil-Forn – Pork Belly Oven Cooked,https://maltesecuisine.com/2021/07/31/zaqq-tal-majjal-fil-forn-pork-belly-oven-cooked/,,
+119,Bragjoli tal-Brungiel,https://maltesecuisine.com/2021/07/16/bragjoli-tal-brungiel/,,
+120,Balbuljata,https://maltesecuisine.com/2021/07/04/balbuljata/,,
+121,Kannelloni bil-laham – Meat filled Cannelloni,https://maltesecuisine.com/2021/06/27/kannelloni-bil-laham-meat-filled-cannelloni/,,
+122,Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,https://maltesecuisine.com/2021/06/19/roasted-red-pepper-soup-soppa-tal-bzar-ahmar/,,
+123,Olive Dip,https://maltesecuisine.com/2021/06/12/olive-dip/,,
+124,Pulpettun – Meatloaf,https://maltesecuisine.com/2021/06/06/pulpettun-meatloaf/,,
+125,Stuffed Calamari,https://maltesecuisine.com/2021/05/30/stuffed-calamari/,,
+126,Torta tal-Ikkapuljat – Minced Beef Pie,https://maltesecuisine.com/2021/05/22/torta-tal-ikkapuljat-minced-beef-pie/,,
+127,Għaġin bit-Tadam Imqadded,https://maltesecuisine.com/2021/05/15/ghagin-bit-tadam-imqadded/,,
+128,Chicken Cacciatore,https://maltesecuisine.com/2021/05/01/chicken-cacciatore/,,
+129,Strawberry Roly Poly,https://maltesecuisine.com/2021/04/29/strawberry-roly-poly/,,
+130,Shrimp Pasta,https://maltesecuisine.com/2021/04/10/shrimp-pasta/,,
+131,Potato and Blue Cheese Soup,https://maltesecuisine.com/2021/04/03/potato-and-blue-cheese-soup/,,
+132,Lemon Cheesecake,https://maltesecuisine.com/2021/03/27/lemon-cheesecake/,,
+133,Insalta tal-Bakkaljaw – Salt Cod Salad,https://maltesecuisine.com/2021/03/20/insalta-tal-bakkaljaw-salt-cod-salad/,,
+134,Ghagin bil-Lumi – Lemon Pasta,https://maltesecuisine.com/2021/03/13/ghagin-bil-lumi-lemon-pasta/,,
+135,Torta taż-Żaqq tal-Majjal – Pork Belly Pie,https://maltesecuisine.com/2021/03/07/torta-taz-zaqq-tal-majjal-pork-belly-pie/,,
+136,Pesto Lasagne,https://maltesecuisine.com/2021/02/27/pesto-lasagne/,,
+137,Stuffat tat-Tonn taz-Zejt,https://maltesecuisine.com/2021/02/20/stuffat-tat-tonn-taz-zejt/,,
+138,Baked Feta Pasta,https://maltesecuisine.com/2021/02/14/baked-feta-pasta/,,
+139,Mini Beef Wellingtons and White Parmiggiana with Fresh Cheeselets,https://maltesecuisine.com/2021/02/07/mini-beef-wellingtons-and-white-parmiggiana-with-fresh-cheeselets/,,
+140,Rabbit Liver Pappardelle,https://maltesecuisine.com/2021/01/30/rabbit-liver-pappardelle/,,
+141,Orange Cake – Kejk tal-Laring,https://maltesecuisine.com/2021/01/23/orange-cake-kejk-tal-laring/,,
+142,Ravjul (Ravioli) with artichoke hearts filling,https://maltesecuisine.com/2021/01/17/ravjul-ravioli-with-artichoke-hearts-filling/,,
+143,Qassatat,https://maltesecuisine.com/2021/01/10/qassatat/,,
+144,Maltese Lasagna and a Cheeselets Panna Cotta Entree,https://maltesecuisine.com/2021/01/03/maltese-lasagna-and-a-cheeselets-panna-cotta-entree/,,
+145,Lamb Shanks cooked in Red Wine and Tomatoes,https://maltesecuisine.com/2020/12/27/lamb-shank-cooked-in-red-wine-and-tomatoes/,,
+146,Mince Pies,https://maltesecuisine.com/2020/12/19/mice-pies/,,
+147,Pork Roulade – Bragjoli tal-Majjal,https://maltesecuisine.com/2020/12/13/pork-roulade-bragjoli-tal-majjal/,,
+148,Qaghaq tal-Ghasel – Honey Rings,https://maltesecuisine.com/2020/12/05/qaghaq-tal-ghasel-honey-rings/,,
+149,Scotch egg with Maltese Sausage,https://maltesecuisine.com/2020/11/28/scotch-egg-with-maltese-sausage/,,
+150,Penne with Maltese Sausage in a pastry plate,https://maltesecuisine.com/2020/11/22/penne-with-maltese-sausage-in-a-pastry-plate/,,
+151,Pasta Salad,https://maltesecuisine.com/2020/11/19/pasta-salad/,,
+152,Pulpetti tal-Qarabaghli u Wraps bil-laham,https://maltesecuisine.com/2020/11/01/pulpetti-tal-qarabaghli-u-wraps-bil-laham/,,
+153,Ghadam – Bones,https://maltesecuisine.com/2020/10/24/ghadam-bones/,,
+154,Maltese Platter,https://maltesecuisine.com/2020/10/17/maltese-platter/,,
+155,Wraps – Three Ways,https://maltesecuisine.com/2020/10/11/wraps-three-ways/,,
+156,Maltese Trifle,https://maltesecuisine.com/2020/10/03/maltese-trifle/,,
+157,Pulled Pork Ftira & Wrap,https://maltesecuisine.com/2020/09/26/pulled-pork-ftira-wrap/,,
+158,Spalla tal-Majjal – Pulled Pork with Cream Cheese Potato,https://maltesecuisine.com/2020/09/20/spalla-tal-majjal-pulled-pork-with-cream-cheese-potato/,,
+159,Torta tal-Lampuki – Lampuki Pie,https://maltesecuisine.com/2020/09/13/torta-tal-lampuki-lampuki-pie/,,
+160,Stuffed Peppers and Pork Chops,https://maltesecuisine.com/2020/08/29/stuffed-peppers-and-pork-chops/,,
+161,Pixxispad Mixwi – Grilled Swordfish,https://maltesecuisine.com/2020/08/21/pixxispad-mixwi-grilled-swordfish/,,
+162,Spaghetti – Taste of Malta,https://maltesecuisine.com/2020/08/07/spaghetti-taste-of-malta/,,
+163,Stuffed Aubergine and Pork Burgers,https://maltesecuisine.com/2020/08/01/stuffed-aubergine-and-pork-burgers/,,
+164,Salads pt 2,https://maltesecuisine.com/2020/07/24/salads-pt-2/,,
+165,Crusted Salmon,https://maltesecuisine.com/2020/07/19/crusted-salmon/,,
+166,Salads PT1,https://maltesecuisine.com/2020/07/13/salads-pt1/,,
+167,Rustic Bread,https://maltesecuisine.com/2020/07/06/rustic-bread/,,
+168,Aljoli Dip,https://maltesecuisine.com/2020/06/28/aljoli-dip/,,
+169,Pulpetti tal-Makku – Whitebait Fritters,https://maltesecuisine.com/2020/06/20/pulpetti-tal-makku-whitebait-fritters/,,
+170,Stuffed Maltese Bread,https://maltesecuisine.com/2020/06/12/stuffed-maltese-bread/,,
+171,Pasta with King Prawns,https://maltesecuisine.com/2020/06/07/pasta-with-king-prawns/,,
+172,Kejk Ahmar tal-Coconut,https://maltesecuisine.com/2020/05/28/kejk-ahmar-tal-coconut/,,
+173,Pizza Maltija – Maltese Pizza,https://maltesecuisine.com/2020/05/20/pizza-maltija-maltese-pizza/,,
+174,Tarja Moqlija – Fried Vermicelli Omelette,https://maltesecuisine.com/2020/05/12/tarja-moqlija-fried-vermicelli-omelette/,,
+175,Kawlata,https://maltesecuisine.com/2020/05/02/kawlata/,,
+176,Stuffat tal-Wardiet tal-Majjal – Pork Cheeks,https://maltesecuisine.com/2020/04/25/stuffat-tal-wardiet-tal-majjal-pork-cheeks/,,
+177,Kusksu,https://maltesecuisine.com/2020/04/20/kusksu/,,
+178,Qaqocc Mimli  – Stuffed Artichokes,https://maltesecuisine.com/2020/04/14/qaqocc-mimli-stuffed-artichokes/,,
+179,Figolli,https://maltesecuisine.com/2020/04/07/figolli/,,
+180,Kwarezimal,https://maltesecuisine.com/2020/04/04/kwarezimal/,,
+181,Broccoli and Blue Cheese Quiche,https://maltesecuisine.com/2020/04/02/broccoli-and-blue-cheese-quiche/,,
+182,Sfinec,https://maltesecuisine.com/2020/03/22/sfinec/,,
+183,Zeppoli,https://maltesecuisine.com/2020/03/14/zeppoli/,,
+184,Torta tal-Pastard u l-Ispinaċi,https://maltesecuisine.com/2020/03/08/torta-tal-pastard-u-l-ispinaci/,,
+185,Għagin il-Forn bl-Irkotta u l-Ful,https://maltesecuisine.com/2020/03/02/ghagin-il-forn-bl-irkotta-u-l-ful/,,
+186,Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,https://maltesecuisine.com/2020/02/25/poached-cod-with-lemon-vinaigrette-merluzz-bil-lumi/,,
+187,Rabbit with Mustard – Fenek bil-Mustarda,https://maltesecuisine.com/2020/02/24/rabbit-with-mustard-fenek-bil-mustarda/,,
+188,Ġbejna or Feta in Filo with Honey,https://maltesecuisine.com/2020/02/24/gbejna-or-feta-in-filo-with-honey/,,
+189,Prinjolata,https://maltesecuisine.com/2020/02/23/prinjolata/,,
+190,Split Pea Soup – Soppa tal-Pizelli Maqsuma,https://maltesecuisine.com/2020/02/16/204/,,
+191,Spinach and Tuna Pie – Torta tal-Ispinaci u t-Tonn,https://maltesecuisine.com/2020/01/25/spinach-and-tuna-pie-torta-tal-ispinaci-u-t-tonn/,,
+192,Fried Rabbit Liver with Carrob Syrup,https://maltesecuisine.com/2020/01/17/fried-rabbit-liver-with-carrob-syrup/,,
+193,Ftira with Pork and Ricotta,https://maltesecuisine.com/2020/01/13/ftira-with-pork-and-ricotta/,,
+194,Arancini – Bombi tar-Ross,https://maltesecuisine.com/2020/01/13/134/,,
+195,Qarabali – Stuffed Marrows,https://maltesecuisine.com/2020/01/13/qarabali-stuffed-marrows/,,
+196,Meditteranean Octopus Stew,https://maltesecuisine.com/2020/01/13/meditteranean-octopus-stew/,,
+197,Rabbit Casserole – Stuffat tal-Fenek,https://maltesecuisine.com/2020/01/13/rabbit-casserole-stuffat-tal-fenek/,,
+198,Bread Pudding – Pudina,https://maltesecuisine.com/2020/01/13/bread-pudding-pudina/,,
+199,Basic Pastry Recipe,https://maltesecuisine.com/2020/01/13/basic-pastry-recipe/,,
+200,Timpana,https://maltesecuisine.com/2020/01/13/timpana/,,
+201,Pumpkin Soup – Soppa tal-Qargha Hamra,https://maltesecuisine.com/2020/01/13/pumpkin-soup-soppa-tal-qargha-hamra/,,
+202,Kannoli,https://maltesecuisine.com/2020/01/13/kannoli/,,
+203,Christmas Pudding,https://maltesecuisine.com/2020/01/13/christmas-pudding/,,
+204,Pork Cooked in Milk,https://maltesecuisine.com/2020/01/13/pork-cooked-in-milk/,,
+205,Imbuljuta tal-Qastan,https://maltesecuisine.com/2020/01/11/imbuljuta-tal-qastan/,,
