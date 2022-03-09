@@ -16,7 +16,7 @@
                 <div class="sidebar-heading border-bottom bg-light"></div>
                 <div class="list-group list-group-flush">
                     <a class="list-group-item list-group-item-action list-group-item-light p-3" href="page1.html">Home</a>
-                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="page2.html">Ingredient Search</a>
+                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="page2.php">Ingredient Search</a>
                     <a class="list-group-item list-group-item-action list-group-item-light p-3" href="page3.html">Percentage Matcher</a>
                     <a class="list-group-item list-group-item-action list-group-item-light p-3" href="page4.html">List Entry</a>
                     <!-- <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#!">Profile</a>
@@ -58,22 +58,18 @@
                         <h1 style="color:white;"></h1>
                         <table class = "featIng">
                             <ul>
-                                <li class = "allIng">
-                                    <!-- <p>1</p> -->
-                                    <button class = "ingBtn">Onion</button>
-                                </li>
-                                <li class = "allIng">
-                                    <!-- <p>2</p> -->
-                                    <button class = "ingBtn">2</button>
-                                </li>
-                                <li class = "allIng">
-                                    <!-- <p>3</p> -->
-                                    <button class = "ingBtn">3</button>
-                                </li>
-                                <li class = "allIng">
-                                    <!-- <p>4</p> -->
-                                    <button class = "ingBtn">4</button>
-                                </li>
+                            <?php
+                                $result = exec("python3 test.py");
+                                $result_array = json_decode($result);
+
+                                foreach($result_array as $row){
+                                    echo($row . "<br>");
+                                    echo("<li class = 'allIng'>
+                                            <!-- <p>1</p> -->
+                                            <button class = 'ingBtn'> . $row . </button>
+                                            </li>");
+                                }
+                            ?>
                             </ul>
                         </table>
                     </div>
