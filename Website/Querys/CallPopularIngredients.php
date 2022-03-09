@@ -1,7 +1,8 @@
-<?php 
+<?php
+    $result = exec("python3 test.py");
+    $result_array = json_decode($result);
 
-$command = escapeshellcmd('GetPopularIngredients.py');
-$output = shell_exec($command);
-echo $output;
-
-?>
+    foreach($result_array as $row){
+        echo($row . "<br>");
+    }
+ ?>
