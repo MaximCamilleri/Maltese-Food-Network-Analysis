@@ -59,14 +59,13 @@
                         <table class = "featIng">
                             <ul>
                             <?php
-                                $result = exec("python3 test.py");
+                                $result = exec("python3 Queries/test.py");
                                 $result_array = json_decode($result);
 
                                 foreach($result_array as $row){
-                                    echo($row . "<br>");
                                     echo("<li class = 'allIng'>
                                             <!-- <p>1</p> -->
-                                            <button class = 'ingBtn'> . $row . </button>
+                                            <button class = 'ingBtn'> $row </button>
                                             </li>");
                                 }
                             ?>
