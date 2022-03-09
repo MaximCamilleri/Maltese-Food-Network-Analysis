@@ -1,4 +1,4 @@
-##!/usr/bin/env python3
+#!/usr/bin/env python3
 import json
 from py2neo import Graph, Node 
 
@@ -13,7 +13,7 @@ ret  = []
 
 for temp in result:
     temp = str(temp).split("'")
-    ret.append(temp[3])
+    ret.append(temp[3].replace("_", " ").capitalize())
 
 ret_json = json.dumps(ret)
 
