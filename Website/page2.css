@@ -37,6 +37,8 @@ body{
     right:0;
     width: 80% !important;
     border:1px solid white;
+    padding: 32px;
+    font-size: 20px;
 }
 /* .cell {
     width:100%;
@@ -58,11 +60,15 @@ ul.featIng{
 }
 
 .ingBtn{
+    font-size: 20px;
     cursor: pointer;
     color: white;
     background-color: inherit;
+    border-width: 0px;
+    transition-duration: 0.5s;
 }
 .ingBtn:hover{
     background: #eee;
     color: black;
+    
 }

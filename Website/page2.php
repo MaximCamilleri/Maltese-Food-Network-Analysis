@@ -74,7 +74,7 @@
                     </div>
 
                     <div class = "cell ingDetails">
-                        Test ing det
+                        Ing Details
                     </div>
                     
                     
