@@ -11,6 +11,7 @@
         <link href="page2.css" rel="stylesheet"/>
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" crossorigin="anonymous">
         <script src = "https://unpkg.com/split.js/dist/split.min.js"></script>
+        <script src="https://cdn.neo4jlabs.com/neovis.js/v1.5.0/neovis.js"></script>
         
     </head>
     <body style = "background-color: #292929 ">
