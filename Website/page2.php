@@ -8,7 +8,7 @@
     <head>
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <link href="styles.css" rel="stylesheet" />
-        <link href="page2.css" rel="stylesheet"/>
+        <link href="page2.css?v=<?php echo time(); ?>" rel="stylesheet"/>
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" crossorigin="anonymous">
         <script src = "https://unpkg.com/split.js/dist/split.min.js"></script>
         <script src="https://cdn.neo4jlabs.com/neovis.js/v1.5.0/neovis.js"></script>
@@ -84,30 +84,33 @@
                     </div>
 
                     <div class = "cell ingDetails">
-                        <ul>
-                            <?php
-                                if($_GET != NULL){
-                                    $exec = "python3 Queries/ingredientRecipes.py"." ".$_GET['ingredient'];
+                        <div id = "recipes">
+                            <h3><u> Recipes: </u></h3>
+                            <ul class = "recipeList">
+                                <?php
+                                    if($_GET != NULL){
+                                        $exec = "python3 Queries/ingredientRecipes.py"." ".$_GET['ingredient'];
 
-                                    $result = exec($exec);
-                                    $result_array = json_decode($result);
+                                        $result = exec($exec);
+                                        $result_array = json_decode($result);
 
-                                    foreach($result_array as $recipe){
-                                        $sql = "SELECT recipeLink FROM recipeLinks WHERE recipeName = '".$recipe."'";
-                                        $resultQuery = $conn->query($sql);
-    
-                                        if ($resultQuery->num_rows > 0) {
-                                            //output data of each row
-                                            $rows = $resultQuery->fetch_assoc();
-                                            echo("<li ><a target='_blank' href=".$rows['recipeLink'].">$recipe</a></li>");
+                                        foreach($result_array as $recipe){
+                                            $sql = "SELECT recipeLink FROM recipeLinks WHERE recipeName = '".$recipe."'";
+                                            $resultQuery = $conn->query($sql);
                                             
+                                            if ($resultQuery->num_rows > 0) {
+                                                //output data of each row
+                                                $rows = $resultQuery->fetch_assoc();
+                                                echo("<li class = 'recipeListInd'><a target='_blank' href=".$rows['recipeLink'].">$recipe</a></li>");
+                                            
+                                            }
                                         }
                                     }
-                                }
-                            ?>
+                                ?>
                             
-                        </ul>
-                        
+                            </ul>
+                        </div>
+                
                     </div>
                     
                     

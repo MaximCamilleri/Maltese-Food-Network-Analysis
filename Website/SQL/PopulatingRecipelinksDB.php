@@ -14,7 +14,7 @@ if(!$connContact){
     die("Connection failed: ". mysqli_connect_error());
 }
 
-$open = fopen("../CSV/listOfRecipes.csv", "r");
+$open = fopen("../../CSV/listOfRecipes.csv", "r");
 
 $column = fgetcsv($open, 1000, ",");
 
