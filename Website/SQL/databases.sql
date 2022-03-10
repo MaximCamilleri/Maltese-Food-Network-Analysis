@@ -1,6 +1,6 @@
-CREATE TABLE recipeLinks(
-    recipeID int AUTO INCREMENT,
-    recipeName char(1000),
-    recipeLink char(2000),
+CREATE TABLE recipelinks(
+    recipeID int AUTO_INCREMENT,
+    recipeName char(200),
+    recipeLink text,
     PRIMARY KEY(recipeID)
 );
