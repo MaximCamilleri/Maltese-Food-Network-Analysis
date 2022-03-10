@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 
+<?php
+    include_once 'php/dbh.inc.php';
+?>
+
 <html>
     <head>
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
@@ -15,10 +19,10 @@
             <div class="border-end" id="sidebar-wrapper" >
                 <div class="sidebar-heading border-bottom bg-light"></div>
                 <div class="list-group list-group-flush">
-                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="page1.html">Home</a>
+                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="page1.php">Home</a>
                     <a class="list-group-item list-group-item-action list-group-item-light p-3" href="page2.php">Ingredient Search</a>
-                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="page3.html">Percentage Matcher</a>
-                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="page4.html">List Entry</a>
+                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="page3.php">Percentage Matcher</a>
+                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="page4.php">List Entry</a>
                     <!-- <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#!">Profile</a>
                     <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#!">Status</a> -->
                 </div>
@@ -59,13 +63,18 @@
                         <table class = "featIng">
                             <ul>
                             <?php
-                                $result = exec("python3 Queries/test.py");
+                                $result = exec("python3 Queries/populerIngredients.py");
                                 $result_array = json_decode($result);
 
                                 foreach($result_array as $row){
+                                    $class = $row;
+                                    $row = str_ireplace("_", " ", $row);
+                                    $row = ucfirst($row);
                                     echo("<li class = 'allIng'>
-                                            <!-- <p>1</p> -->
-                                            <button class = 'ingBtn'> $row </button>
+                                            <form method='GET'>
+                                                <input type='hidden' name = 'ingredient' value = '$class'>
+                                                <button type = 'submit' class = 'ingBtn'> $row </button>
+                                            </form>
                                             </li>");
                                 }
                             ?>
@@ -74,7 +83,31 @@
                     </div>
 
                     <div class = "cell ingDetails">
-                        Ing Details
+                        <ul>
+                            <?php
+                                if($_GET != NULL){
+                                    $exec = "python3 Queries/ingredientRecipes.py"." ".$_GET['ingredient'];
+
+                                    $result = exec($exec);
+                                    $result_array = json_decode($result);
+
+                                    foreach($result_array as $recipe){
+                                        $sql = "SELECT recipeLink, recipeName FROM recipeLinks WHERE recipeName =".$recipe;
+                                        $resultQuery = $conn->query($sql);
+    
+                                        if ($resultQuery->num_rows > 0) {
+                                            // output data of each row
+                                            // while($rows = $result->fetch_assoc()){
+                                            //     echo("<li ><a href="$rows['recipelink']">$recipe</a></li>");
+                                            // }
+                                            echo $resultQuery;
+                                        }
+                                    }
+                                }
+                            ?>
+                            
+                        </ul>
+                        
                     </div>
                     
                     

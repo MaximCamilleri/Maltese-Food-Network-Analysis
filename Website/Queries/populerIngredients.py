@@ -13,7 +13,7 @@ ret  = []
 
 for temp in result:
     temp = str(temp).split("'")
-    ret.append(temp[3].replace("_", " ").capitalize())
+    ret.append(temp[3])
 
 ret_json = json.dumps(ret)
 

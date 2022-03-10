@@ -13,10 +13,10 @@
             <div class="border-end" id="sidebar-wrapper" >
                 <div class="sidebar-heading border-bottom bg-light"></div>
                 <div class="list-group list-group-flush">
-                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="page1.html">Home</a>
+                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="page1.php">Home</a>
                     <a class="list-group-item list-group-item-action list-group-item-light p-3" href="page2.php">Ingredient Search</a>
-                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="page3.html">Percentage Matcher</a>
-                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="page4.html">List Entry</a>
+                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="page3.php">Percentage Matcher</a>
+                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="page4.php">List Entry</a>
                     <!-- <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#!">Profile</a>
                     <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#!">Status</a> -->
                 </div>
