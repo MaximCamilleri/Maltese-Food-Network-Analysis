@@ -8,7 +8,6 @@ Maltese kapunata,green_bell_pepper,vegetable,1114.0
 Maltese kapunata,carrot,vegetable,1216.0
 Maltese kapunata,tomato,vegetable,1240.0
 Maltese kapunata,celery_salt,,
-Maltese kapunata,tomato,vegetable,1240.0
 Maltese kapunata,caper,,
 Maltese kapunata,black_olive,,
 Maltese kapunata,thyme,herb,675.0
@@ -17,7 +16,6 @@ Maltese kapunata,oregano,herb,1382.0
 Maltese kapunata,red_wine_vinegar,,
 Maltese kapunata,sugar,,
 Maltese kapunata,pepper,spice,1471.0
-Maltese baked ricotta pie,corn_flour,,
 Maltese baked ricotta pie,salt,,
 Maltese baked ricotta pie,water,,
 Maltese baked ricotta pie,butter,dairy,298.0
@@ -32,9 +30,7 @@ Maltese baked ricotta pie,mint,herb,166.0
 Maltese baked ricotta pie,egg,animal product,848.0
 Maltese baked ricotta pie,ricotta,,
 Maltese baked ricotta pie,pepper,spice,1471.0
-Maltese-style bruschetta (hobż biż-żejt),goiaba,,
 Maltese-style bruschetta (hobż biż-żejt),tomato,vegetable,1240.0
-Maltese-style bruschetta (hobż biż-żejt),olive_oil,plant derivative,998.0
 Maltese-style bruschetta (hobż biż-żejt),olive_oil,plant derivative,998.0
 Maltese-style bruschetta (hobż biż-żejt),anchova,,
 Maltese-style bruschetta (hobż biż-żejt),black_olive,,
@@ -43,7 +39,6 @@ Maltese-style bruschetta (hobż biż-żejt),ricotta,,
 Maltese-style bruschetta (hobż biż-żejt),caper,,
 Maltese-style bruschetta (hobż biż-żejt),parsley,herb,251.0
 Maltese-style bruschetta (hobż biż-żejt),pepper,spice,1471.0
-Maltese-style bruschetta (hobż biż-żejt),olive_oil,plant derivative,998.0
 Maltese-style bruschetta (hobż biż-żejt),anise,spice,707.0
 Maltese-style bruschetta (hobż biż-żejt),cinnamon,spice,439.0
 Maltese-style bruschetta (hobż biż-żejt),green_leaves,,
@@ -53,7 +48,6 @@ Maltese-style bruschetta (hobż biż-żejt),salt,,
 Maltese-style bruschetta (hobż biż-żejt),lemon,fruit,1132.0
 Maltese-style bruschetta (hobż biż-żejt),orange,fruit,1257.0
 Maltese-style bruschetta (hobż biż-żejt),fresh_cheese,,
-Maltese rabbit stew (stuffat tal-fenek),rabbit,,
 Maltese rabbit stew (stuffat tal-fenek),pepper,spice,1471.0
 Maltese rabbit stew (stuffat tal-fenek),corn_flour,,
 Maltese rabbit stew (stuffat tal-fenek),vegetable_broth,,
@@ -69,13 +63,11 @@ Maltese rabbit stew (stuffat tal-fenek),potato,vegetable,385.0
 Maltese rabbit stew (stuffat tal-fenek),pea,vegetable,1088.0
 Maltese rabbit stew (stuffat tal-fenek),parsley,herb,251.0
 Maltese rabbit stew (stuffat tal-fenek),olive_oil,plant derivative,998.0
-Maltese rabbit stew (stuffat tal-fenek),garlic,vegetable,136.0
 Maltese rabbit stew (stuffat tal-fenek),red_wine,alcoholic beverage,619.0
 Maltese rabbit stew (stuffat tal-fenek),green_leaves,,
 Maltese rabbit stew (stuffat tal-fenek),cinnamon,spice,439.0
 Maltese rabbit stew (stuffat tal-fenek),anise,spice,707.0
 Maltese rabbit stew (stuffat tal-fenek),clove,spice,1320.0
-Bread with oil (hobż biż-żejt),vegetable_broth,,
 Bread with oil (hobż biż-żejt),pizza_dough,,
 Bread with oil (hobż biż-żejt),tomato,vegetable,1240.0
 Bread with oil (hobż biż-żejt),red_onion,,
@@ -84,7 +76,6 @@ Bread with oil (hobż biż-żejt),green_leaves,,
 Bread with oil (hobż biż-żejt),black_olive,,
 Bread with oil (hobż biż-żejt),ricotta,,
 Bread with oil (hobż biż-żejt),olive_oil,plant derivative,998.0
-Maltese Easter biscuits (figolli),corn_flour,,
 Maltese Easter biscuits (figolli),icing_sugar,,
 Maltese Easter biscuits (figolli),Qing_Pi,,
 Maltese Easter biscuits (figolli),lemon,fruit,1132.0
@@ -94,9 +85,7 @@ Maltese Easter biscuits (figolli),orange_blossom,,
 Maltese Easter biscuits (figolli),marzapane,,
 Maltese Easter biscuits (figolli),salmon_eggs,,
 Maltese Easter biscuits (figolli),white_meat,,
-Maltese Easter biscuits (figolli),icing_sugar,,
 Maltese Easter biscuits (figolli),black_olive,,
-Timpana,olive_oil,plant derivative,998.0
 Timpana,onion,vegetable,1447.0
 Timpana,garlic,vegetable,136.0
 Timpana,green_leaves,,
@@ -105,8 +94,6 @@ Timpana,beef,meat,248.0
 Timpana,pork,meat,417.0
 Timpana,chicken,meat,1338.0
 Timpana,tomato,vegetable,1240.0
-Timpana,tomato,vegetable,1240.0
-Timpana,beef,meat,248.0
 Timpana,nutmeg,spice,1356.0
 Timpana,pasta,,
 Timpana,parmesan,dairy,749.0
@@ -118,14 +105,12 @@ Timpana,schalotte,,
 Timpana,caper,,
 Timpana,lemon,fruit,1132.0
 Timpana,olive_oil,plant derivative,998.0
-Broad bean dip (bigilla),broad_bean,,
 Broad bean dip (bigilla),chicken,meat,1338.0
 Broad bean dip (bigilla),garlic,vegetable,136.0
 Broad bean dip (bigilla),chilli,,
 Broad bean dip (bigilla),olive_oil,plant derivative,998.0
 Broad bean dip (bigilla),lemon,fruit,1132.0
 Broad bean dip (bigilla),carrot,vegetable,1216.0
-"Pears baked with white wine, almonds and armaretto (langas mimli bil-lewz)",pear,fruit,735.0
 "Pears baked with white wine, almonds and armaretto (langas mimli bil-lewz)",sweet_pepper,,
 "Pears baked with white wine, almonds and armaretto (langas mimli bil-lewz)",almond_milk,,
 "Pears baked with white wine, almonds and armaretto (langas mimli bil-lewz)",sugar,,
@@ -133,7 +118,6 @@ Broad bean dip (bigilla),carrot,vegetable,1216.0
 "Pears baked with white wine, almonds and armaretto (langas mimli bil-lewz)",amarena,,
 "Pears baked with white wine, almonds and armaretto (langas mimli bil-lewz)",lemon,fruit,1132.0
 "Pears baked with white wine, almonds and armaretto (langas mimli bil-lewz)",vanilla,spice,1399.0
-Apple and fig cake ,apple,fruit,1197.0
 Apple and fig cake ,dried_grapes,,
 Apple and fig cake ,apple,fruit,1197.0
 Apple and fig cake ,lemon,fruit,1132.0
@@ -144,14 +128,12 @@ Apple and fig cake ,raisin,fruit,133.0
 Apple and fig cake ,cinnamon,spice,439.0
 Apple and fig cake ,five_spices,,
 Apple and fig cake ,whipped_cream,,
-Pork and pea pastizzi,pork,meat,417.0
 Pork and pea pastizzi,green_pepper,,
 Pork and pea pastizzi,dried_grapes,,
 Pork and pea pastizzi,sea_almonds,,
 Pork and pea pastizzi,clove,spice,1320.0
 Pork and pea pastizzi,anise,spice,707.0
 Pork and pea pastizzi,cinnamon,spice,439.0
-Pork and pea pastizzi,soy_sauce,plant derivative,1183.0
 Pork and pea pastizzi,soy_sauce,plant derivative,1183.0
 Pork and pea pastizzi,brown_sugar,,
 Pork and pea pastizzi,albahaca,,
@@ -163,7 +145,6 @@ Pork and pea pastizzi,salted_butter,,
 Pork and pea pastizzi,Jie_Mo,,
 Pork and pea pastizzi,mustard,plant derivative,1140.0
 Pork and pea pastizzi,honey,animal product,64.0
-Rabbit in tomato and wine sauce with rice,olive_oil,plant derivative,998.0
 Rabbit in tomato and wine sauce with rice,rabbit,,
 Rabbit in tomato and wine sauce with rice,onion,vegetable,1447.0
 Rabbit in tomato and wine sauce with rice,garlic,vegetable,136.0
@@ -176,7 +157,6 @@ Rabbit in tomato and wine sauce with rice,carrot,vegetable,1216.0
 Rabbit in tomato and wine sauce with rice,mushroom,vegetable,260.0
 Rabbit in tomato and wine sauce with rice,curry,,
 Rabbit in tomato and wine sauce with rice,rice,cereal/crop,205.0
-Peach and almond crumble,peach,fruit,1133.0
 Peach and almond crumble,apple,fruit,1197.0
 Peach and almond crumble,almond_milk,,
 Peach and almond crumble,rye_flour,cereal/crop,516.0
@@ -186,7 +166,6 @@ Peach and almond crumble,sugar,,
 Peach and almond crumble,vanilla,spice,1399.0
 Peach and almond crumble,Qing_Pi,,
 Peach and almond crumble,joghurt,,
-Christmas chocolate salami (romblu tal-milied bic-cikkulata),date,fruit,483.0
 Christmas chocolate salami (romblu tal-milied bic-cikkulata),concentrated_milk,,
 Christmas chocolate salami (romblu tal-milied bic-cikkulata),whiskey,alcoholic beverage,361.0
 Christmas chocolate salami (romblu tal-milied bic-cikkulata),biscuit,,
@@ -194,68 +173,53 @@ Christmas chocolate salami (romblu tal-milied bic-cikkulata),hazelnut,nut/seed/p
 Christmas chocolate salami (romblu tal-milied bic-cikkulata),apricot,fruit,1120.0
 Christmas chocolate salami (romblu tal-milied bic-cikkulata),chocolate,,
 Christmas chocolate salami (romblu tal-milied bic-cikkulata),icing_sugar,,
-Pumpkin and rice pie,corn_flour,,
 Pumpkin and rice pie,olive_oil,plant derivative,998.0
 Pumpkin and rice pie,water,,
 Pumpkin and rice pie,pumpkin,vegetable,575.0
-Pumpkin and rice pie,water,,
 Pumpkin and rice pie,rice,cereal/crop,205.0
-Pumpkin and rice pie,olive_oil,plant derivative,998.0
 Pumpkin and rice pie,red_onion,,
 Pumpkin and rice pie,black_olive,,
 Pumpkin and rice pie,fresh_cheese,,
 Pumpkin and rice pie,anchovy,,
 Pumpkin and rice pie,tuna,fish/seafood,296.0
-Grilled garfish with roasted potatoes (imsell mixwi),potato,vegetable,385.0
 Grilled garfish with roasted potatoes (imsell mixwi),olive_oil,plant derivative,998.0
 Grilled garfish with roasted potatoes (imsell mixwi),oregano,herb,1382.0
 Grilled garfish with roasted potatoes (imsell mixwi),fish,fish/seafood,878.0
 Grilled garfish with roasted potatoes (imsell mixwi),lemon,fruit,1132.0
-Grilled garfish with roasted potatoes (imsell mixwi),olive_oil,plant derivative,998.0
 Grilled garfish with roasted potatoes (imsell mixwi),garlic,vegetable,136.0
 Grilled garfish with roasted potatoes (imsell mixwi),parsley,herb,251.0
-Traditional Maltese Christmas honey rings,corn_flour,,
 Traditional Maltese Christmas honey rings,semolina,,
 Traditional Maltese Christmas honey rings,margarine,,
 Traditional Maltese Christmas honey rings,orange,fruit,1257.0
 Traditional Maltese Christmas honey rings,raclette,,
-Traditional Maltese Christmas honey rings,orange,fruit,1257.0
 Traditional Maltese Christmas honey rings,lemon,fruit,1132.0
 Traditional Maltese Christmas honey rings,mandarin,fruit,590.0
 Traditional Maltese Christmas honey rings,clove,spice,1320.0
 Traditional Maltese Christmas honey rings,five_spices,,
 Traditional Maltese Christmas honey rings,anise,spice,707.0
 Traditional Maltese Christmas honey rings,water,,
-Traditional Maltese Christmas honey rings,semolina,,
-"Sugarless cake with apricots, dates and almonds",apricot,fruit,1120.0
 "Sugarless cake with apricots, dates and almonds",date,fruit,483.0
 "Sugarless cake with apricots, dates and almonds",raisin,fruit,133.0
 "Sugarless cake with apricots, dates and almonds",almond_milk,,
 "Sugarless cake with apricots, dates and almonds",lemon,fruit,1132.0
 "Sugarless cake with apricots, dates and almonds",apple,fruit,1197.0
 "Sugarless cake with apricots, dates and almonds",vanilla,spice,1399.0
-Chicken rissoles ,wholemeal_bread,,
 Chicken rissoles ,milk,dairy,396.0
 Chicken rissoles ,chicken,meat,1338.0
 Chicken rissoles ,aromatic_herbs,,
 Chicken rissoles ,garlic,vegetable,136.0
 Chicken rissoles ,egg,animal product,848.0
-Chicken rissoles ,chicken,meat,1338.0
-Chicken rissoles ,tomato,vegetable,1240.0
 Chicken rissoles ,tomato,vegetable,1240.0
 Chicken rissoles ,green_leaves,,
 Chicken rissoles ,rice,cereal/crop,205.0
 Chicken rissoles ,parsley,herb,251.0
-Caponata,onion,vegetable,1447.0
 Caponata,olive_oil,plant derivative,998.0
 Caponata,tomato,vegetable,1240.0
 Caponata,eggplant,,
 Caponata,celery_salt,,
 Caponata,olive,fruit,466.0
 Caponata,caper,,
-Caponata,tomato,vegetable,1240.0
 Caponata,water,,
-Stuffed artichokes,artichoke,vegetable,1251.0
 Stuffed artichokes,lemon,fruit,1132.0
 Stuffed artichokes,garlic,vegetable,136.0
 Stuffed artichokes,parsley,herb,251.0
@@ -263,7 +227,6 @@ Stuffed artichokes,black_olive,,
 Stuffed artichokes,anchovy,,
 Stuffed artichokes,tuna,fish/seafood,296.0
 Stuffed artichokes,olive_oil,plant derivative,998.0
-Lenten biscuits (kwarezimal),corn_flour,,
 Lenten biscuits (kwarezimal),olive_oil,plant derivative,998.0
 Lenten biscuits (kwarezimal),sea_almonds,,
 Lenten biscuits (kwarezimal),sugar,,
@@ -274,17 +237,13 @@ Lenten biscuits (kwarezimal),clove,spice,1320.0
 Lenten biscuits (kwarezimal),water,,
 Lenten biscuits (kwarezimal),lemon,fruit,1132.0
 Lenten biscuits (kwarezimal),orange,fruit,1257.0
-Lenten biscuits (kwarezimal),water,,
 Lenten biscuits (kwarezimal),honey,animal product,64.0
-Lenten biscuits (kwarezimal),sea_almonds,,
-Sweet chestnut soup,chestnut,,
 Sweet chestnut soup,cocoa,plant derivative,1488.0
 Sweet chestnut soup,sugar,,
 Sweet chestnut soup,mandarin,fruit,590.0
 Sweet chestnut soup,five_spices,,
 Sweet chestnut soup,clove,spice,1320.0
 Sweet chestnut soup,water,,
-Maltese traditional biscuit with sesame seeds,corn_flour,,
 Maltese traditional biscuit with sesame seeds,Qing_Pi,,
 Maltese traditional biscuit with sesame seeds,clove,spice,1320.0
 Maltese traditional biscuit with sesame seeds,anise,spice,707.0
@@ -294,7 +253,6 @@ Maltese traditional biscuit with sesame seeds,lemon,fruit,1132.0
 Maltese traditional biscuit with sesame seeds,egg,animal product,848.0
 Maltese traditional biscuit with sesame seeds,water,,
 Maltese traditional biscuit with sesame seeds,sesame,,
-Bread and butter pudding (puddina),bread,cereal/crop,105.0
 Bread and butter pudding (puddina),sugar,,
 Bread and butter pudding (puddina),mustard,plant derivative,1140.0
 Bread and butter pudding (puddina),flour,,
@@ -305,15 +263,12 @@ Bread and butter pudding (puddina),almond,nut/seed/pulse,18.0
 Bread and butter pudding (puddina),berries,,
 Bread and butter pudding (puddina),vanilla,spice,1399.0
 Bread and butter pudding (puddina),whisky,,
-Food Safari's timpana,butter,dairy,298.0
 Food Safari's timpana,onion,vegetable,1447.0
 Food Safari's timpana,garlic,vegetable,136.0
 Food Safari's timpana,bacon,meat,19.0
 Food Safari's timpana,pork,meat,417.0
 Food Safari's timpana,beef,meat,248.0
 Food Safari's timpana,chicken,meat,1338.0
-Food Safari's timpana,chicken,meat,1338.0
-Food Safari's timpana,tomato,vegetable,1240.0
 Food Safari's timpana,tomato,vegetable,1240.0
 Food Safari's timpana,macaroni,cereal/crop,638.0
 Food Safari's timpana,parmesan,dairy,749.0
@@ -321,14 +276,11 @@ Food Safari's timpana,blue_cheese,dairy,994.0
 Food Safari's timpana,egg,animal product,848.0
 Food Safari's timpana,pepper,spice,1471.0
 Food Safari's timpana,puff_pastry,,
-Food Safari's timpana,egg,animal product,848.0
 Food Safari's timpana,milk,dairy,396.0
-Beef olives (bragioli),olive_oil,plant derivative,998.0
 Beef olives (bragioli),onion,vegetable,1447.0
 Beef olives (bragioli),garlic,vegetable,136.0
 Beef olives (bragioli),tomato,vegetable,1240.0
 Beef olives (bragioli),parsley,herb,251.0
-Beef olives (bragioli),green_leaves,,
 Beef olives (bragioli),green_leaves,,
 Beef olives (bragioli),red_wine,alcoholic beverage,619.0
 Beef olives (bragioli),water,,
@@ -336,14 +288,9 @@ Beef olives (bragioli),pepper,spice,1471.0
 Beef olives (bragioli),steak,,
 Beef olives (bragioli),veal,meat,652.0
 Beef olives (bragioli),bacon,meat,19.0
-Beef olives (bragioli),garlic,vegetable,136.0
-Beef olives (bragioli),parsley,herb,251.0
 Beef olives (bragioli),oregano,herb,1382.0
-Beef olives (bragioli),onion,vegetable,1447.0
 Beef olives (bragioli),grated_cheese,,
 Beef olives (bragioli),egg,animal product,848.0
-Beef olives (bragioli),pepper,spice,1471.0
-Braised potatoes with Maltese sausage,olive_oil,plant derivative,998.0
 Braised potatoes with Maltese sausage,shallots,,
 Braised potatoes with Maltese sausage,garlic,vegetable,136.0
 Braised potatoes with Maltese sausage,thyme,herb,675.0
@@ -357,16 +304,9 @@ Braised potatoes with Maltese sausage,potato,vegetable,385.0
 Braised potatoes with Maltese sausage,sausage,,
 Braised potatoes with Maltese sausage,rocket,,
 Braised potatoes with Maltese sausage,olive_oil,plant derivative,998.0
-Braised potatoes with Maltese sausage,shallots,,
-Braised potatoes with Maltese sausage,garlic,vegetable,136.0
-Braised potatoes with Maltese sausage,green_leaves,,
-Braised potatoes with Maltese sausage,thyme,herb,675.0
-Braised potatoes with Maltese sausage,porto,,
 Braised potatoes with Maltese sausage,bran,,
-Braised potatoes with Maltese sausage,sherry_vinegar,,
 Braised potatoes with Maltese sausage,truffle_oil,,
 Braised potatoes with Maltese sausage,truffle,vegetable,1469.0
-Rabbit stew (stuffat tal-fenek),rabbit,,
 Rabbit stew (stuffat tal-fenek),red_wine,alcoholic beverage,619.0
 Rabbit stew (stuffat tal-fenek),green_leaves,,
 Rabbit stew (stuffat tal-fenek),garlic,vegetable,136.0
@@ -374,17 +314,14 @@ Rabbit stew (stuffat tal-fenek),olive_oil,plant derivative,998.0
 Rabbit stew (stuffat tal-fenek),pepper,spice,1471.0
 Rabbit stew (stuffat tal-fenek),onion,vegetable,1447.0
 Rabbit stew (stuffat tal-fenek),tomato,vegetable,1240.0
-Rabbit stew (stuffat tal-fenek),tomato,vegetable,1240.0
 Rabbit stew (stuffat tal-fenek),water,,
 Rabbit stew (stuffat tal-fenek),potato,vegetable,385.0
-Open sandwich (hobz biz-zejt),herbs_of_provence,,
 Open sandwich (hobz biz-zejt),erva_doce,,
 Open sandwich (hobz biz-zejt),caper,,
 Open sandwich (hobz biz-zejt),anchova,,
 Open sandwich (hobz biz-zejt),pepper,spice,1471.0
 Open sandwich (hobz biz-zejt),parsley,herb,251.0
 Open sandwich (hobz biz-zejt),olive_oil,plant derivative,998.0
-Veal Chop – Kustilja tal-Vitella,veal,meat,652.0
 Veal Chop – Kustilja tal-Vitella,salmon_eggs,,
 Veal Chop – Kustilja tal-Vitella,flour,,
 Veal Chop – Kustilja tal-Vitella,breadcrumbs,,
@@ -399,16 +336,13 @@ Veal Chop – Kustilja tal-Vitella,tomato,vegetable,1240.0
 Veal Chop – Kustilja tal-Vitella,pepper,spice,1471.0
 Veal Chop – Kustilja tal-Vitella,basil,herb,256.0
 Veal Chop – Kustilja tal-Vitella,mozzarella,,
-Sweet Ricotta Tart,fresh_cheese,,
 Sweet Ricotta Tart,cream_cheese,dairy,1117.0
 Sweet Ricotta Tart,vanilla,spice,1399.0
 Sweet Ricotta Tart,sugar,,
 Sweet Ricotta Tart,orange,fruit,1257.0
 Sweet Ricotta Tart,chocolate,,
 Sweet Ricotta Tart,icing_sugar,,
-Sweet Ricotta Tart,orange,fruit,1257.0
 Sweet Ricotta Tart,pasta_sfoglia,,
-Baked Pasta Shells with Pumpkin,pumpkin,vegetable,575.0
 Baked Pasta Shells with Pumpkin,olive_oil,plant derivative,998.0
 Baked Pasta Shells with Pumpkin,garlic,vegetable,136.0
 Baked Pasta Shells with Pumpkin,spinach,,
@@ -420,7 +354,6 @@ Baked Pasta Shells with Pumpkin,grated_cheese,,
 Baked Pasta Shells with Pumpkin,rosemary,herb,112.0
 Baked Pasta Shells with Pumpkin,lemon,fruit,1132.0
 Baked Pasta Shells with Pumpkin,pepper,spice,1471.0
-Pizza 4 Seasons,olive_oil,plant derivative,998.0
 Pizza 4 Seasons,mussel,fish/seafood,1195.0
 Pizza 4 Seasons,acqua,,
 Pizza 4 Seasons,rye_flour,cereal/crop,516.0
@@ -432,7 +365,6 @@ Pizza 4 Seasons,mozzarella,,
 Pizza 4 Seasons,artichoke,vegetable,1251.0
 Pizza 4 Seasons,black_olive,,
 Pizza 4 Seasons,pepper,spice,1471.0
-Fried Mozzarella Sandwich,mozzarella,,
 Fried Mozzarella Sandwich,bread,cereal/crop,105.0
 Fried Mozzarella Sandwich,egg,animal product,848.0
 Fried Mozzarella Sandwich,milk,dairy,396.0
@@ -441,15 +373,12 @@ Fried Mozzarella Sandwich,rye_flour,cereal/crop,516.0
 Fried Mozzarella Sandwich,breadcrumbs,,
 Fried Mozzarella Sandwich,sunflower_oil,plant derivative,391.0
 Fried Mozzarella Sandwich,pepper,spice,1471.0
-Tiramisu,white_meat,,
 Tiramisu,egg,animal product,848.0
 Tiramisu,sugar,,
 Tiramisu,mascarpone,,
 Tiramisu,ginger,spice,164.0
 Tiramisu,coffee,plant derivative,631.0
 Tiramisu,chocolate,,
-Tiramisu,chocolate,,
-Zaqq tal-Majjal fil-Forn – Pork Belly Oven Cooked,pork,meat,417.0
 Zaqq tal-Majjal fil-Forn – Pork Belly Oven Cooked,olive_oil,plant derivative,998.0
 Zaqq tal-Majjal fil-Forn – Pork Belly Oven Cooked,carrot,vegetable,1216.0
 Zaqq tal-Majjal fil-Forn – Pork Belly Oven Cooked,onion,vegetable,1447.0
@@ -458,7 +387,6 @@ Zaqq tal-Majjal fil-Forn – Pork Belly Oven Cooked,rosemary,herb,112.0
 Zaqq tal-Majjal fil-Forn – Pork Belly Oven Cooked,broccoli,vegetable,1421.0
 Zaqq tal-Majjal fil-Forn – Pork Belly Oven Cooked,potato,vegetable,385.0
 Zaqq tal-Majjal fil-Forn – Pork Belly Oven Cooked,bacon,meat,19.0
-Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,the,,
 Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,pepper,spice,1471.0
 Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,red_onion,,
 Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,tomato,vegetable,1240.0
@@ -469,17 +397,13 @@ Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,vegetable_broth,,
 Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,walnut,nut/seed/pulse,1255.0
 Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,pomegranate,,
 Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,cumin,spice,579.0
-Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,vegetable_broth,,
 Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,soy_sauce,plant derivative,1183.0
 Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,aceto_balsamico,,
 Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,salt,,
 Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,He_Tao,,
-Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,walnut,nut/seed/pulse,1255.0
 Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,parsley,herb,251.0
 Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,maple_syrup,plant derivative,35.0
-Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,olive_oil,plant derivative,998.0
 Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,lemon,fruit,1132.0
-Stuffed Calamari,calamari,,
 Stuffed Calamari,olive_oil,plant derivative,998.0
 Stuffed Calamari,red_onion,,
 Stuffed Calamari,tomato,vegetable,1240.0
@@ -490,13 +414,11 @@ Stuffed Calamari,olive,fruit,466.0
 Stuffed Calamari,anchovy,,
 Stuffed Calamari,parsley,herb,251.0
 Stuffed Calamari,salmon_eggs,,
-Għaġin bit-Tadam Imqadded,olive_oil,plant derivative,998.0
 Għaġin bit-Tadam Imqadded,tomato,vegetable,1240.0
 Għaġin bit-Tadam Imqadded,white_wine,alcoholic beverage,1428.0
 Għaġin bit-Tadam Imqadded,rosemary,herb,112.0
 Għaġin bit-Tadam Imqadded,garlic,vegetable,136.0
 Għaġin bit-Tadam Imqadded,soy_sauce,plant derivative,1183.0
-Għaġin bit-Tadam Imqadded,tomato,vegetable,1240.0
 Għaġin bit-Tadam Imqadded,butter,dairy,298.0
 Għaġin bit-Tadam Imqadded,parmesan,dairy,749.0
 Għaġin bit-Tadam Imqadded,lemon,fruit,1132.0
@@ -504,22 +426,18 @@ Għaġin bit-Tadam Imqadded,pepper,spice,1471.0
 Għaġin bit-Tadam Imqadded,chili_pepper,,
 Għaġin bit-Tadam Imqadded,water,,
 Għaġin bit-Tadam Imqadded,henne,,
-Strawberry Roly Poly,egg,animal product,848.0
 Strawberry Roly Poly,sugar,,
 Strawberry Roly Poly,raisin,fruit,133.0
 Strawberry Roly Poly,mascarpone,,
 Strawberry Roly Poly,fresa,,
 Strawberry Roly Poly,icing_sugar,,
 Strawberry Roly Poly,wild_strawberry,fruit,578.0
-Strawberry Roly Poly,icing_sugar,,
-Potato and Blue Cheese Soup,butter,dairy,298.0
 Potato and Blue Cheese Soup,onion,vegetable,1447.0
 Potato and Blue Cheese Soup,thyme,herb,675.0
 Potato and Blue Cheese Soup,potato,vegetable,385.0
 Potato and Blue Cheese Soup,chicken,meat,1338.0
 Potato and Blue Cheese Soup,blue_cheese,dairy,994.0
 Potato and Blue Cheese Soup,sour_cream,,
-Lemon Cheesecake,shortcrust_pastry,,
 Lemon Cheesecake,biscuit,,
 Lemon Cheesecake,salted_butter,,
 Lemon Cheesecake,filling,,
@@ -529,13 +447,9 @@ Lemon Cheesecake,icing_sugar,,
 Lemon Cheesecake,lemon,fruit,1132.0
 Lemon Cheesecake,sour_cream,,
 Lemon Cheesecake,sheep,,
-Lemon Cheesecake,sour_cream,,
-Lemon Cheesecake,lemon,fruit,1132.0
 Lemon Cheesecake,sugar,,
 Lemon Cheesecake,cornstarch,,
 Lemon Cheesecake,water,,
-Lemon Cheesecake,lemon,fruit,1132.0
-Insalta tal-Bakkaljaw – Salt Cod Salad,salt,,
 Insalta tal-Bakkaljaw – Salt Cod Salad,potato,vegetable,385.0
 Insalta tal-Bakkaljaw – Salt Cod Salad,red_onion,,
 Insalta tal-Bakkaljaw – Salt Cod Salad,red_cabbage,,
@@ -549,14 +463,11 @@ Insalta tal-Bakkaljaw – Salt Cod Salad,parsley,herb,251.0
 Insalta tal-Bakkaljaw – Salt Cod Salad,green_leaves,,
 Insalta tal-Bakkaljaw – Salt Cod Salad,groundcherry,,
 Insalta tal-Bakkaljaw – Salt Cod Salad,pepper,spice,1471.0
-Ghagin bil-Lumi – Lemon Pasta,butter,dairy,298.0
-Ghagin bil-Lumi – Lemon Pasta,lemon,fruit,1132.0
 Ghagin bil-Lumi – Lemon Pasta,lemon,fruit,1132.0
 Ghagin bil-Lumi – Lemon Pasta,mascarpone,,
 Ghagin bil-Lumi – Lemon Pasta,lettuce,vegetable,141.0
 Ghagin bil-Lumi – Lemon Pasta,parsley,herb,251.0
 Ghagin bil-Lumi – Lemon Pasta,parmesan,dairy,749.0
-Torta taż-Żaqq tal-Majjal – Pork Belly Pie,olive_oil,plant derivative,998.0
 Torta taż-Żaqq tal-Majjal – Pork Belly Pie,garlic,vegetable,136.0
 Torta taż-Żaqq tal-Majjal – Pork Belly Pie,onion,vegetable,1447.0
 Torta taż-Żaqq tal-Majjal – Pork Belly Pie,carrot,vegetable,1216.0
@@ -567,7 +478,6 @@ Torta taż-Żaqq tal-Majjal – Pork Belly Pie,pea,vegetable,1088.0
 Torta taż-Żaqq tal-Majjal – Pork Belly Pie,pork,meat,417.0
 Torta taż-Żaqq tal-Majjal – Pork Belly Pie,cabbage,vegetable,1237.0
 Torta taż-Żaqq tal-Majjal – Pork Belly Pie,pastry,,
-Stuffat tat-Tonn taz-Zejt,potato,vegetable,385.0
 Stuffat tat-Tonn taz-Zejt,onion,vegetable,1447.0
 Stuffat tat-Tonn taz-Zejt,garlic,vegetable,136.0
 Stuffat tat-Tonn taz-Zejt,tomato,vegetable,1240.0
@@ -577,8 +487,6 @@ Stuffat tat-Tonn taz-Zejt,caper,,
 Stuffat tat-Tonn taz-Zejt,black_olive,,
 Stuffat tat-Tonn taz-Zejt,ananas,,
 Stuffat tat-Tonn taz-Zejt,parsley,herb,251.0
-Stuffat tat-Tonn taz-Zejt,olive_oil,plant derivative,998.0
-Rabbit Liver Pappardelle,olive_oil,plant derivative,998.0
 Rabbit Liver Pappardelle,onion,vegetable,1447.0
 Rabbit Liver Pappardelle,garlic,vegetable,136.0
 Rabbit Liver Pappardelle,fennel,herb,196.0
@@ -596,8 +504,6 @@ Rabbit Liver Pappardelle,parmesan,dairy,749.0
 Rabbit Liver Pappardelle,smoked_paprika,,
 Rabbit Liver Pappardelle,goat_cheese,dairy,169.0
 Rabbit Liver Pappardelle,basil,herb,256.0
-Rabbit Liver Pappardelle,goat_cheese,dairy,169.0
-Orange Cake – Kejk tal-Laring,breadcrumbs,,
 Orange Cake – Kejk tal-Laring,sugar,,
 Orange Cake – Kejk tal-Laring,sea_almonds,,
 Orange Cake – Kejk tal-Laring,Qing_Pi,,
@@ -606,33 +512,25 @@ Orange Cake – Kejk tal-Laring,egg,animal product,848.0
 Orange Cake – Kejk tal-Laring,orange,fruit,1257.0
 Orange Cake – Kejk tal-Laring,lemon,fruit,1132.0
 Orange Cake – Kejk tal-Laring,maple_syrup,plant derivative,35.0
-Orange Cake – Kejk tal-Laring,orange,fruit,1257.0
-Orange Cake – Kejk tal-Laring,lemon,fruit,1132.0
-Orange Cake – Kejk tal-Laring,sugar,,
 Orange Cake – Kejk tal-Laring,clove,spice,1320.0
 Orange Cake – Kejk tal-Laring,cinnamon,spice,439.0
-Orange Cake – Kejk tal-Laring,joghurt,,
 Orange Cake – Kejk tal-Laring,joghurt,,
 Orange Cake – Kejk tal-Laring,pistachio,nut/seed/pulse,695.0
 Orange Cake – Kejk tal-Laring,chocolate,,
 Orange Cake – Kejk tal-Laring,honey,animal product,64.0
-Ravjul (Ravioli) with artichoke hearts filling,fresh_cheese,,
 Ravjul (Ravioli) with artichoke hearts filling,flour,,
 Ravjul (Ravioli) with artichoke hearts filling,salt,,
 Ravjul (Ravioli) with artichoke hearts filling,salmon_eggs,,
 Ravjul (Ravioli) with artichoke hearts filling,olive_oil,plant derivative,998.0
 Ravjul (Ravioli) with artichoke hearts filling,filling,,
-Ravjul (Ravioli) with artichoke hearts filling,olive_oil,plant derivative,998.0
 Ravjul (Ravioli) with artichoke hearts filling,onion,vegetable,1447.0
 Ravjul (Ravioli) with artichoke hearts filling,garlic,vegetable,136.0
 Ravjul (Ravioli) with artichoke hearts filling,artichoke,vegetable,1251.0
 Ravjul (Ravioli) with artichoke hearts filling,black_olive,,
 Ravjul (Ravioli) with artichoke hearts filling,parmesan,dairy,749.0
-Ravjul (Ravioli) with artichoke hearts filling,salmon_eggs,,
 Ravjul (Ravioli) with artichoke hearts filling,butter,dairy,298.0
 Ravjul (Ravioli) with artichoke hearts filling,parsley,herb,251.0
 Ravjul (Ravioli) with artichoke hearts filling,grated_cheese,,
-Qassatat,ceci,,
 Qassatat,fresh_cheese,,
 Qassatat,broad_bean,,
 Qassatat,raisin,fruit,133.0
@@ -641,17 +539,14 @@ Qassatat,olive_oil,plant derivative,998.0
 Qassatat,pepper,spice,1471.0
 Qassatat,pasta_sfoglia,,
 Qassatat,ceci,,
-Qassatat,olive_oil,plant derivative,998.0
 Qassatat,onion,vegetable,1447.0
 Qassatat,curry,,
 Qassatat,cannelle,,
 Qassatat,beef,meat,248.0
-Qassatat,ceci,,
 Qassatat,ricotta,,
 Qassatat,parmesan,dairy,749.0
 Qassatat,salt,,
 Qassatat,acqua,,
-Maltese Lasagna and a Cheeselets Panna Cotta Entree,olive_oil,plant derivative,998.0
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,red_onion,,
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,beef,meat,248.0
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,five_spices,,
@@ -659,21 +554,14 @@ Maltese Lasagna and a Cheeselets Panna Cotta Entree,soy_sauce,plant derivative,1
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,tomato,vegetable,1240.0
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,basil,herb,256.0
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,oregano,herb,1382.0
-Maltese Lasagna and a Cheeselets Panna Cotta Entree,tomato,vegetable,1240.0
-Maltese Lasagna and a Cheeselets Panna Cotta Entree,beef,meat,248.0
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,red_wine,alcoholic beverage,619.0
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,lasagna,,
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,fresh_cheese,,
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,ricotta,,
-Maltese Lasagna and a Cheeselets Panna Cotta Entree,soy_sauce,plant derivative,1183.0
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,mozzarella,,
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,grated_cheese,,
-Maltese Lasagna and a Cheeselets Panna Cotta Entree,ricotta,,
-Maltese Lasagna and a Cheeselets Panna Cotta Entree,fresh_cheese,,
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,milk,dairy,396.0
-Maltese Lasagna and a Cheeselets Panna Cotta Entree,fresh_cheese,,
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,sheep,,
-Lamb Shanks cooked in Red Wine and Tomatoes,peach,fruit,1133.0
 Lamb Shanks cooked in Red Wine and Tomatoes,corn_flour,,
 Lamb Shanks cooked in Red Wine and Tomatoes,pepper,spice,1471.0
 Lamb Shanks cooked in Red Wine and Tomatoes,cinnamon,spice,439.0
@@ -683,38 +571,27 @@ Lamb Shanks cooked in Red Wine and Tomatoes,garlic,vegetable,136.0
 Lamb Shanks cooked in Red Wine and Tomatoes,ginger,spice,164.0
 Lamb Shanks cooked in Red Wine and Tomatoes,carrot,vegetable,1216.0
 Lamb Shanks cooked in Red Wine and Tomatoes,green_leaves,,
-Lamb Shanks cooked in Red Wine and Tomatoes,cinnamon,spice,439.0
 Lamb Shanks cooked in Red Wine and Tomatoes,tomato,vegetable,1240.0
 Lamb Shanks cooked in Red Wine and Tomatoes,soy_sauce,plant derivative,1183.0
 Lamb Shanks cooked in Red Wine and Tomatoes,red_wine,alcoholic beverage,619.0
 Lamb Shanks cooked in Red Wine and Tomatoes,cauliflower,vegetable,1370.0
-Lamb Shanks cooked in Red Wine and Tomatoes,cauliflower,vegetable,1370.0
 Lamb Shanks cooked in Red Wine and Tomatoes,mung_bean,vegetable,204.0
-Lamb Shanks cooked in Red Wine and Tomatoes,garlic,vegetable,136.0
-Lamb Shanks cooked in Red Wine and Tomatoes,soy_sauce,plant derivative,1183.0
 Lamb Shanks cooked in Red Wine and Tomatoes,breadcrumbs,,
 Lamb Shanks cooked in Red Wine and Tomatoes,blue_cheese,dairy,994.0
 Lamb Shanks cooked in Red Wine and Tomatoes,cheddar,,
-Mince Pies,pastry,,
 Mince Pies,corn_flour,,
 Mince Pies,butter,dairy,298.0
 Mince Pies,sugar,,
 Mince Pies,egg,animal product,848.0
 Mince Pies,lemon,fruit,1132.0
-Mince Pies,egg,animal product,848.0
-Mince Pies,sugar,,
 Mince Pies,quince,fruit,889.0
-Mince Pies,butter,dairy,298.0
 Mince Pies,apple,fruit,1197.0
 Mince Pies,raisin,fruit,133.0
 Mince Pies,currant,fruit,419.0
-Mince Pies,raisin,fruit,133.0
 Mince Pies,eel,fish/seafood,328.0
-Mince Pies,sugar,,
 Mince Pies,almond,nut/seed/pulse,18.0
 Mince Pies,five_spices,,
 Mince Pies,bran,,
-Pork Roulade – Bragjoli tal-Majjal,pork,meat,417.0
 Pork Roulade – Bragjoli tal-Majjal,mushroom,vegetable,260.0
 Pork Roulade – Bragjoli tal-Majjal,onion,vegetable,1447.0
 Pork Roulade – Bragjoli tal-Majjal,whole_macaroni,,
@@ -725,14 +602,12 @@ Pork Roulade – Bragjoli tal-Majjal,red_wine,alcoholic beverage,619.0
 Pork Roulade – Bragjoli tal-Majjal,green_leaves,,
 Pork Roulade – Bragjoli tal-Majjal,parsley,herb,251.0
 Pork Roulade – Bragjoli tal-Majjal,pepper,spice,1471.0
-Qaghaq tal-Ghasel – Honey Rings,pastry,,
 Qaghaq tal-Ghasel – Honey Rings,corn_flour,,
 Qaghaq tal-Ghasel – Honey Rings,butter,dairy,298.0
 Qaghaq tal-Ghasel – Honey Rings,egg,animal product,848.0
 Qaghaq tal-Ghasel – Honey Rings,water,,
 Qaghaq tal-Ghasel – Honey Rings,filling,,
 Qaghaq tal-Ghasel – Honey Rings,maple_syrup,plant derivative,35.0
-Qaghaq tal-Ghasel – Honey Rings,water,,
 Qaghaq tal-Ghasel – Honey Rings,sugar,,
 Qaghaq tal-Ghasel – Honey Rings,lemon,fruit,1132.0
 Qaghaq tal-Ghasel – Honey Rings,hazelnut,nut/seed/pulse,152.0
@@ -741,7 +616,6 @@ Qaghaq tal-Ghasel – Honey Rings,chocolate,,
 Qaghaq tal-Ghasel – Honey Rings,salade,,
 Qaghaq tal-Ghasel – Honey Rings,five_spices,,
 Qaghaq tal-Ghasel – Honey Rings,semolina,,
-Scotch egg with Maltese Sausage,sausage,,
 Scotch egg with Maltese Sausage,parsley,herb,251.0
 Scotch egg with Maltese Sausage,soft_bread,,
 Scotch egg with Maltese Sausage,breadcrumbs,,
@@ -751,7 +625,6 @@ Scotch egg with Maltese Sausage,sunflower_oil,plant derivative,391.0
 Scotch egg with Maltese Sausage,vinaigrette,,
 Scotch egg with Maltese Sausage,rucola,,
 Scotch egg with Maltese Sausage,tomato,vegetable,1240.0
-Penne with Maltese Sausage in a pastry plate,smoked_paprika,,
 Penne with Maltese Sausage in a pastry plate,olive_oil,plant derivative,998.0
 Penne with Maltese Sausage in a pastry plate,onion,vegetable,1447.0
 Penne with Maltese Sausage in a pastry plate,cherry_tomato,,
@@ -759,10 +632,8 @@ Penne with Maltese Sausage in a pastry plate,tomato,vegetable,1240.0
 Penne with Maltese Sausage in a pastry plate,sausage,,
 Penne with Maltese Sausage in a pastry plate,rosemary,herb,112.0
 Penne with Maltese Sausage in a pastry plate,pepper,spice,1471.0
-Penne with Maltese Sausage in a pastry plate,tomato,vegetable,1240.0
 Penne with Maltese Sausage in a pastry plate,mozzarella,,
 Penne with Maltese Sausage in a pastry plate,pate_brisee,,
-Pasta Salad,psillio,,
 Pasta Salad,tuna,fish/seafood,296.0
 Pasta Salad,corn,cereal/crop,427.0
 Pasta Salad,carrot,vegetable,1216.0
@@ -773,7 +644,6 @@ Pasta Salad,balsamic_vinegar,,
 Pasta Salad,olive_oil,plant derivative,998.0
 Pasta Salad,grated_cheese,,
 Pasta Salad,mustard,plant derivative,1140.0
-Pulpetti tal-Qarabaghli u Wraps bil-laham,vegetable_broth,,
 Pulpetti tal-Qarabaghli u Wraps bil-laham,zucchini,vegetable,1080.0
 Pulpetti tal-Qarabaghli u Wraps bil-laham,salt,,
 Pulpetti tal-Qarabaghli u Wraps bil-laham,carrot,vegetable,1216.0
@@ -792,12 +662,10 @@ Pulpetti tal-Qarabaghli u Wraps bil-laham,avocado,fruit,94.0
 Pulpetti tal-Qarabaghli u Wraps bil-laham,Ning_Ru,,
 Pulpetti tal-Qarabaghli u Wraps bil-laham,kidney_bean,vegetable,759.0
 Pulpetti tal-Qarabaghli u Wraps bil-laham,smoked_paprika,,
-Pulpetti tal-Qarabaghli u Wraps bil-laham,garlic,vegetable,136.0
 Pulpetti tal-Qarabaghli u Wraps bil-laham,chilli,,
 Pulpetti tal-Qarabaghli u Wraps bil-laham,tortilla,,
 Pulpetti tal-Qarabaghli u Wraps bil-laham,mozzarella,,
 Pulpetti tal-Qarabaghli u Wraps bil-laham,blue_cheese,dairy,994.0
-Ghadam – Bones,pastry,,
 Ghadam – Bones,flour,,
 Ghadam – Bones,butter,dairy,298.0
 Ghadam – Bones,egg,animal product,848.0
@@ -808,53 +676,30 @@ Ghadam – Bones,water,,
 Ghadam – Bones,filling,,
 Ghadam – Bones,white_meat,,
 Ghadam – Bones,almond,nut/seed/pulse,18.0
-Ghadam – Bones,sugar,,
 Ghadam – Bones,sucre_glace,,
 Ghadam – Bones,icing_sugar,,
-Ghadam – Bones,water,,
-Maltese Platter,tuna,fish/seafood,296.0
 Maltese Platter,canela,,
 Maltese Platter,tbsp,,
 Maltese Platter,tomato,vegetable,1240.0
 Maltese Platter,tsp,,
-Maltese Platter,tbsp,,
 Maltese Platter,garlic,vegetable,136.0
-Maltese Platter,tsp,,
-Maltese Platter,tsp,,
-Maltese Platter,tsp,,
 Maltese Platter,olive_oil,plant derivative,998.0
 Maltese Platter,olive,fruit,466.0
-Maltese Platter,olive,fruit,466.0
-Maltese Platter,garlic,vegetable,136.0
 Maltese Platter,parsley,herb,251.0
-Maltese Platter,tomato,vegetable,1240.0
 Maltese Platter,caper,,
 Maltese Platter,pepper,spice,1471.0
-Maltese Platter,olive_oil,plant derivative,998.0
 Maltese Platter,chick_pea_flour,,
 Maltese Platter,chicken,meat,1338.0
-Maltese Platter,garlic,vegetable,136.0
-Maltese Platter,parsley,herb,251.0
 Maltese Platter,mustard,plant derivative,1140.0
 Maltese Platter,lemon,fruit,1132.0
-Maltese Platter,pepper,spice,1471.0
-Maltese Platter,olive_oil,plant derivative,998.0
 Maltese Platter,latte,,
 Maltese Platter,aubergine,,
 Maltese Platter,fresh_cheese,,
 Maltese Platter,hard_cheese,,
 Maltese Platter,bread,cereal/crop,105.0
 Maltese Platter,onion,vegetable,1447.0
-Maltese Platter,tomato,vegetable,1240.0
-Maltese Platter,olive_oil,plant derivative,998.0
-Maltese Platter,pepper,spice,1471.0
-Maltese Platter,parsley,herb,251.0
-Maltese Platter,olive,fruit,466.0
-Maltese Platter,tomato,vegetable,1240.0
 Maltese Platter,pickle,,
-Maltese Platter,caper,,
 Maltese Platter,riso,,
-Wraps – Three Ways,salmon,fish/seafood,940.0
 Wraps – Three Ways,tortilla,,
 Wraps – Three Ways,soy_sauce,plant derivative,1183.0
 Wraps – Three Ways,smoker_salmon,,
@@ -862,19 +707,12 @@ Wraps – Three Ways,avocado,fruit,94.0
 Wraps – Three Ways,green_leaves,,
 Wraps – Three Ways,erbse_gespalten,,
 Wraps – Three Ways,ham,meat,236.0
-Wraps – Three Ways,tortilla,,
 Wraps – Three Ways,sandwichbrot,,
 Wraps – Three Ways,cucumber,vegetable,1044.0
-Wraps – Three Ways,ham,meat,236.0
 Wraps – Three Ways,carrot,vegetable,1216.0
 Wraps – Three Ways,grated_cheese,,
 Wraps – Three Ways,speck,,
-Wraps – Three Ways,tortilla,,
-Wraps – Three Ways,avocado,fruit,94.0
-Wraps – Three Ways,speck,,
 Wraps – Three Ways,fresh_cheese,,
-Wraps – Three Ways,green_leaves,,
-Maltese Trifle,smoked_trout,,
 Maltese Trifle,ricotta,,
 Maltese Trifle,fresh_cheese,,
 Maltese Trifle,sugar,,
@@ -884,9 +722,6 @@ Maltese Trifle,berries,,
 Maltese Trifle,cashew,nut/seed/pulse,1519.0
 Maltese Trifle,mustard,plant derivative,1140.0
 Maltese Trifle,milk,dairy,396.0
-Maltese Trifle,sugar,,
-Maltese Trifle,mustard,plant derivative,1140.0
-Spalla tal-Majjal – Pulled Pork with Cream Cheese Potato,sunflower_oil,plant derivative,391.0
 Spalla tal-Majjal – Pulled Pork with Cream Cheese Potato,pork,meat,417.0
 Spalla tal-Majjal – Pulled Pork with Cream Cheese Potato,smoked_paprika,,
 Spalla tal-Majjal – Pulled Pork with Cream Cheese Potato,apple,fruit,1197.0
@@ -901,14 +736,11 @@ Spalla tal-Majjal – Pulled Pork with Cream Cheese Potato,thyme,herb,675.0
 Spalla tal-Majjal – Pulled Pork with Cream Cheese Potato,cream_cheese,dairy,1117.0
 Spalla tal-Majjal – Pulled Pork with Cream Cheese Potato,potato,vegetable,385.0
 Spalla tal-Majjal – Pulled Pork with Cream Cheese Potato,pancetta,,
-Spalla tal-Majjal – Pulled Pork with Cream Cheese Potato,cream_cheese,dairy,1117.0
 Spalla tal-Majjal – Pulled Pork with Cream Cheese Potato,blue_cheese,dairy,994.0
 Spalla tal-Majjal – Pulled Pork with Cream Cheese Potato,cheddar,,
-Torta tal-Lampuki – Lampuki Pie,pasta_sfoglia,,
 Torta tal-Lampuki – Lampuki Pie,filling,,
 Torta tal-Lampuki – Lampuki Pie,tomato,vegetable,1240.0
 Torta tal-Lampuki – Lampuki Pie,cauliflower,vegetable,1370.0
-Torta tal-Lampuki – Lampuki Pie,tomato,vegetable,1240.0
 Torta tal-Lampuki – Lampuki Pie,onion,vegetable,1447.0
 Torta tal-Lampuki – Lampuki Pie,spinach,,
 Torta tal-Lampuki – Lampuki Pie,pea,vegetable,1088.0
@@ -921,7 +753,6 @@ Torta tal-Lampuki – Lampuki Pie,lemon,fruit,1132.0
 Torta tal-Lampuki – Lampuki Pie,mint,herb,166.0
 Torta tal-Lampuki – Lampuki Pie,marjoram,herb,1379.0
 Torta tal-Lampuki – Lampuki Pie,sesame,,
-Stuffed Peppers and Pork Chops,red_cabbage,,
 Stuffed Peppers and Pork Chops,olive_oil,plant derivative,998.0
 Stuffed Peppers and Pork Chops,onion,vegetable,1447.0
 Stuffed Peppers and Pork Chops,garlic,vegetable,136.0
@@ -936,21 +767,17 @@ Stuffed Peppers and Pork Chops,parmesan,dairy,749.0
 Stuffed Peppers and Pork Chops,pepper,spice,1471.0
 Stuffed Peppers and Pork Chops,pork,meat,417.0
 Stuffed Peppers and Pork Chops,soy_sauce,plant derivative,1183.0
-Pixxispad Mixwi – Grilled Swordfish,salt,,
 Pixxispad Mixwi – Grilled Swordfish,paprika,,
 Pixxispad Mixwi – Grilled Swordfish,pepper,spice,1471.0
 Pixxispad Mixwi – Grilled Swordfish,oregano,herb,1382.0
 Pixxispad Mixwi – Grilled Swordfish,thyme,herb,675.0
 Pixxispad Mixwi – Grilled Swordfish,garlic,vegetable,136.0
-Spaghetti – Taste of Malta,spaghetti,,
 Spaghetti – Taste of Malta,olive_oil,plant derivative,998.0
-Spaghetti – Taste of Malta,lemon,fruit,1132.0
 Spaghetti – Taste of Malta,lemon,fruit,1132.0
 Spaghetti – Taste of Malta,parsley,herb,251.0
 Spaghetti – Taste of Malta,parmesan,dairy,749.0
 Spaghetti – Taste of Malta,tuna,fish/seafood,296.0
 Spaghetti – Taste of Malta,pepper,spice,1471.0
-Stuffed Aubergine and Pork Burgers,aubergine,,
 Stuffed Aubergine and Pork Burgers,eggplant,,
 Stuffed Aubergine and Pork Burgers,onion,vegetable,1447.0
 Stuffed Aubergine and Pork Burgers,tomato,vegetable,1240.0
@@ -960,15 +787,10 @@ Stuffed Aubergine and Pork Burgers,egg,animal product,848.0
 Stuffed Aubergine and Pork Burgers,pepper,spice,1471.0
 Stuffed Aubergine and Pork Burgers,soy_sauce,plant derivative,1183.0
 Stuffed Aubergine and Pork Burgers,pork,meat,417.0
-Stuffed Aubergine and Pork Burgers,pork,meat,417.0
-Stuffed Aubergine and Pork Burgers,egg,animal product,848.0
 Stuffed Aubergine and Pork Burgers,parsley,herb,251.0
 Stuffed Aubergine and Pork Burgers,olive_oil,plant derivative,998.0
 Stuffed Aubergine and Pork Burgers,parmesan,dairy,749.0
 Stuffed Aubergine and Pork Burgers,semolina,,
-Stuffed Aubergine and Pork Burgers,pepper,spice,1471.0
-Stuffed Aubergine and Pork Burgers,soy_sauce,plant derivative,1183.0
-Salads pt 2,ceci,,
 Salads pt 2,tomato,vegetable,1240.0
 Salads pt 2,pepper,spice,1471.0
 Salads pt 2,onion,vegetable,1447.0
@@ -982,19 +804,11 @@ Salads pt 2,ceci,,
 Salads pt 2,rucola,,
 Salads pt 2,fresh_cheese,,
 Salads pt 2,Ma_He,,
-Salads pt 2,goat_cheese,dairy,169.0
 Salads pt 2,vinaigrette,,
-Salads pt 2,ceci,,
-Salads pt 2,rucola,,
-Salads pt 2,tomato,vegetable,1240.0
 Salads pt 2,oregano,herb,1382.0
-Salads pt 2,pepper,spice,1471.0
-Salads pt 2,fresh_cheese,,
-Salads pt 2,onion,vegetable,1447.0
 Salads pt 2,aubergine,,
 Salads pt 2,spargel,,
 Salads pt 2,joghurt,,
-Crusted Salmon,steak,,
 Crusted Salmon,honey,animal product,64.0
 Crusted Salmon,mustard,plant derivative,1140.0
 Crusted Salmon,thyme,herb,675.0
@@ -1003,7 +817,6 @@ Crusted Salmon,parsley,herb,251.0
 Crusted Salmon,paprika,,
 Crusted Salmon,olive_oil,plant derivative,998.0
 Crusted Salmon,pepper,spice,1471.0
-Salads PT1,salade,,
 Salads PT1,potato,vegetable,385.0
 Salads PT1,tuna,fish/seafood,296.0
 Salads PT1,corn,cereal/crop,427.0
@@ -1019,27 +832,18 @@ Salads PT1,lettuce,vegetable,141.0
 Salads PT1,apple,fruit,1197.0
 Salads PT1,red_cabbage,,
 Salads PT1,orange,fruit,1257.0
-Salads PT1,onion,vegetable,1447.0
 Salads PT1,cucumber,vegetable,1044.0
 Salads PT1,fines_herbs_vinaigrette,,
-Salads PT1,salade,,
 Salads PT1,salted_butter,,
-Salads PT1,tomato,vegetable,1240.0
 Salads PT1,red_onion,,
-Salads PT1,parsley,herb,251.0
-Salads PT1,oregano,herb,1382.0
 Salads PT1,pepper,spice,1471.0
-Salads PT1,tuna,fish/seafood,296.0
-Rustic Bread,flour,,
 Rustic Bread,yeast,plant,407.0
 Rustic Bread,salt,,
 Rustic Bread,olive_oil,plant derivative,998.0
 Rustic Bread,water,,
 Rustic Bread,tuna,fish/seafood,296.0
 Rustic Bread,caper,,
-Rustic Bread,olive_oil,plant derivative,998.0
 Rustic Bread,olive,fruit,466.0
-Aljoli Dip,tuna,fish/seafood,296.0
 Aljoli Dip,anchovy,,
 Aljoli Dip,concentrated_milk,,
 Aljoli Dip,onion,vegetable,1447.0
@@ -1050,7 +854,6 @@ Aljoli Dip,galletto,,
 Aljoli Dip,parsley,herb,251.0
 Aljoli Dip,chilli,,
 Aljoli Dip,olive_oil,plant derivative,998.0
-Pulpetti tal-Makku – Whitebait Fritters,egg,animal product,848.0
 Pulpetti tal-Makku – Whitebait Fritters,makkaroni,,
 Pulpetti tal-Makku – Whitebait Fritters,onion,vegetable,1447.0
 Pulpetti tal-Makku – Whitebait Fritters,garlic,vegetable,136.0
@@ -1059,18 +862,14 @@ Pulpetti tal-Makku – Whitebait Fritters,parsley,herb,251.0
 Pulpetti tal-Makku – Whitebait Fritters,pepper,spice,1471.0
 Pulpetti tal-Makku – Whitebait Fritters,olive_oil,plant derivative,998.0
 Pulpetti tal-Makku – Whitebait Fritters,gressin,,
-Stuffed Maltese Bread,rye_bread,cereal/crop,567.0
 Stuffed Maltese Bread,tomato,vegetable,1240.0
 Stuffed Maltese Bread,aubergine,,
 Stuffed Maltese Bread,zucchini,vegetable,1080.0
 Stuffed Maltese Bread,blue_cheese,dairy,994.0
-Stuffed Maltese Bread,tomato,vegetable,1240.0
 Stuffed Maltese Bread,yellow_bell_pepper,,
 Stuffed Maltese Bread,huile_d_olive,,
 Stuffed Maltese Bread,caper,,
-Stuffed Maltese Bread,tomato,vegetable,1240.0
 Stuffed Maltese Bread,olive_oil,plant derivative,998.0
-Pasta with King Prawns,olive_oil,plant derivative,998.0
 Pasta with King Prawns,garlic,vegetable,136.0
 Pasta with King Prawns,prawn,fish/seafood,114.0
 Pasta with King Prawns,courgette,,
@@ -1081,27 +880,21 @@ Pasta with King Prawns,pepper,spice,1471.0
 Pasta with King Prawns,tomato,vegetable,1240.0
 Pasta with King Prawns,spaghetti,,
 Pasta with King Prawns,caviar,fish/seafood,1494.0
-Pizza Maltija – Maltese Pizza,tomato,vegetable,1240.0
 Pizza Maltija – Maltese Pizza,olive_oil,plant derivative,998.0
 Pizza Maltija – Maltese Pizza,onion,vegetable,1447.0
 Pizza Maltija – Maltese Pizza,garlic,vegetable,136.0
-Pizza Maltija – Maltese Pizza,tomato,vegetable,1240.0
 Pizza Maltija – Maltese Pizza,tomato,vegetable,1240.0
 Pizza Maltija – Maltese Pizza,sugar,,
 Pizza Maltija – Maltese Pizza,oregano,herb,1382.0
 Pizza Maltija – Maltese Pizza,chitterlings,,
 Pizza Maltija – Maltese Pizza,pasta_pizza,,
 Pizza Maltija – Maltese Pizza,potato,vegetable,385.0
-Pizza Maltija – Maltese Pizza,onion,vegetable,1447.0
-Pizza Maltija – Maltese Pizza,tomato,vegetable,1240.0
 Pizza Maltija – Maltese Pizza,mozzarella,,
 Pizza Maltija – Maltese Pizza,huile_d_olive,,
 Pizza Maltija – Maltese Pizza,tuna,fish/seafood,296.0
 Pizza Maltija – Maltese Pizza,sausage,,
 Pizza Maltija – Maltese Pizza,anchova,,
 Pizza Maltija – Maltese Pizza,parsley,herb,251.0
-Pizza Maltija – Maltese Pizza,olive_oil,plant derivative,998.0
-Tarja Moqlija – Fried Vermicelli Omelette,vermicelli,,
 Tarja Moqlija – Fried Vermicelli Omelette,olive_oil,plant derivative,998.0
 Tarja Moqlija – Fried Vermicelli Omelette,leek,vegetable,376.0
 Tarja Moqlija – Fried Vermicelli Omelette,egg,animal product,848.0
@@ -1112,7 +905,6 @@ Tarja Moqlija – Fried Vermicelli Omelette,parsley,herb,251.0
 Tarja Moqlija – Fried Vermicelli Omelette,bacon,meat,19.0
 Tarja Moqlija – Fried Vermicelli Omelette,pepper,spice,1471.0
 Tarja Moqlija – Fried Vermicelli Omelette,melisse,,
-Stuffat tal-Wardiet tal-Majjal – Pork Cheeks,pork,meat,417.0
 Stuffat tal-Wardiet tal-Majjal – Pork Cheeks,flour,,
 Stuffat tal-Wardiet tal-Majjal – Pork Cheeks,butter,dairy,298.0
 Stuffat tal-Wardiet tal-Majjal – Pork Cheeks,red_wine,alcoholic beverage,619.0
@@ -1124,8 +916,6 @@ Stuffat tal-Wardiet tal-Majjal – Pork Cheeks,chicken,meat,1338.0
 Stuffat tal-Wardiet tal-Majjal – Pork Cheeks,jerusalem_artichoke,vegetable,1434.0
 Stuffat tal-Wardiet tal-Majjal – Pork Cheeks,potato,vegetable,385.0
 Stuffat tal-Wardiet tal-Majjal – Pork Cheeks,cetriolo,,
-Stuffat tal-Wardiet tal-Majjal – Pork Cheeks,red_onion,,
-Kusksu,olive_oil,plant derivative,998.0
 Kusksu,onion,vegetable,1447.0
 Kusksu,erva_doce,,
 Kusksu,sugar,,
@@ -1138,7 +928,6 @@ Kusksu,broad_bean,,
 Kusksu,rusk,,
 Kusksu,egg,animal product,848.0
 Kusksu,mozzarella,,
-Qaqocc Mimli  – Stuffed Artichokes,artichoke,vegetable,1251.0
 Qaqocc Mimli  – Stuffed Artichokes,breadcrumbs,,
 Qaqocc Mimli  – Stuffed Artichokes,anchovy,,
 Qaqocc Mimli  – Stuffed Artichokes,garlic,vegetable,136.0
@@ -1150,7 +939,6 @@ Qaqocc Mimli  – Stuffed Artichokes,olive_oil,plant derivative,998.0
 Qaqocc Mimli  – Stuffed Artichokes,tuna,fish/seafood,296.0
 Qaqocc Mimli  – Stuffed Artichokes,cauliflower,vegetable,1370.0
 Qaqocc Mimli  – Stuffed Artichokes,potato,vegetable,385.0
-Figolli,mother_dough,,
 Figolli,raisin,fruit,133.0
 Figolli,butter,dairy,298.0
 Figolli,egg,animal product,848.0
@@ -1159,16 +947,10 @@ Figolli,vanilla,spice,1399.0
 Figolli,lemon,fruit,1132.0
 Figolli,filling,,
 Figolli,almond,nut/seed/pulse,18.0
-Figolli,sugar,,
-Figolli,vanilla,spice,1399.0
-Figolli,lemon,fruit,1132.0
 Figolli,white_meat,,
 Figolli,icing_sugar,,
-Figolli,icing_sugar,,
-Figolli,vanilla,spice,1399.0
 Figolli,water,,
 Figolli,sour_cream,,
-Kwarezimal,sea_almonds,,
 Kwarezimal,sugar,,
 Kwarezimal,corn_flour,,
 Kwarezimal,cocoa,plant derivative,1488.0
@@ -1180,7 +962,6 @@ Kwarezimal,water,,
 Kwarezimal,vanilla,spice,1399.0
 Kwarezimal,lemon,fruit,1132.0
 Kwarezimal,almond,nut/seed/pulse,18.0
-Broccoli and Blue Cheese Quiche,leek,vegetable,376.0
 Broccoli and Blue Cheese Quiche,onion,vegetable,1447.0
 Broccoli and Blue Cheese Quiche,broccoli,vegetable,1421.0
 Broccoli and Blue Cheese Quiche,ricotta,,
@@ -1194,12 +975,10 @@ Broccoli and Blue Cheese Quiche,nutmeg,spice,1356.0
 Broccoli and Blue Cheese Quiche,pepper,spice,1471.0
 Broccoli and Blue Cheese Quiche,parsley,herb,251.0
 Broccoli and Blue Cheese Quiche,pasta_sfoglia,,
-Sfinec,yeast,plant,407.0
 Sfinec,water,,
 Sfinec,flour,,
 Sfinec,anchovy,,
 Sfinec,sunflower_oil,plant derivative,391.0
-Zeppoli,corn_flour,,
 Zeppoli,sugar,,
 Zeppoli,water,,
 Zeppoli,butter,dairy,298.0
@@ -1210,8 +989,6 @@ Zeppoli,ricotta,,
 Zeppoli,white_chocolate,,
 Zeppoli,eel,fish/seafood,328.0
 Zeppoli,viande_blanche,,
-Zeppoli,sugar,,
-Torta tal-Pastard u l-Ispinaċi,huile_d_olive,,
 Torta tal-Pastard u l-Ispinaċi,tuna,fish/seafood,296.0
 Torta tal-Pastard u l-Ispinaċi,onion,vegetable,1447.0
 Torta tal-Pastard u l-Ispinaċi,spinach,,
@@ -1222,7 +999,6 @@ Torta tal-Pastard u l-Ispinaċi,beef,meat,248.0
 Torta tal-Pastard u l-Ispinaċi,water,,
 Torta tal-Pastard u l-Ispinaċi,lemon,fruit,1132.0
 Torta tal-Pastard u l-Ispinaċi,acqua,,
-Għagin il-Forn bl-Irkotta u l-Ful,henne,,
 Għagin il-Forn bl-Irkotta u l-Ful,ricotta,,
 Għagin il-Forn bl-Irkotta u l-Ful,koriander,,
 Għagin il-Forn bl-Irkotta u l-Ful,pepper,spice,1471.0
@@ -1232,25 +1008,17 @@ Għagin il-Forn bl-Irkotta u l-Ful,pea,vegetable,1088.0
 Għagin il-Forn bl-Irkotta u l-Ful,broad_bean,,
 Għagin il-Forn bl-Irkotta u l-Ful,egg,animal product,848.0
 Għagin il-Forn bl-Irkotta u l-Ful,soy_sauce,plant derivative,1183.0
-Għagin il-Forn bl-Irkotta u l-Ful,grated_cheese,,
-Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,x150g,,
 Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,buttermilk,dairy,1008.0
 Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,salt,,
 Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,vinaigrette,,
 Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,garlic,vegetable,136.0
 Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,lemon,fruit,1132.0
-Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,lemon,fruit,1132.0
 Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,olive_oil,plant derivative,998.0
 Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,parsley,herb,251.0
-Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,vinaigrette,,
-Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,garlic,vegetable,136.0
 Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,mustard,plant derivative,1140.0
-Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,olive_oil,plant derivative,998.0
 Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,apple,fruit,1197.0
-Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,olive_oil,plant derivative,998.0
 Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,beet,vegetable,255.0
 Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,red_potato,,
-Rabbit with Mustard – Fenek bil-Mustarda,rabbit,,
 Rabbit with Mustard – Fenek bil-Mustarda,rye_flour,cereal/crop,516.0
 Rabbit with Mustard – Fenek bil-Mustarda,olive_oil,plant derivative,998.0
 Rabbit with Mustard – Fenek bil-Mustarda,bacon,meat,19.0
@@ -1260,7 +1028,6 @@ Rabbit with Mustard – Fenek bil-Mustarda,rosemary,herb,112.0
 Rabbit with Mustard – Fenek bil-Mustarda,white_wine,alcoholic beverage,1428.0
 Rabbit with Mustard – Fenek bil-Mustarda,mustard,plant derivative,1140.0
 Rabbit with Mustard – Fenek bil-Mustarda,soy_sauce,plant derivative,1183.0
-Prinjolata,butter,dairy,298.0
 Prinjolata,sugar,,
 Prinjolata,vanilla,spice,1399.0
 Prinjolata,buttermilk,dairy,1008.0
@@ -1268,24 +1035,18 @@ Prinjolata,biscuit,,
 Prinjolata,berries,,
 Prinjolata,pine_nut,,
 Prinjolata,sea_almonds,,
-Prinjolata,sugar,,
-Prinjolata,sugar,,
 Prinjolata,water,,
 Prinjolata,white_meat,,
 Prinjolata,icing_sugar,,
-Prinjolata,icing_sugar,,
-Prinjolata,white_meat,,
 Prinjolata,flour,,
 Prinjolata,chocolate,,
 Prinjolata,toast,,
-Split Pea Soup – Soppa tal-Pizelli Maqsuma,olive_oil,plant derivative,998.0
 Split Pea Soup – Soppa tal-Pizelli Maqsuma,onion,vegetable,1447.0
 Split Pea Soup – Soppa tal-Pizelli Maqsuma,cauliflower,vegetable,1370.0
 Split Pea Soup – Soppa tal-Pizelli Maqsuma,split_pea,vegetable,1378.0
 Split Pea Soup – Soppa tal-Pizelli Maqsuma,potato,vegetable,385.0
 Split Pea Soup – Soppa tal-Pizelli Maqsuma,tomato,vegetable,1240.0
 Split Pea Soup – Soppa tal-Pizelli Maqsuma,chicken,meat,1338.0
-Spinach and Tuna Pie – Torta tal-Ispinaci u t-Tonn,puff_pastry,,
 Spinach and Tuna Pie – Torta tal-Ispinaci u t-Tonn,tuna,fish/seafood,296.0
 Spinach and Tuna Pie – Torta tal-Ispinaci u t-Tonn,nouilles,,
 Spinach and Tuna Pie – Torta tal-Ispinaci u t-Tonn,spinach,,
@@ -1299,13 +1060,11 @@ Spinach and Tuna Pie – Torta tal-Ispinaci u t-Tonn,olive_oil,plant derivative,
 Spinach and Tuna Pie – Torta tal-Ispinaci u t-Tonn,green_leaves,,
 Spinach and Tuna Pie – Torta tal-Ispinaci u t-Tonn,tomato,vegetable,1240.0
 Spinach and Tuna Pie – Torta tal-Ispinaci u t-Tonn,pepper,spice,1471.0
-Fried Rabbit Liver with Carrob Syrup,rabbit,,
 Fried Rabbit Liver with Carrob Syrup,bread,cereal/crop,105.0
 Fried Rabbit Liver with Carrob Syrup,garlic,vegetable,136.0
 Fried Rabbit Liver with Carrob Syrup,olive_oil,plant derivative,998.0
 Fried Rabbit Liver with Carrob Syrup,maple_syrup,plant derivative,35.0
 Fried Rabbit Liver with Carrob Syrup,pepper,spice,1471.0
-Ftira with Pork and Ricotta,ricotta,,
 Ftira with Pork and Ricotta,broad_bean,,
 Ftira with Pork and Ricotta,pizza_dough,,
 Ftira with Pork and Ricotta,pepper,spice,1471.0
@@ -1317,14 +1076,12 @@ Ftira with Pork and Ricotta,flour,,
 Ftira with Pork and Ricotta,bread,cereal/crop,105.0
 Ftira with Pork and Ricotta,caper,,
 Ftira with Pork and Ricotta,sesame,,
-Baked Chicken Thighs in Orange,chicken,meat,1338.0
 Baked Chicken Thighs in Orange,salade,,
 Baked Chicken Thighs in Orange,mustard,plant derivative,1140.0
 Baked Chicken Thighs in Orange,garlic,vegetable,136.0
 Baked Chicken Thighs in Orange,honey,animal product,64.0
 Baked Chicken Thighs in Orange,orange,fruit,1257.0
 Baked Chicken Thighs in Orange,rosemary,herb,112.0
-Goat Cheese Soup,goat_cheese,dairy,169.0
 Goat Cheese Soup,tomato,vegetable,1240.0
 Goat Cheese Soup,bell_pepper,vegetable,1292.0
 Goat Cheese Soup,red_onion,,
@@ -1336,7 +1093,6 @@ Goat Cheese Soup,olive_oil,plant derivative,998.0
 Goat Cheese Soup,soy_sauce,plant derivative,1183.0
 Goat Cheese Soup,vinagre_balsamico,,
 Goat Cheese Soup,grated_cheese,,
-Torta tal-Bciecen – Pigeon Pie,pigeon,,
 Torta tal-Bciecen – Pigeon Pie,pork,meat,417.0
 Torta tal-Bciecen – Pigeon Pie,olive_oil,plant derivative,998.0
 Torta tal-Bciecen – Pigeon Pie,onion,vegetable,1447.0
@@ -1354,7 +1110,6 @@ Torta tal-Bciecen – Pigeon Pie,parsley,herb,251.0
 Torta tal-Bciecen – Pigeon Pie,thyme,herb,675.0
 Torta tal-Bciecen – Pigeon Pie,acqua,,
 Torta tal-Bciecen – Pigeon Pie,pastry,,
-Maltese Shakshuka,olive_oil,plant derivative,998.0
 Maltese Shakshuka,onion,vegetable,1447.0
 Maltese Shakshuka,pepper,spice,1471.0
 Maltese Shakshuka,sausage,,
@@ -1362,13 +1117,10 @@ Maltese Shakshuka,garlic,vegetable,136.0
 Maltese Shakshuka,smoked_paprika,,
 Maltese Shakshuka,pumpkin_seeds,,
 Maltese Shakshuka,tomato,vegetable,1240.0
-Maltese Shakshuka,tomato,vegetable,1240.0
 Maltese Shakshuka,sugar,,
 Maltese Shakshuka,salmon_eggs,,
 Maltese Shakshuka,mozzarella,,
-Maltese Shakshuka,pepper,spice,1471.0
 Maltese Shakshuka,sauerkirsche,,
-Burger Malti – Maltese Burger,sausage,,
 Burger Malti – Maltese Burger,shallots,,
 Burger Malti – Maltese Burger,breadcrumbs,,
 Burger Malti – Maltese Burger,soy_sauce,plant derivative,1183.0
@@ -1377,11 +1129,9 @@ Burger Malti – Maltese Burger,pancetta,,
 Burger Malti – Maltese Burger,cheddar,,
 Burger Malti – Maltese Burger,courge,,
 Burger Malti – Maltese Burger,lettuce,vegetable,141.0
-Burger Malti – Maltese Burger,soy_sauce,plant derivative,1183.0
 Burger Malti – Maltese Burger,pepper,spice,1471.0
 Burger Malti – Maltese Burger,lapereau,,
 Burger Malti – Maltese Burger,sauerkirsche,,
-Salmon and Prawn Terrine,smoker_salmon,,
 Salmon and Prawn Terrine,salmon,fish/seafood,940.0
 Salmon and Prawn Terrine,egg,animal product,848.0
 Salmon and Prawn Terrine,soy_sauce,plant derivative,1183.0
@@ -1390,9 +1140,7 @@ Salmon and Prawn Terrine,prawn,fish/seafood,114.0
 Salmon and Prawn Terrine,parsley,herb,251.0
 Salmon and Prawn Terrine,lemon,fruit,1132.0
 Salmon and Prawn Terrine,pepper,spice,1471.0
-Salmon and Prawn Terrine,parsley,herb,251.0
 Salmon and Prawn Terrine,caviar,fish/seafood,1494.0
-Spaghetti with Anchovies,anchovy,,
 Spaghetti with Anchovies,olive_oil,plant derivative,998.0
 Spaghetti with Anchovies,garlic,vegetable,136.0
 Spaghetti with Anchovies,caper,,
@@ -1401,14 +1149,12 @@ Spaghetti with Anchovies,spaghetti,,
 Spaghetti with Anchovies,breadcrumbs,,
 Spaghetti with Anchovies,parsley,herb,251.0
 Spaghetti with Anchovies,salt,,
-Spinach and Ricotta Pie,spinach,,
 Spinach and Ricotta Pie,ricotta,,
 Spinach and Ricotta Pie,grated_cheese,,
 Spinach and Ricotta Pie,onion,vegetable,1447.0
 Spinach and Ricotta Pie,egg,animal product,848.0
 Spinach and Ricotta Pie,pepper,spice,1471.0
 Spinach and Ricotta Pie,acqua,,
-Fried Mozzarella Sandwich,mozzarella,,
 Fried Mozzarella Sandwich,bread,cereal/crop,105.0
 Fried Mozzarella Sandwich,egg,animal product,848.0
 Fried Mozzarella Sandwich,milk,dairy,396.0
@@ -1417,15 +1163,12 @@ Fried Mozzarella Sandwich,rye_flour,cereal/crop,516.0
 Fried Mozzarella Sandwich,breadcrumbs,,
 Fried Mozzarella Sandwich,sunflower_oil,plant derivative,391.0
 Fried Mozzarella Sandwich,pepper,spice,1471.0
-Tiramisu,white_meat,,
 Tiramisu,egg,animal product,848.0
 Tiramisu,sugar,,
 Tiramisu,mascarpone,,
 Tiramisu,ginger,spice,164.0
 Tiramisu,coffee,plant derivative,631.0
 Tiramisu,chocolate,,
-Tiramisu,chocolate,,
-Xikel tal-Vitella – Veal Shanks,the_vert,,
 Xikel tal-Vitella – Veal Shanks,butter,dairy,298.0
 Xikel tal-Vitella – Veal Shanks,onion,vegetable,1447.0
 Xikel tal-Vitella – Veal Shanks,4,,
@@ -1437,12 +1180,9 @@ Xikel tal-Vitella – Veal Shanks,tomato,vegetable,1240.0
 Xikel tal-Vitella – Veal Shanks,pepper,spice,1471.0
 Xikel tal-Vitella – Veal Shanks,lemon,fruit,1132.0
 Xikel tal-Vitella – Veal Shanks,parsley,herb,251.0
-Xikel tal-Vitella – Veal Shanks,tomato,vegetable,1240.0
-Xikel tal-Vitella – Veal Shanks,tomato,vegetable,1240.0
 Xikel tal-Vitella – Veal Shanks,olive_oil,plant derivative,998.0
 Xikel tal-Vitella – Veal Shanks,balsamic_vinegar,,
 Xikel tal-Vitella – Veal Shanks,vinagre_balsamico,,
-Chicken Thighs with Creamy Tomato Spinach Sauce,olive_oil,plant derivative,998.0
 Chicken Thighs with Creamy Tomato Spinach Sauce,lemon,fruit,1132.0
 Chicken Thighs with Creamy Tomato Spinach Sauce,chilli,,
 Chicken Thighs with Creamy Tomato Spinach Sauce,thyme,herb,675.0
@@ -1454,7 +1194,6 @@ Chicken Thighs with Creamy Tomato Spinach Sauce,soy_sauce,plant derivative,1183.
 Chicken Thighs with Creamy Tomato Spinach Sauce,spinach,,
 Chicken Thighs with Creamy Tomato Spinach Sauce,basil,herb,256.0
 Chicken Thighs with Creamy Tomato Spinach Sauce,red_onion,,
-Spaghetti with Olives and Capers sauce,olive_oil,plant derivative,998.0
 Spaghetti with Olives and Capers sauce,garlic,vegetable,136.0
 Spaghetti with Olives and Capers sauce,olive,fruit,466.0
 Spaghetti with Olives and Capers sauce,caper,,
@@ -1462,31 +1201,25 @@ Spaghetti with Olives and Capers sauce,anchova,,
 Spaghetti with Olives and Capers sauce,chilli,,
 Spaghetti with Olives and Capers sauce,tomato,vegetable,1240.0
 Spaghetti with Olives and Capers sauce,spaghetti,,
-Chicken Breast Stuffed with Spinach and Feta,chicken,meat,1338.0
 Chicken Breast Stuffed with Spinach and Feta,salt,,
 Chicken Breast Stuffed with Spinach and Feta,paprika,,
 Chicken Breast Stuffed with Spinach and Feta,garlic,vegetable,136.0
-Chicken Breast Stuffed with Spinach and Feta,filling,,
 Chicken Breast Stuffed with Spinach and Feta,filling,,
 Chicken Breast Stuffed with Spinach and Feta,spinach,,
 Chicken Breast Stuffed with Spinach and Feta,tomato,vegetable,1240.0
 Chicken Breast Stuffed with Spinach and Feta,blue_cheese,dairy,994.0
 Chicken Breast Stuffed with Spinach and Feta,shallots,,
-Chicken Breast Stuffed with Spinach and Feta,garlic,vegetable,136.0
 Chicken Breast Stuffed with Spinach and Feta,basil,herb,256.0
 Chicken Breast Stuffed with Spinach and Feta,oregano,herb,1382.0
 Chicken Breast Stuffed with Spinach and Feta,grated_cheese,,
-Chicken Breast Stuffed with Spinach and Feta,salt,,
 Chicken Breast Stuffed with Spinach and Feta,olive_oil,plant derivative,998.0
 Chicken Breast Stuffed with Spinach and Feta,gressin,,
-Ribs with baked potatoes and sausage,pork,meat,417.0
 Ribs with baked potatoes and sausage,cup,,
 Ribs with baked potatoes and sausage,white_meat,,
 Ribs with baked potatoes and sausage,mustard,plant derivative,1140.0
 Ribs with baked potatoes and sausage,potato,vegetable,385.0
 Ribs with baked potatoes and sausage,soy_sauce,plant derivative,1183.0
 Ribs with baked potatoes and sausage,mozzarella,,
-Bucatini with sausage and marinated mozzarella,mozzarella,,
 Bucatini with sausage and marinated mozzarella,olive_oil,plant derivative,998.0
 Bucatini with sausage and marinated mozzarella,lemon,fruit,1132.0
 Bucatini with sausage and marinated mozzarella,pepper,spice,1471.0
@@ -1497,7 +1230,6 @@ Bucatini with sausage and marinated mozzarella,sausage,,
 Bucatini with sausage and marinated mozzarella,tomato,vegetable,1240.0
 Bucatini with sausage and marinated mozzarella,salted_butter,,
 Bucatini with sausage and marinated mozzarella,parmesan,dairy,749.0
-Zaqq tal-Majjal fil-Forn – Pork Belly Oven Cooked,pork,meat,417.0
 Zaqq tal-Majjal fil-Forn – Pork Belly Oven Cooked,olive_oil,plant derivative,998.0
 Zaqq tal-Majjal fil-Forn – Pork Belly Oven Cooked,carrot,vegetable,1216.0
 Zaqq tal-Majjal fil-Forn – Pork Belly Oven Cooked,onion,vegetable,1447.0
@@ -1506,7 +1238,6 @@ Zaqq tal-Majjal fil-Forn – Pork Belly Oven Cooked,rosemary,herb,112.0
 Zaqq tal-Majjal fil-Forn – Pork Belly Oven Cooked,broccoli,vegetable,1421.0
 Zaqq tal-Majjal fil-Forn – Pork Belly Oven Cooked,potato,vegetable,385.0
 Zaqq tal-Majjal fil-Forn – Pork Belly Oven Cooked,bacon,meat,19.0
-Bragjoli tal-Brungiel,eggplant,,
 Bragjoli tal-Brungiel,olive_oil,plant derivative,998.0
 Bragjoli tal-Brungiel,pepper,spice,1471.0
 Bragjoli tal-Brungiel,garlic,vegetable,136.0
@@ -1521,7 +1252,6 @@ Bragjoli tal-Brungiel,blue_cheese,dairy,994.0
 Bragjoli tal-Brungiel,fresh_cheese,,
 Bragjoli tal-Brungiel,red_onion,,
 Bragjoli tal-Brungiel,parsley,herb,251.0
-Balbuljata,tomato,vegetable,1240.0
 Balbuljata,onion,vegetable,1447.0
 Balbuljata,olive_oil,plant derivative,998.0
 Balbuljata,butter,dairy,298.0
@@ -1530,10 +1260,8 @@ Balbuljata,egg,animal product,848.0
 Balbuljata,pepper,spice,1471.0
 Balbuljata,parsley,herb,251.0
 Balbuljata,rye_bread,cereal/crop,567.0
-Balbuljata,pepper,spice,1471.0
 Balbuljata,goat_cheese,dairy,169.0
 Balbuljata,joghurt,,
-Kannelloni bil-laham – Meat filled Cannelloni,soy_sauce,plant derivative,1183.0
 Kannelloni bil-laham – Meat filled Cannelloni,olive_oil,plant derivative,998.0
 Kannelloni bil-laham – Meat filled Cannelloni,garlic,vegetable,136.0
 Kannelloni bil-laham – Meat filled Cannelloni,oregano,herb,1382.0
@@ -1542,7 +1270,6 @@ Kannelloni bil-laham – Meat filled Cannelloni,tomato,vegetable,1240.0
 Kannelloni bil-laham – Meat filled Cannelloni,pepper,spice,1471.0
 Kannelloni bil-laham – Meat filled Cannelloni,white_wine,alcoholic beverage,1428.0
 Kannelloni bil-laham – Meat filled Cannelloni,white_meat,,
-Kannelloni bil-laham – Meat filled Cannelloni,olive_oil,plant derivative,998.0
 Kannelloni bil-laham – Meat filled Cannelloni,red_onion,,
 Kannelloni bil-laham – Meat filled Cannelloni,beef,meat,248.0
 Kannelloni bil-laham – Meat filled Cannelloni,pork,meat,417.0
@@ -1553,9 +1280,7 @@ Kannelloni bil-laham – Meat filled Cannelloni,parmesan,dairy,749.0
 Kannelloni bil-laham – Meat filled Cannelloni,salmon_eggs,,
 Kannelloni bil-laham – Meat filled Cannelloni,soy_sauce,plant derivative,1183.0
 Kannelloni bil-laham – Meat filled Cannelloni,cannelloni,,
-Kannelloni bil-laham – Meat filled Cannelloni,soy_sauce,plant derivative,1183.0
 Kannelloni bil-laham – Meat filled Cannelloni,blue_cheese,dairy,994.0
-Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,the,,
 Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,pepper,spice,1471.0
 Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,red_onion,,
 Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,tomato,vegetable,1240.0
@@ -1566,29 +1291,23 @@ Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,vegetable_broth,,
 Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,walnut,nut/seed/pulse,1255.0
 Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,pomegranate,,
 Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,cumin,spice,579.0
-Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,vegetable_broth,,
 Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,soy_sauce,plant derivative,1183.0
 Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,aceto_balsamico,,
 Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,salt,,
 Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,He_Tao,,
-Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,walnut,nut/seed/pulse,1255.0
 Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,parsley,herb,251.0
 Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,maple_syrup,plant derivative,35.0
-Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,olive_oil,plant derivative,998.0
 Roasted Red Pepper Soup – Soppa tal-Bzar Ahmar,lemon,fruit,1132.0
-Olive Dip,green_olive,,
 Olive Dip,black_olive,,
 Olive Dip,olive_oil,plant derivative,998.0
 Olive Dip,thyme,herb,675.0
 Olive Dip,pepper,spice,1471.0
 Olive Dip,blue_cheese,dairy,994.0
-Olive Dip,olive_oil,plant derivative,998.0
 Olive Dip,cream_cheese,dairy,1117.0
 Olive Dip,water,,
 Olive Dip,honey,animal product,64.0
 Olive Dip,lemon,fruit,1132.0
 Olive Dip,An_Chun,,
-Pulpettun – Meatloaf,pork,meat,417.0
 Pulpettun – Meatloaf,beef,meat,248.0
 Pulpettun – Meatloaf,breadcrumbs,,
 Pulpettun – Meatloaf,parsley,herb,251.0
@@ -1597,9 +1316,7 @@ Pulpettun – Meatloaf,salmon_eggs,,
 Pulpettun – Meatloaf,mustard,plant derivative,1140.0
 Pulpettun – Meatloaf,red_onion,,
 Pulpettun – Meatloaf,garlic,vegetable,136.0
-Pulpettun – Meatloaf,salmon_eggs,,
 Pulpettun – Meatloaf,soy_sauce,plant derivative,1183.0
-Stuffed Calamari,calamari,,
 Stuffed Calamari,olive_oil,plant derivative,998.0
 Stuffed Calamari,red_onion,,
 Stuffed Calamari,tomato,vegetable,1240.0
@@ -1610,7 +1327,6 @@ Stuffed Calamari,olive,fruit,466.0
 Stuffed Calamari,anchovy,,
 Stuffed Calamari,parsley,herb,251.0
 Stuffed Calamari,salmon_eggs,,
-Torta tal-Ikkapuljat – Minced Beef Pie,olive_oil,plant derivative,998.0
 Torta tal-Ikkapuljat – Minced Beef Pie,bacon,meat,19.0
 Torta tal-Ikkapuljat – Minced Beef Pie,beef,meat,248.0
 Torta tal-Ikkapuljat – Minced Beef Pie,pork,meat,417.0
@@ -1623,13 +1339,11 @@ Torta tal-Ikkapuljat – Minced Beef Pie,salmon_eggs,,
 Torta tal-Ikkapuljat – Minced Beef Pie,spinach,,
 Torta tal-Ikkapuljat – Minced Beef Pie,five_spices,,
 Torta tal-Ikkapuljat – Minced Beef Pie,parmesan,dairy,749.0
-Għaġin bit-Tadam Imqadded,olive_oil,plant derivative,998.0
 Għaġin bit-Tadam Imqadded,tomato,vegetable,1240.0
 Għaġin bit-Tadam Imqadded,white_wine,alcoholic beverage,1428.0
 Għaġin bit-Tadam Imqadded,rosemary,herb,112.0
 Għaġin bit-Tadam Imqadded,garlic,vegetable,136.0
 Għaġin bit-Tadam Imqadded,soy_sauce,plant derivative,1183.0
-Għaġin bit-Tadam Imqadded,tomato,vegetable,1240.0
 Għaġin bit-Tadam Imqadded,butter,dairy,298.0
 Għaġin bit-Tadam Imqadded,parmesan,dairy,749.0
 Għaġin bit-Tadam Imqadded,lemon,fruit,1132.0
@@ -1637,14 +1351,12 @@ Għaġin bit-Tadam Imqadded,pepper,spice,1471.0
 Għaġin bit-Tadam Imqadded,chili_pepper,,
 Għaġin bit-Tadam Imqadded,water,,
 Għaġin bit-Tadam Imqadded,henne,,
-Chicken Cacciatore,olive_oil,plant derivative,998.0
 Chicken Cacciatore,butter,dairy,298.0
 Chicken Cacciatore,flour,,
 Chicken Cacciatore,onion,vegetable,1447.0
 Chicken Cacciatore,garlic,vegetable,136.0
 Chicken Cacciatore,tomato,vegetable,1240.0
 Chicken Cacciatore,chicken,meat,1338.0
-Chicken Cacciatore,tomato,vegetable,1240.0
 Chicken Cacciatore,chilli,,
 Chicken Cacciatore,olive,fruit,466.0
 Chicken Cacciatore,caper,,
@@ -1656,16 +1368,12 @@ Chicken Cacciatore,potato,vegetable,385.0
 Chicken Cacciatore,blue_cheese,dairy,994.0
 Chicken Cacciatore,milk,dairy,396.0
 Chicken Cacciatore,pepper,spice,1471.0
-Chicken Cacciatore,butter,dairy,298.0
-Strawberry Roly Poly,egg,animal product,848.0
 Strawberry Roly Poly,sugar,,
 Strawberry Roly Poly,raisin,fruit,133.0
 Strawberry Roly Poly,mascarpone,,
 Strawberry Roly Poly,fresa,,
 Strawberry Roly Poly,icing_sugar,,
 Strawberry Roly Poly,wild_strawberry,fruit,578.0
-Strawberry Roly Poly,icing_sugar,,
-Shrimp Pasta,shrimp,fish/seafood,694.0
 Shrimp Pasta,olive_oil,plant derivative,998.0
 Shrimp Pasta,salted_butter,,
 Shrimp Pasta,garlic,vegetable,136.0
@@ -1681,14 +1389,12 @@ Shrimp Pasta,parsley,herb,251.0
 Shrimp Pasta,pepper,spice,1471.0
 Shrimp Pasta,spaghetti,,
 Shrimp Pasta,caviar,fish/seafood,1494.0
-Potato and Blue Cheese Soup,butter,dairy,298.0
 Potato and Blue Cheese Soup,onion,vegetable,1447.0
 Potato and Blue Cheese Soup,thyme,herb,675.0
 Potato and Blue Cheese Soup,potato,vegetable,385.0
 Potato and Blue Cheese Soup,chicken,meat,1338.0
 Potato and Blue Cheese Soup,blue_cheese,dairy,994.0
 Potato and Blue Cheese Soup,sour_cream,,
-Lemon Cheesecake,shortcrust_pastry,,
 Lemon Cheesecake,biscuit,,
 Lemon Cheesecake,salted_butter,,
 Lemon Cheesecake,filling,,
@@ -1698,13 +1404,9 @@ Lemon Cheesecake,icing_sugar,,
 Lemon Cheesecake,lemon,fruit,1132.0
 Lemon Cheesecake,sour_cream,,
 Lemon Cheesecake,sheep,,
-Lemon Cheesecake,sour_cream,,
-Lemon Cheesecake,lemon,fruit,1132.0
 Lemon Cheesecake,sugar,,
 Lemon Cheesecake,cornstarch,,
 Lemon Cheesecake,water,,
-Lemon Cheesecake,lemon,fruit,1132.0
-Insalta tal-Bakkaljaw – Salt Cod Salad,salt,,
 Insalta tal-Bakkaljaw – Salt Cod Salad,potato,vegetable,385.0
 Insalta tal-Bakkaljaw – Salt Cod Salad,red_onion,,
 Insalta tal-Bakkaljaw – Salt Cod Salad,red_cabbage,,
@@ -1718,14 +1420,11 @@ Insalta tal-Bakkaljaw – Salt Cod Salad,parsley,herb,251.0
 Insalta tal-Bakkaljaw – Salt Cod Salad,green_leaves,,
 Insalta tal-Bakkaljaw – Salt Cod Salad,groundcherry,,
 Insalta tal-Bakkaljaw – Salt Cod Salad,pepper,spice,1471.0
-Ghagin bil-Lumi – Lemon Pasta,butter,dairy,298.0
-Ghagin bil-Lumi – Lemon Pasta,lemon,fruit,1132.0
 Ghagin bil-Lumi – Lemon Pasta,lemon,fruit,1132.0
 Ghagin bil-Lumi – Lemon Pasta,mascarpone,,
 Ghagin bil-Lumi – Lemon Pasta,lettuce,vegetable,141.0
 Ghagin bil-Lumi – Lemon Pasta,parsley,herb,251.0
 Ghagin bil-Lumi – Lemon Pasta,parmesan,dairy,749.0
-Torta taż-Żaqq tal-Majjal – Pork Belly Pie,olive_oil,plant derivative,998.0
 Torta taż-Żaqq tal-Majjal – Pork Belly Pie,garlic,vegetable,136.0
 Torta taż-Żaqq tal-Majjal – Pork Belly Pie,onion,vegetable,1447.0
 Torta taż-Żaqq tal-Majjal – Pork Belly Pie,carrot,vegetable,1216.0
@@ -1736,19 +1435,15 @@ Torta taż-Żaqq tal-Majjal – Pork Belly Pie,pea,vegetable,1088.0
 Torta taż-Żaqq tal-Majjal – Pork Belly Pie,pork,meat,417.0
 Torta taż-Żaqq tal-Majjal – Pork Belly Pie,cabbage,vegetable,1237.0
 Torta taż-Żaqq tal-Majjal – Pork Belly Pie,pastry,,
-Pesto Lasagne,pesto,,
 Pesto Lasagne,green_leaves,,
 Pesto Lasagne,pine_nut,,
 Pesto Lasagne,parmesan,dairy,749.0
 Pesto Lasagne,garlic,vegetable,136.0
 Pesto Lasagne,olive_oil,plant derivative,998.0
 Pesto Lasagne,lasagne,,
-Pesto Lasagne,lasagne,,
 Pesto Lasagne,soy_sauce,plant derivative,1183.0
 Pesto Lasagne,ricotta,,
 Pesto Lasagne,mozzarella,,
-Pesto Lasagne,parmesan,dairy,749.0
-Stuffat tat-Tonn taz-Zejt,potato,vegetable,385.0
 Stuffat tat-Tonn taz-Zejt,onion,vegetable,1447.0
 Stuffat tat-Tonn taz-Zejt,garlic,vegetable,136.0
 Stuffat tat-Tonn taz-Zejt,tomato,vegetable,1240.0
@@ -1758,8 +1453,6 @@ Stuffat tat-Tonn taz-Zejt,caper,,
 Stuffat tat-Tonn taz-Zejt,black_olive,,
 Stuffat tat-Tonn taz-Zejt,ananas,,
 Stuffat tat-Tonn taz-Zejt,parsley,herb,251.0
-Stuffat tat-Tonn taz-Zejt,olive_oil,plant derivative,998.0
-Baked Feta Pasta,blue_cheese,dairy,994.0
 Baked Feta Pasta,cherry_tomato,,
 Baked Feta Pasta,sausage,,
 Baked Feta Pasta,onion,vegetable,1447.0
@@ -1767,10 +1460,8 @@ Baked Feta Pasta,garlic,vegetable,136.0
 Baked Feta Pasta,olive_oil,plant derivative,998.0
 Baked Feta Pasta,oregano,herb,1382.0
 Baked Feta Pasta,pepper,spice,1471.0
-Baked Feta Pasta,pepper,spice,1471.0
 Baked Feta Pasta,penne_rigate,,
 Baked Feta Pasta,parsley,herb,251.0
-Mini Beef Wellingtons and White Parmiggiana with Fresh Cheeselets,parmigiano,,
 Mini Beef Wellingtons and White Parmiggiana with Fresh Cheeselets,courgette,,
 Mini Beef Wellingtons and White Parmiggiana with Fresh Cheeselets,garlic,vegetable,136.0
 Mini Beef Wellingtons and White Parmiggiana with Fresh Cheeselets,oregano,herb,1382.0
@@ -1786,24 +1477,17 @@ Mini Beef Wellingtons and White Parmiggiana with Fresh Cheeselets,steak,,
 Mini Beef Wellingtons and White Parmiggiana with Fresh Cheeselets,potato,vegetable,385.0
 Mini Beef Wellingtons and White Parmiggiana with Fresh Cheeselets,sweet_vera_paprika,,
 Mini Beef Wellingtons and White Parmiggiana with Fresh Cheeselets,fennel_seeds,,
-Mini Beef Wellingtons and White Parmiggiana with Fresh Cheeselets,pepper,spice,1471.0
 Mini Beef Wellingtons and White Parmiggiana with Fresh Cheeselets,tbsp,,
 Mini Beef Wellingtons and White Parmiggiana with Fresh Cheeselets,onion,vegetable,1447.0
 Mini Beef Wellingtons and White Parmiggiana with Fresh Cheeselets,quince,fruit,889.0
 Mini Beef Wellingtons and White Parmiggiana with Fresh Cheeselets,ice,,
 Mini Beef Wellingtons and White Parmiggiana with Fresh Cheeselets,clove,spice,1320.0
 Mini Beef Wellingtons and White Parmiggiana with Fresh Cheeselets,tsp,,
-Mini Beef Wellingtons and White Parmiggiana with Fresh Cheeselets,tsp,,
-Mini Beef Wellingtons and White Parmiggiana with Fresh Cheeselets,tsp,,
 Mini Beef Wellingtons and White Parmiggiana with Fresh Cheeselets,blue_cheese,dairy,994.0
 Mini Beef Wellingtons and White Parmiggiana with Fresh Cheeselets,Qing_Wa,,
 Mini Beef Wellingtons and White Parmiggiana with Fresh Cheeselets,mint,herb,166.0
 Mini Beef Wellingtons and White Parmiggiana with Fresh Cheeselets,sojasauce,,
-Mini Beef Wellingtons and White Parmiggiana with Fresh Cheeselets,tbsp,,
-Mini Beef Wellingtons and White Parmiggiana with Fresh Cheeselets,tbsp,,
 Mini Beef Wellingtons and White Parmiggiana with Fresh Cheeselets,cup,,
-Mini Beef Wellingtons and White Parmiggiana with Fresh Cheeselets,cup,,
-Rabbit Liver Pappardelle,olive_oil,plant derivative,998.0
 Rabbit Liver Pappardelle,onion,vegetable,1447.0
 Rabbit Liver Pappardelle,garlic,vegetable,136.0
 Rabbit Liver Pappardelle,fennel,herb,196.0
@@ -1821,8 +1505,6 @@ Rabbit Liver Pappardelle,parmesan,dairy,749.0
 Rabbit Liver Pappardelle,smoked_paprika,,
 Rabbit Liver Pappardelle,goat_cheese,dairy,169.0
 Rabbit Liver Pappardelle,basil,herb,256.0
-Rabbit Liver Pappardelle,goat_cheese,dairy,169.0
-Orange Cake – Kejk tal-Laring,breadcrumbs,,
 Orange Cake – Kejk tal-Laring,sugar,,
 Orange Cake – Kejk tal-Laring,sea_almonds,,
 Orange Cake – Kejk tal-Laring,Qing_Pi,,
@@ -1831,33 +1513,25 @@ Orange Cake – Kejk tal-Laring,egg,animal product,848.0
 Orange Cake – Kejk tal-Laring,orange,fruit,1257.0
 Orange Cake – Kejk tal-Laring,lemon,fruit,1132.0
 Orange Cake – Kejk tal-Laring,maple_syrup,plant derivative,35.0
-Orange Cake – Kejk tal-Laring,orange,fruit,1257.0
-Orange Cake – Kejk tal-Laring,lemon,fruit,1132.0
-Orange Cake – Kejk tal-Laring,sugar,,
 Orange Cake – Kejk tal-Laring,clove,spice,1320.0
 Orange Cake – Kejk tal-Laring,cinnamon,spice,439.0
-Orange Cake – Kejk tal-Laring,joghurt,,
 Orange Cake – Kejk tal-Laring,joghurt,,
 Orange Cake – Kejk tal-Laring,pistachio,nut/seed/pulse,695.0
 Orange Cake – Kejk tal-Laring,chocolate,,
 Orange Cake – Kejk tal-Laring,honey,animal product,64.0
-Ravjul (Ravioli) with artichoke hearts filling,fresh_cheese,,
 Ravjul (Ravioli) with artichoke hearts filling,flour,,
 Ravjul (Ravioli) with artichoke hearts filling,salt,,
 Ravjul (Ravioli) with artichoke hearts filling,salmon_eggs,,
 Ravjul (Ravioli) with artichoke hearts filling,olive_oil,plant derivative,998.0
 Ravjul (Ravioli) with artichoke hearts filling,filling,,
-Ravjul (Ravioli) with artichoke hearts filling,olive_oil,plant derivative,998.0
 Ravjul (Ravioli) with artichoke hearts filling,onion,vegetable,1447.0
 Ravjul (Ravioli) with artichoke hearts filling,garlic,vegetable,136.0
 Ravjul (Ravioli) with artichoke hearts filling,artichoke,vegetable,1251.0
 Ravjul (Ravioli) with artichoke hearts filling,black_olive,,
 Ravjul (Ravioli) with artichoke hearts filling,parmesan,dairy,749.0
-Ravjul (Ravioli) with artichoke hearts filling,salmon_eggs,,
 Ravjul (Ravioli) with artichoke hearts filling,butter,dairy,298.0
 Ravjul (Ravioli) with artichoke hearts filling,parsley,herb,251.0
 Ravjul (Ravioli) with artichoke hearts filling,grated_cheese,,
-Qassatat,ceci,,
 Qassatat,fresh_cheese,,
 Qassatat,broad_bean,,
 Qassatat,raisin,fruit,133.0
@@ -1866,17 +1540,14 @@ Qassatat,olive_oil,plant derivative,998.0
 Qassatat,pepper,spice,1471.0
 Qassatat,pasta_sfoglia,,
 Qassatat,ceci,,
-Qassatat,olive_oil,plant derivative,998.0
 Qassatat,onion,vegetable,1447.0
 Qassatat,curry,,
 Qassatat,cannelle,,
 Qassatat,beef,meat,248.0
-Qassatat,ceci,,
 Qassatat,ricotta,,
 Qassatat,parmesan,dairy,749.0
 Qassatat,salt,,
 Qassatat,acqua,,
-Maltese Lasagna and a Cheeselets Panna Cotta Entree,olive_oil,plant derivative,998.0
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,red_onion,,
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,beef,meat,248.0
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,five_spices,,
@@ -1884,21 +1555,14 @@ Maltese Lasagna and a Cheeselets Panna Cotta Entree,soy_sauce,plant derivative,1
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,tomato,vegetable,1240.0
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,basil,herb,256.0
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,oregano,herb,1382.0
-Maltese Lasagna and a Cheeselets Panna Cotta Entree,tomato,vegetable,1240.0
-Maltese Lasagna and a Cheeselets Panna Cotta Entree,beef,meat,248.0
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,red_wine,alcoholic beverage,619.0
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,lasagna,,
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,fresh_cheese,,
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,ricotta,,
-Maltese Lasagna and a Cheeselets Panna Cotta Entree,soy_sauce,plant derivative,1183.0
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,mozzarella,,
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,grated_cheese,,
-Maltese Lasagna and a Cheeselets Panna Cotta Entree,ricotta,,
-Maltese Lasagna and a Cheeselets Panna Cotta Entree,fresh_cheese,,
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,milk,dairy,396.0
-Maltese Lasagna and a Cheeselets Panna Cotta Entree,fresh_cheese,,
 Maltese Lasagna and a Cheeselets Panna Cotta Entree,sheep,,
-Lamb Shanks cooked in Red Wine and Tomatoes,peach,fruit,1133.0
 Lamb Shanks cooked in Red Wine and Tomatoes,corn_flour,,
 Lamb Shanks cooked in Red Wine and Tomatoes,pepper,spice,1471.0
 Lamb Shanks cooked in Red Wine and Tomatoes,cinnamon,spice,439.0
@@ -1908,38 +1572,27 @@ Lamb Shanks cooked in Red Wine and Tomatoes,garlic,vegetable,136.0
 Lamb Shanks cooked in Red Wine and Tomatoes,ginger,spice,164.0
 Lamb Shanks cooked in Red Wine and Tomatoes,carrot,vegetable,1216.0
 Lamb Shanks cooked in Red Wine and Tomatoes,green_leaves,,
-Lamb Shanks cooked in Red Wine and Tomatoes,cinnamon,spice,439.0
 Lamb Shanks cooked in Red Wine and Tomatoes,tomato,vegetable,1240.0
 Lamb Shanks cooked in Red Wine and Tomatoes,soy_sauce,plant derivative,1183.0
 Lamb Shanks cooked in Red Wine and Tomatoes,red_wine,alcoholic beverage,619.0
 Lamb Shanks cooked in Red Wine and Tomatoes,cauliflower,vegetable,1370.0
-Lamb Shanks cooked in Red Wine and Tomatoes,cauliflower,vegetable,1370.0
 Lamb Shanks cooked in Red Wine and Tomatoes,mung_bean,vegetable,204.0
-Lamb Shanks cooked in Red Wine and Tomatoes,garlic,vegetable,136.0
-Lamb Shanks cooked in Red Wine and Tomatoes,soy_sauce,plant derivative,1183.0
 Lamb Shanks cooked in Red Wine and Tomatoes,breadcrumbs,,
 Lamb Shanks cooked in Red Wine and Tomatoes,blue_cheese,dairy,994.0
 Lamb Shanks cooked in Red Wine and Tomatoes,cheddar,,
-Mince Pies,pastry,,
 Mince Pies,corn_flour,,
 Mince Pies,butter,dairy,298.0
 Mince Pies,sugar,,
 Mince Pies,egg,animal product,848.0
 Mince Pies,lemon,fruit,1132.0
-Mince Pies,egg,animal product,848.0
-Mince Pies,sugar,,
 Mince Pies,quince,fruit,889.0
-Mince Pies,butter,dairy,298.0
 Mince Pies,apple,fruit,1197.0
 Mince Pies,raisin,fruit,133.0
 Mince Pies,currant,fruit,419.0
-Mince Pies,raisin,fruit,133.0
 Mince Pies,eel,fish/seafood,328.0
-Mince Pies,sugar,,
 Mince Pies,almond,nut/seed/pulse,18.0
 Mince Pies,five_spices,,
 Mince Pies,bran,,
-Pork Roulade – Bragjoli tal-Majjal,pork,meat,417.0
 Pork Roulade – Bragjoli tal-Majjal,mushroom,vegetable,260.0
 Pork Roulade – Bragjoli tal-Majjal,onion,vegetable,1447.0
 Pork Roulade – Bragjoli tal-Majjal,whole_macaroni,,
@@ -1950,14 +1603,12 @@ Pork Roulade – Bragjoli tal-Majjal,red_wine,alcoholic beverage,619.0
 Pork Roulade – Bragjoli tal-Majjal,green_leaves,,
 Pork Roulade – Bragjoli tal-Majjal,parsley,herb,251.0
 Pork Roulade – Bragjoli tal-Majjal,pepper,spice,1471.0
-Qaghaq tal-Ghasel – Honey Rings,pastry,,
 Qaghaq tal-Ghasel – Honey Rings,corn_flour,,
 Qaghaq tal-Ghasel – Honey Rings,butter,dairy,298.0
 Qaghaq tal-Ghasel – Honey Rings,egg,animal product,848.0
 Qaghaq tal-Ghasel – Honey Rings,water,,
 Qaghaq tal-Ghasel – Honey Rings,filling,,
 Qaghaq tal-Ghasel – Honey Rings,maple_syrup,plant derivative,35.0
-Qaghaq tal-Ghasel – Honey Rings,water,,
 Qaghaq tal-Ghasel – Honey Rings,sugar,,
 Qaghaq tal-Ghasel – Honey Rings,lemon,fruit,1132.0
 Qaghaq tal-Ghasel – Honey Rings,hazelnut,nut/seed/pulse,152.0
@@ -1966,7 +1617,6 @@ Qaghaq tal-Ghasel – Honey Rings,chocolate,,
 Qaghaq tal-Ghasel – Honey Rings,salade,,
 Qaghaq tal-Ghasel – Honey Rings,five_spices,,
 Qaghaq tal-Ghasel – Honey Rings,semolina,,
-Scotch egg with Maltese Sausage,sausage,,
 Scotch egg with Maltese Sausage,parsley,herb,251.0
 Scotch egg with Maltese Sausage,soft_bread,,
 Scotch egg with Maltese Sausage,breadcrumbs,,
@@ -1976,7 +1626,6 @@ Scotch egg with Maltese Sausage,sunflower_oil,plant derivative,391.0
 Scotch egg with Maltese Sausage,vinaigrette,,
 Scotch egg with Maltese Sausage,rucola,,
 Scotch egg with Maltese Sausage,tomato,vegetable,1240.0
-Penne with Maltese Sausage in a pastry plate,smoked_paprika,,
 Penne with Maltese Sausage in a pastry plate,olive_oil,plant derivative,998.0
 Penne with Maltese Sausage in a pastry plate,onion,vegetable,1447.0
 Penne with Maltese Sausage in a pastry plate,cherry_tomato,,
@@ -1984,10 +1633,8 @@ Penne with Maltese Sausage in a pastry plate,tomato,vegetable,1240.0
 Penne with Maltese Sausage in a pastry plate,sausage,,
 Penne with Maltese Sausage in a pastry plate,rosemary,herb,112.0
 Penne with Maltese Sausage in a pastry plate,pepper,spice,1471.0
-Penne with Maltese Sausage in a pastry plate,tomato,vegetable,1240.0
 Penne with Maltese Sausage in a pastry plate,mozzarella,,
 Penne with Maltese Sausage in a pastry plate,pate_brisee,,
-Pasta Salad,psillio,,
 Pasta Salad,tuna,fish/seafood,296.0
 Pasta Salad,corn,cereal/crop,427.0
 Pasta Salad,carrot,vegetable,1216.0
@@ -1998,7 +1645,6 @@ Pasta Salad,balsamic_vinegar,,
 Pasta Salad,olive_oil,plant derivative,998.0
 Pasta Salad,grated_cheese,,
 Pasta Salad,mustard,plant derivative,1140.0
-Pulpetti tal-Qarabaghli u Wraps bil-laham,vegetable_broth,,
 Pulpetti tal-Qarabaghli u Wraps bil-laham,zucchini,vegetable,1080.0
 Pulpetti tal-Qarabaghli u Wraps bil-laham,salt,,
 Pulpetti tal-Qarabaghli u Wraps bil-laham,carrot,vegetable,1216.0
@@ -2017,12 +1663,10 @@ Pulpetti tal-Qarabaghli u Wraps bil-laham,avocado,fruit,94.0
 Pulpetti tal-Qarabaghli u Wraps bil-laham,Ning_Ru,,
 Pulpetti tal-Qarabaghli u Wraps bil-laham,kidney_bean,vegetable,759.0
 Pulpetti tal-Qarabaghli u Wraps bil-laham,smoked_paprika,,
-Pulpetti tal-Qarabaghli u Wraps bil-laham,garlic,vegetable,136.0
 Pulpetti tal-Qarabaghli u Wraps bil-laham,chilli,,
 Pulpetti tal-Qarabaghli u Wraps bil-laham,tortilla,,
 Pulpetti tal-Qarabaghli u Wraps bil-laham,mozzarella,,
 Pulpetti tal-Qarabaghli u Wraps bil-laham,blue_cheese,dairy,994.0
-Ghadam – Bones,pastry,,
 Ghadam – Bones,flour,,
 Ghadam – Bones,butter,dairy,298.0
 Ghadam – Bones,egg,animal product,848.0
@@ -2033,53 +1677,30 @@ Ghadam – Bones,water,,
 Ghadam – Bones,filling,,
 Ghadam – Bones,white_meat,,
 Ghadam – Bones,almond,nut/seed/pulse,18.0
-Ghadam – Bones,sugar,,
 Ghadam – Bones,sucre_glace,,
 Ghadam – Bones,icing_sugar,,
-Ghadam – Bones,water,,
-Maltese Platter,tuna,fish/seafood,296.0
 Maltese Platter,canela,,
 Maltese Platter,tbsp,,
 Maltese Platter,tomato,vegetable,1240.0
 Maltese Platter,tsp,,
-Maltese Platter,tbsp,,
 Maltese Platter,garlic,vegetable,136.0
-Maltese Platter,tsp,,
-Maltese Platter,tsp,,
-Maltese Platter,tsp,,
 Maltese Platter,olive_oil,plant derivative,998.0
 Maltese Platter,olive,fruit,466.0
-Maltese Platter,olive,fruit,466.0
-Maltese Platter,garlic,vegetable,136.0
 Maltese Platter,parsley,herb,251.0
-Maltese Platter,tomato,vegetable,1240.0
 Maltese Platter,caper,,
 Maltese Platter,pepper,spice,1471.0
-Maltese Platter,olive_oil,plant derivative,998.0
 Maltese Platter,chick_pea_flour,,
 Maltese Platter,chicken,meat,1338.0
-Maltese Platter,garlic,vegetable,136.0
-Maltese Platter,parsley,herb,251.0
 Maltese Platter,mustard,plant derivative,1140.0
 Maltese Platter,lemon,fruit,1132.0
-Maltese Platter,pepper,spice,1471.0
-Maltese Platter,olive_oil,plant derivative,998.0
 Maltese Platter,latte,,
 Maltese Platter,aubergine,,
 Maltese Platter,fresh_cheese,,
 Maltese Platter,hard_cheese,,
 Maltese Platter,bread,cereal/crop,105.0
 Maltese Platter,onion,vegetable,1447.0
-Maltese Platter,tomato,vegetable,1240.0
-Maltese Platter,olive_oil,plant derivative,998.0
-Maltese Platter,pepper,spice,1471.0
-Maltese Platter,parsley,herb,251.0
-Maltese Platter,olive,fruit,466.0
-Maltese Platter,tomato,vegetable,1240.0
 Maltese Platter,pickle,,
-Maltese Platter,caper,,
 Maltese Platter,riso,,
-Wraps – Three Ways,salmon,fish/seafood,940.0
 Wraps – Three Ways,tortilla,,
 Wraps – Three Ways,soy_sauce,plant derivative,1183.0
 Wraps – Three Ways,smoker_salmon,,
@@ -2087,19 +1708,12 @@ Wraps – Three Ways,avocado,fruit,94.0
 Wraps – Three Ways,green_leaves,,
 Wraps – Three Ways,erbse_gespalten,,
 Wraps – Three Ways,ham,meat,236.0
-Wraps – Three Ways,tortilla,,
 Wraps – Three Ways,sandwichbrot,,
 Wraps – Three Ways,cucumber,vegetable,1044.0
-Wraps – Three Ways,ham,meat,236.0
 Wraps – Three Ways,carrot,vegetable,1216.0
 Wraps – Three Ways,grated_cheese,,
 Wraps – Three Ways,speck,,
-Wraps – Three Ways,tortilla,,
-Wraps – Three Ways,avocado,fruit,94.0
-Wraps – Three Ways,speck,,
 Wraps – Three Ways,fresh_cheese,,
-Wraps – Three Ways,green_leaves,,
-Maltese Trifle,smoked_trout,,
 Maltese Trifle,ricotta,,
 Maltese Trifle,fresh_cheese,,
 Maltese Trifle,sugar,,
@@ -2109,9 +1723,6 @@ Maltese Trifle,berries,,
 Maltese Trifle,cashew,nut/seed/pulse,1519.0
 Maltese Trifle,mustard,plant derivative,1140.0
 Maltese Trifle,milk,dairy,396.0
-Maltese Trifle,sugar,,
-Maltese Trifle,mustard,plant derivative,1140.0
-Spalla tal-Majjal – Pulled Pork with Cream Cheese Potato,sunflower_oil,plant derivative,391.0
 Spalla tal-Majjal – Pulled Pork with Cream Cheese Potato,pork,meat,417.0
 Spalla tal-Majjal – Pulled Pork with Cream Cheese Potato,smoked_paprika,,
 Spalla tal-Majjal – Pulled Pork with Cream Cheese Potato,apple,fruit,1197.0
@@ -2126,14 +1737,11 @@ Spalla tal-Majjal – Pulled Pork with Cream Cheese Potato,thyme,herb,675.0
 Spalla tal-Majjal – Pulled Pork with Cream Cheese Potato,cream_cheese,dairy,1117.0
 Spalla tal-Majjal – Pulled Pork with Cream Cheese Potato,potato,vegetable,385.0
 Spalla tal-Majjal – Pulled Pork with Cream Cheese Potato,pancetta,,
-Spalla tal-Majjal – Pulled Pork with Cream Cheese Potato,cream_cheese,dairy,1117.0
 Spalla tal-Majjal – Pulled Pork with Cream Cheese Potato,blue_cheese,dairy,994.0
 Spalla tal-Majjal – Pulled Pork with Cream Cheese Potato,cheddar,,
-Torta tal-Lampuki – Lampuki Pie,pasta_sfoglia,,
 Torta tal-Lampuki – Lampuki Pie,filling,,
 Torta tal-Lampuki – Lampuki Pie,tomato,vegetable,1240.0
 Torta tal-Lampuki – Lampuki Pie,cauliflower,vegetable,1370.0
-Torta tal-Lampuki – Lampuki Pie,tomato,vegetable,1240.0
 Torta tal-Lampuki – Lampuki Pie,onion,vegetable,1447.0
 Torta tal-Lampuki – Lampuki Pie,spinach,,
 Torta tal-Lampuki – Lampuki Pie,pea,vegetable,1088.0
@@ -2146,7 +1754,6 @@ Torta tal-Lampuki – Lampuki Pie,lemon,fruit,1132.0
 Torta tal-Lampuki – Lampuki Pie,mint,herb,166.0
 Torta tal-Lampuki – Lampuki Pie,marjoram,herb,1379.0
 Torta tal-Lampuki – Lampuki Pie,sesame,,
-Stuffed Peppers and Pork Chops,red_cabbage,,
 Stuffed Peppers and Pork Chops,olive_oil,plant derivative,998.0
 Stuffed Peppers and Pork Chops,onion,vegetable,1447.0
 Stuffed Peppers and Pork Chops,garlic,vegetable,136.0
@@ -2161,21 +1768,17 @@ Stuffed Peppers and Pork Chops,parmesan,dairy,749.0
 Stuffed Peppers and Pork Chops,pepper,spice,1471.0
 Stuffed Peppers and Pork Chops,pork,meat,417.0
 Stuffed Peppers and Pork Chops,soy_sauce,plant derivative,1183.0
-Pixxispad Mixwi – Grilled Swordfish,salt,,
 Pixxispad Mixwi – Grilled Swordfish,paprika,,
 Pixxispad Mixwi – Grilled Swordfish,pepper,spice,1471.0
 Pixxispad Mixwi – Grilled Swordfish,oregano,herb,1382.0
 Pixxispad Mixwi – Grilled Swordfish,thyme,herb,675.0
 Pixxispad Mixwi – Grilled Swordfish,garlic,vegetable,136.0
-Spaghetti – Taste of Malta,spaghetti,,
 Spaghetti – Taste of Malta,olive_oil,plant derivative,998.0
-Spaghetti – Taste of Malta,lemon,fruit,1132.0
 Spaghetti – Taste of Malta,lemon,fruit,1132.0
 Spaghetti – Taste of Malta,parsley,herb,251.0
 Spaghetti – Taste of Malta,parmesan,dairy,749.0
 Spaghetti – Taste of Malta,tuna,fish/seafood,296.0
 Spaghetti – Taste of Malta,pepper,spice,1471.0
-Stuffed Aubergine and Pork Burgers,aubergine,,
 Stuffed Aubergine and Pork Burgers,eggplant,,
 Stuffed Aubergine and Pork Burgers,onion,vegetable,1447.0
 Stuffed Aubergine and Pork Burgers,tomato,vegetable,1240.0
@@ -2185,15 +1788,10 @@ Stuffed Aubergine and Pork Burgers,egg,animal product,848.0
 Stuffed Aubergine and Pork Burgers,pepper,spice,1471.0
 Stuffed Aubergine and Pork Burgers,soy_sauce,plant derivative,1183.0
 Stuffed Aubergine and Pork Burgers,pork,meat,417.0
-Stuffed Aubergine and Pork Burgers,pork,meat,417.0
-Stuffed Aubergine and Pork Burgers,egg,animal product,848.0
 Stuffed Aubergine and Pork Burgers,parsley,herb,251.0
 Stuffed Aubergine and Pork Burgers,olive_oil,plant derivative,998.0
 Stuffed Aubergine and Pork Burgers,parmesan,dairy,749.0
 Stuffed Aubergine and Pork Burgers,semolina,,
-Stuffed Aubergine and Pork Burgers,pepper,spice,1471.0
-Stuffed Aubergine and Pork Burgers,soy_sauce,plant derivative,1183.0
-Salads pt 2,ceci,,
 Salads pt 2,tomato,vegetable,1240.0
 Salads pt 2,pepper,spice,1471.0
 Salads pt 2,onion,vegetable,1447.0
@@ -2207,19 +1805,11 @@ Salads pt 2,ceci,,
 Salads pt 2,rucola,,
 Salads pt 2,fresh_cheese,,
 Salads pt 2,Ma_He,,
-Salads pt 2,goat_cheese,dairy,169.0
 Salads pt 2,vinaigrette,,
-Salads pt 2,ceci,,
-Salads pt 2,rucola,,
-Salads pt 2,tomato,vegetable,1240.0
 Salads pt 2,oregano,herb,1382.0
-Salads pt 2,pepper,spice,1471.0
-Salads pt 2,fresh_cheese,,
-Salads pt 2,onion,vegetable,1447.0
 Salads pt 2,aubergine,,
 Salads pt 2,spargel,,
 Salads pt 2,joghurt,,
-Crusted Salmon,steak,,
 Crusted Salmon,honey,animal product,64.0
 Crusted Salmon,mustard,plant derivative,1140.0
 Crusted Salmon,thyme,herb,675.0
@@ -2228,7 +1818,6 @@ Crusted Salmon,parsley,herb,251.0
 Crusted Salmon,paprika,,
 Crusted Salmon,olive_oil,plant derivative,998.0
 Crusted Salmon,pepper,spice,1471.0
-Salads PT1,salade,,
 Salads PT1,potato,vegetable,385.0
 Salads PT1,tuna,fish/seafood,296.0
 Salads PT1,corn,cereal/crop,427.0
@@ -2244,27 +1833,18 @@ Salads PT1,lettuce,vegetable,141.0
 Salads PT1,apple,fruit,1197.0
 Salads PT1,red_cabbage,,
 Salads PT1,orange,fruit,1257.0
-Salads PT1,onion,vegetable,1447.0
 Salads PT1,cucumber,vegetable,1044.0
 Salads PT1,fines_herbs_vinaigrette,,
-Salads PT1,salade,,
 Salads PT1,salted_butter,,
-Salads PT1,tomato,vegetable,1240.0
 Salads PT1,red_onion,,
-Salads PT1,parsley,herb,251.0
-Salads PT1,oregano,herb,1382.0
 Salads PT1,pepper,spice,1471.0
-Salads PT1,tuna,fish/seafood,296.0
-Rustic Bread,flour,,
 Rustic Bread,yeast,plant,407.0
 Rustic Bread,salt,,
 Rustic Bread,olive_oil,plant derivative,998.0
 Rustic Bread,water,,
 Rustic Bread,tuna,fish/seafood,296.0
 Rustic Bread,caper,,
-Rustic Bread,olive_oil,plant derivative,998.0
 Rustic Bread,olive,fruit,466.0
-Aljoli Dip,tuna,fish/seafood,296.0
 Aljoli Dip,anchovy,,
 Aljoli Dip,concentrated_milk,,
 Aljoli Dip,onion,vegetable,1447.0
@@ -2275,7 +1855,6 @@ Aljoli Dip,galletto,,
 Aljoli Dip,parsley,herb,251.0
 Aljoli Dip,chilli,,
 Aljoli Dip,olive_oil,plant derivative,998.0
-Pulpetti tal-Makku – Whitebait Fritters,egg,animal product,848.0
 Pulpetti tal-Makku – Whitebait Fritters,makkaroni,,
 Pulpetti tal-Makku – Whitebait Fritters,onion,vegetable,1447.0
 Pulpetti tal-Makku – Whitebait Fritters,garlic,vegetable,136.0
@@ -2284,18 +1863,14 @@ Pulpetti tal-Makku – Whitebait Fritters,parsley,herb,251.0
 Pulpetti tal-Makku – Whitebait Fritters,pepper,spice,1471.0
 Pulpetti tal-Makku – Whitebait Fritters,olive_oil,plant derivative,998.0
 Pulpetti tal-Makku – Whitebait Fritters,gressin,,
-Stuffed Maltese Bread,rye_bread,cereal/crop,567.0
 Stuffed Maltese Bread,tomato,vegetable,1240.0
 Stuffed Maltese Bread,aubergine,,
 Stuffed Maltese Bread,zucchini,vegetable,1080.0
 Stuffed Maltese Bread,blue_cheese,dairy,994.0
-Stuffed Maltese Bread,tomato,vegetable,1240.0
 Stuffed Maltese Bread,yellow_bell_pepper,,
 Stuffed Maltese Bread,huile_d_olive,,
 Stuffed Maltese Bread,caper,,
-Stuffed Maltese Bread,tomato,vegetable,1240.0
 Stuffed Maltese Bread,olive_oil,plant derivative,998.0
-Pasta with King Prawns,olive_oil,plant derivative,998.0
 Pasta with King Prawns,garlic,vegetable,136.0
 Pasta with King Prawns,prawn,fish/seafood,114.0
 Pasta with King Prawns,courgette,,
@@ -2306,39 +1881,31 @@ Pasta with King Prawns,pepper,spice,1471.0
 Pasta with King Prawns,tomato,vegetable,1240.0
 Pasta with King Prawns,spaghetti,,
 Pasta with King Prawns,caviar,fish/seafood,1494.0
-Kejk Ahmar tal-Coconut,butter,dairy,298.0
 Kejk Ahmar tal-Coconut,sugar,,
 Kejk Ahmar tal-Coconut,egg,animal product,848.0
 Kejk Ahmar tal-Coconut,vanilla,spice,1399.0
 Kejk Ahmar tal-Coconut,raisin,fruit,133.0
 Kejk Ahmar tal-Coconut,buttermilk,dairy,1008.0
 Kejk Ahmar tal-Coconut,icing_sugar,,
-Kejk Ahmar tal-Coconut,buttermilk,dairy,1008.0
 Kejk Ahmar tal-Coconut,butter,dairy,298.0
 Kejk Ahmar tal-Coconut,red_fish,,
 Kejk Ahmar tal-Coconut,coconut,nut/seed/pulse,545.0
 Kejk Ahmar tal-Coconut,strawberry,fruit,717.0
-Pizza Maltija – Maltese Pizza,tomato,vegetable,1240.0
 Pizza Maltija – Maltese Pizza,olive_oil,plant derivative,998.0
 Pizza Maltija – Maltese Pizza,onion,vegetable,1447.0
 Pizza Maltija – Maltese Pizza,garlic,vegetable,136.0
-Pizza Maltija – Maltese Pizza,tomato,vegetable,1240.0
 Pizza Maltija – Maltese Pizza,tomato,vegetable,1240.0
 Pizza Maltija – Maltese Pizza,sugar,,
 Pizza Maltija – Maltese Pizza,oregano,herb,1382.0
 Pizza Maltija – Maltese Pizza,chitterlings,,
 Pizza Maltija – Maltese Pizza,pasta_pizza,,
 Pizza Maltija – Maltese Pizza,potato,vegetable,385.0
-Pizza Maltija – Maltese Pizza,onion,vegetable,1447.0
-Pizza Maltija – Maltese Pizza,tomato,vegetable,1240.0
 Pizza Maltija – Maltese Pizza,mozzarella,,
 Pizza Maltija – Maltese Pizza,huile_d_olive,,
 Pizza Maltija – Maltese Pizza,tuna,fish/seafood,296.0
 Pizza Maltija – Maltese Pizza,sausage,,
 Pizza Maltija – Maltese Pizza,anchova,,
 Pizza Maltija – Maltese Pizza,parsley,herb,251.0
-Pizza Maltija – Maltese Pizza,olive_oil,plant derivative,998.0
-Tarja Moqlija – Fried Vermicelli Omelette,vermicelli,,
 Tarja Moqlija – Fried Vermicelli Omelette,olive_oil,plant derivative,998.0
 Tarja Moqlija – Fried Vermicelli Omelette,leek,vegetable,376.0
 Tarja Moqlija – Fried Vermicelli Omelette,egg,animal product,848.0
@@ -2349,7 +1916,6 @@ Tarja Moqlija – Fried Vermicelli Omelette,parsley,herb,251.0
 Tarja Moqlija – Fried Vermicelli Omelette,bacon,meat,19.0
 Tarja Moqlija – Fried Vermicelli Omelette,pepper,spice,1471.0
 Tarja Moqlija – Fried Vermicelli Omelette,melisse,,
-Stuffat tal-Wardiet tal-Majjal – Pork Cheeks,pork,meat,417.0
 Stuffat tal-Wardiet tal-Majjal – Pork Cheeks,flour,,
 Stuffat tal-Wardiet tal-Majjal – Pork Cheeks,butter,dairy,298.0
 Stuffat tal-Wardiet tal-Majjal – Pork Cheeks,red_wine,alcoholic beverage,619.0
@@ -2361,8 +1927,6 @@ Stuffat tal-Wardiet tal-Majjal – Pork Cheeks,chicken,meat,1338.0
 Stuffat tal-Wardiet tal-Majjal – Pork Cheeks,jerusalem_artichoke,vegetable,1434.0
 Stuffat tal-Wardiet tal-Majjal – Pork Cheeks,potato,vegetable,385.0
 Stuffat tal-Wardiet tal-Majjal – Pork Cheeks,cetriolo,,
-Stuffat tal-Wardiet tal-Majjal – Pork Cheeks,red_onion,,
-Kusksu,olive_oil,plant derivative,998.0
 Kusksu,onion,vegetable,1447.0
 Kusksu,erva_doce,,
 Kusksu,sugar,,
@@ -2375,7 +1939,6 @@ Kusksu,broad_bean,,
 Kusksu,rusk,,
 Kusksu,egg,animal product,848.0
 Kusksu,mozzarella,,
-Qaqocc Mimli  – Stuffed Artichokes,artichoke,vegetable,1251.0
 Qaqocc Mimli  – Stuffed Artichokes,breadcrumbs,,
 Qaqocc Mimli  – Stuffed Artichokes,anchovy,,
 Qaqocc Mimli  – Stuffed Artichokes,garlic,vegetable,136.0
@@ -2387,7 +1950,6 @@ Qaqocc Mimli  – Stuffed Artichokes,olive_oil,plant derivative,998.0
 Qaqocc Mimli  – Stuffed Artichokes,tuna,fish/seafood,296.0
 Qaqocc Mimli  – Stuffed Artichokes,cauliflower,vegetable,1370.0
 Qaqocc Mimli  – Stuffed Artichokes,potato,vegetable,385.0
-Figolli,mother_dough,,
 Figolli,raisin,fruit,133.0
 Figolli,butter,dairy,298.0
 Figolli,egg,animal product,848.0
@@ -2396,16 +1958,10 @@ Figolli,vanilla,spice,1399.0
 Figolli,lemon,fruit,1132.0
 Figolli,filling,,
 Figolli,almond,nut/seed/pulse,18.0
-Figolli,sugar,,
-Figolli,vanilla,spice,1399.0
-Figolli,lemon,fruit,1132.0
 Figolli,white_meat,,
 Figolli,icing_sugar,,
-Figolli,icing_sugar,,
-Figolli,vanilla,spice,1399.0
 Figolli,water,,
 Figolli,sour_cream,,
-Kwarezimal,sea_almonds,,
 Kwarezimal,sugar,,
 Kwarezimal,corn_flour,,
 Kwarezimal,cocoa,plant derivative,1488.0
@@ -2417,7 +1973,6 @@ Kwarezimal,water,,
 Kwarezimal,vanilla,spice,1399.0
 Kwarezimal,lemon,fruit,1132.0
 Kwarezimal,almond,nut/seed/pulse,18.0
-Broccoli and Blue Cheese Quiche,leek,vegetable,376.0
 Broccoli and Blue Cheese Quiche,onion,vegetable,1447.0
 Broccoli and Blue Cheese Quiche,broccoli,vegetable,1421.0
 Broccoli and Blue Cheese Quiche,ricotta,,
@@ -2431,12 +1986,10 @@ Broccoli and Blue Cheese Quiche,nutmeg,spice,1356.0
 Broccoli and Blue Cheese Quiche,pepper,spice,1471.0
 Broccoli and Blue Cheese Quiche,parsley,herb,251.0
 Broccoli and Blue Cheese Quiche,pasta_sfoglia,,
-Sfinec,yeast,plant,407.0
 Sfinec,water,,
 Sfinec,flour,,
 Sfinec,anchovy,,
 Sfinec,sunflower_oil,plant derivative,391.0
-Zeppoli,corn_flour,,
 Zeppoli,sugar,,
 Zeppoli,water,,
 Zeppoli,butter,dairy,298.0
@@ -2447,8 +2000,6 @@ Zeppoli,ricotta,,
 Zeppoli,white_chocolate,,
 Zeppoli,eel,fish/seafood,328.0
 Zeppoli,viande_blanche,,
-Zeppoli,sugar,,
-Torta tal-Pastard u l-Ispinaċi,huile_d_olive,,
 Torta tal-Pastard u l-Ispinaċi,tuna,fish/seafood,296.0
 Torta tal-Pastard u l-Ispinaċi,onion,vegetable,1447.0
 Torta tal-Pastard u l-Ispinaċi,spinach,,
@@ -2459,7 +2010,6 @@ Torta tal-Pastard u l-Ispinaċi,beef,meat,248.0
 Torta tal-Pastard u l-Ispinaċi,water,,
 Torta tal-Pastard u l-Ispinaċi,lemon,fruit,1132.0
 Torta tal-Pastard u l-Ispinaċi,acqua,,
-Għagin il-Forn bl-Irkotta u l-Ful,henne,,
 Għagin il-Forn bl-Irkotta u l-Ful,ricotta,,
 Għagin il-Forn bl-Irkotta u l-Ful,koriander,,
 Għagin il-Forn bl-Irkotta u l-Ful,pepper,spice,1471.0
@@ -2469,25 +2019,17 @@ Għagin il-Forn bl-Irkotta u l-Ful,pea,vegetable,1088.0
 Għagin il-Forn bl-Irkotta u l-Ful,broad_bean,,
 Għagin il-Forn bl-Irkotta u l-Ful,egg,animal product,848.0
 Għagin il-Forn bl-Irkotta u l-Ful,soy_sauce,plant derivative,1183.0
-Għagin il-Forn bl-Irkotta u l-Ful,grated_cheese,,
-Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,x150g,,
 Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,buttermilk,dairy,1008.0
 Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,salt,,
 Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,vinaigrette,,
 Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,garlic,vegetable,136.0
 Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,lemon,fruit,1132.0
-Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,lemon,fruit,1132.0
 Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,olive_oil,plant derivative,998.0
 Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,parsley,herb,251.0
-Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,vinaigrette,,
-Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,garlic,vegetable,136.0
 Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,mustard,plant derivative,1140.0
-Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,olive_oil,plant derivative,998.0
 Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,apple,fruit,1197.0
-Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,olive_oil,plant derivative,998.0
 Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,beet,vegetable,255.0
 Poached Cod with Lemon Vinaigrette – Merluzz bil-Lumi,red_potato,,
-Rabbit with Mustard – Fenek bil-Mustarda,rabbit,,
 Rabbit with Mustard – Fenek bil-Mustarda,rye_flour,cereal/crop,516.0
 Rabbit with Mustard – Fenek bil-Mustarda,olive_oil,plant derivative,998.0
 Rabbit with Mustard – Fenek bil-Mustarda,bacon,meat,19.0
@@ -2497,12 +2039,10 @@ Rabbit with Mustard – Fenek bil-Mustarda,rosemary,herb,112.0
 Rabbit with Mustard – Fenek bil-Mustarda,white_wine,alcoholic beverage,1428.0
 Rabbit with Mustard – Fenek bil-Mustarda,mustard,plant derivative,1140.0
 Rabbit with Mustard – Fenek bil-Mustarda,soy_sauce,plant derivative,1183.0
-Ġbejna or Feta in Filo with Honey,feta,,
 Ġbejna or Feta in Filo with Honey,pepper,spice,1471.0
 Ġbejna or Feta in Filo with Honey,filet,,
 Ġbejna or Feta in Filo with Honey,honey,animal product,64.0
 Ġbejna or Feta in Filo with Honey,rocket,,
-Prinjolata,butter,dairy,298.0
 Prinjolata,sugar,,
 Prinjolata,vanilla,spice,1399.0
 Prinjolata,buttermilk,dairy,1008.0
@@ -2510,24 +2050,18 @@ Prinjolata,biscuit,,
 Prinjolata,berries,,
 Prinjolata,pine_nut,,
 Prinjolata,sea_almonds,,
-Prinjolata,sugar,,
-Prinjolata,sugar,,
 Prinjolata,water,,
 Prinjolata,white_meat,,
 Prinjolata,icing_sugar,,
-Prinjolata,icing_sugar,,
-Prinjolata,white_meat,,
 Prinjolata,flour,,
 Prinjolata,chocolate,,
 Prinjolata,toast,,
-Split Pea Soup – Soppa tal-Pizelli Maqsuma,olive_oil,plant derivative,998.0
 Split Pea Soup – Soppa tal-Pizelli Maqsuma,onion,vegetable,1447.0
 Split Pea Soup – Soppa tal-Pizelli Maqsuma,cauliflower,vegetable,1370.0
 Split Pea Soup – Soppa tal-Pizelli Maqsuma,split_pea,vegetable,1378.0
 Split Pea Soup – Soppa tal-Pizelli Maqsuma,potato,vegetable,385.0
 Split Pea Soup – Soppa tal-Pizelli Maqsuma,tomato,vegetable,1240.0
 Split Pea Soup – Soppa tal-Pizelli Maqsuma,chicken,meat,1338.0
-Spinach and Tuna Pie – Torta tal-Ispinaci u t-Tonn,puff_pastry,,
 Spinach and Tuna Pie – Torta tal-Ispinaci u t-Tonn,tuna,fish/seafood,296.0
 Spinach and Tuna Pie – Torta tal-Ispinaci u t-Tonn,nouilles,,
 Spinach and Tuna Pie – Torta tal-Ispinaci u t-Tonn,spinach,,
@@ -2541,13 +2075,11 @@ Spinach and Tuna Pie – Torta tal-Ispinaci u t-Tonn,olive_oil,plant derivative,
 Spinach and Tuna Pie – Torta tal-Ispinaci u t-Tonn,green_leaves,,
 Spinach and Tuna Pie – Torta tal-Ispinaci u t-Tonn,tomato,vegetable,1240.0
 Spinach and Tuna Pie – Torta tal-Ispinaci u t-Tonn,pepper,spice,1471.0
-Fried Rabbit Liver with Carrob Syrup,rabbit,,
 Fried Rabbit Liver with Carrob Syrup,bread,cereal/crop,105.0
 Fried Rabbit Liver with Carrob Syrup,garlic,vegetable,136.0
 Fried Rabbit Liver with Carrob Syrup,olive_oil,plant derivative,998.0
 Fried Rabbit Liver with Carrob Syrup,maple_syrup,plant derivative,35.0
 Fried Rabbit Liver with Carrob Syrup,pepper,spice,1471.0
-Ftira with Pork and Ricotta,ricotta,,
 Ftira with Pork and Ricotta,broad_bean,,
 Ftira with Pork and Ricotta,pizza_dough,,
 Ftira with Pork and Ricotta,pepper,spice,1471.0
@@ -2559,7 +2091,6 @@ Ftira with Pork and Ricotta,flour,,
 Ftira with Pork and Ricotta,bread,cereal/crop,105.0
 Ftira with Pork and Ricotta,caper,,
 Ftira with Pork and Ricotta,sesame,,
-Arancini – Bombi tar-Ross,rice,cereal/crop,205.0
 Arancini – Bombi tar-Ross,white_wine,alcoholic beverage,1428.0
 Arancini – Bombi tar-Ross,stockente,,
 Arancini – Bombi tar-Ross,onion,vegetable,1447.0
@@ -2570,7 +2101,6 @@ Arancini – Bombi tar-Ross,parmesan,dairy,749.0
 Arancini – Bombi tar-Ross,egg,animal product,848.0
 Arancini – Bombi tar-Ross,soy_sauce,plant derivative,1183.0
 Arancini – Bombi tar-Ross,red_onion,,
-Arancini – Bombi tar-Ross,olive_oil,plant derivative,998.0
 Arancini – Bombi tar-Ross,garlic,vegetable,136.0
 Arancini – Bombi tar-Ross,beef,meat,248.0
 Arancini – Bombi tar-Ross,rosemary,herb,112.0
@@ -2584,20 +2114,17 @@ Arancini – Bombi tar-Ross,navy_bean,vegetable,613.0
 Arancini – Bombi tar-Ross,flour,,
 Arancini – Bombi tar-Ross,breadcrumbs,,
 Arancini – Bombi tar-Ross,water,,
-Qarabali – Stuffed Marrows,bone_marrow,,
 Qarabali – Stuffed Marrows,onion,vegetable,1447.0
 Qarabali – Stuffed Marrows,tomato,vegetable,1240.0
 Qarabali – Stuffed Marrows,red_meat,meat,374.0
 Qarabali – Stuffed Marrows,egg,animal product,848.0
 Qarabali – Stuffed Marrows,cheddar,,
 Qarabali – Stuffed Marrows,parsley,herb,251.0
-Meditteranean Octopus Stew,onion,vegetable,1447.0
 Meditteranean Octopus Stew,garlic,vegetable,136.0
 Meditteranean Octopus Stew,tomato,vegetable,1240.0
 Meditteranean Octopus Stew,black_olive,,
 Meditteranean Octopus Stew,olive,fruit,466.0
 Meditteranean Octopus Stew,caper,,
-Meditteranean Octopus Stew,tomato,vegetable,1240.0
 Meditteranean Octopus Stew,lemon,fruit,1132.0
 Meditteranean Octopus Stew,water,,
 Meditteranean Octopus Stew,octopus,fish/seafood,342.0
@@ -2606,8 +2133,6 @@ Meditteranean Octopus Stew,basil,herb,256.0
 Meditteranean Octopus Stew,red_wine,alcoholic beverage,619.0
 Meditteranean Octopus Stew,potato,vegetable,385.0
 Meditteranean Octopus Stew,pea,vegetable,1088.0
-Meditteranean Octopus Stew,red_wine,alcoholic beverage,619.0
-Rabbit Casserole – Stuffat tal-Fenek,flour,,
 Rabbit Casserole – Stuffat tal-Fenek,rabbit,,
 Rabbit Casserole – Stuffat tal-Fenek,pepper,spice,1471.0
 Rabbit Casserole – Stuffat tal-Fenek,onion,vegetable,1447.0
@@ -2620,7 +2145,6 @@ Rabbit Casserole – Stuffat tal-Fenek,sugar,,
 Rabbit Casserole – Stuffat tal-Fenek,red_wine,alcoholic beverage,619.0
 Rabbit Casserole – Stuffat tal-Fenek,water,,
 Rabbit Casserole – Stuffat tal-Fenek,pea,vegetable,1088.0
-Bread Pudding – Pudina,rye_bread,cereal/crop,567.0
 Bread Pudding – Pudina,milk,dairy,396.0
 Bread Pudding – Pudina,tangerine,fruit,1208.0
 Bread Pudding – Pudina,egg,animal product,848.0
@@ -2637,11 +2161,9 @@ Bread Pudding – Pudina,cocoa,plant derivative,1488.0
 Bread Pudding – Pudina,chocolate,,
 Bread Pudding – Pudina,vanilla,spice,1399.0
 Bread Pudding – Pudina,sesame,,
-Basic Pastry Recipe,rye_flour,cereal/crop,516.0
 Basic Pastry Recipe,water,,
 Basic Pastry Recipe,salted_butter,,
 Basic Pastry Recipe,salt,,
-Timpana,400g,,
 Timpana,onion,vegetable,1447.0
 Timpana,beef,meat,248.0
 Timpana,oregano,herb,1382.0
@@ -2649,9 +2171,7 @@ Timpana,basil,herb,256.0
 Timpana,curry,,
 Timpana,soy_sauce,plant derivative,1183.0
 Timpana,tomato,vegetable,1240.0
-Timpana,tomato,vegetable,1240.0
 Timpana,red_wine,alcoholic beverage,619.0
-Pumpkin Soup – Soppa tal-Qargha Hamra,olive_oil,plant derivative,998.0
 Pumpkin Soup – Soppa tal-Qargha Hamra,leek,vegetable,376.0
 Pumpkin Soup – Soppa tal-Qargha Hamra,garlic,vegetable,136.0
 Pumpkin Soup – Soppa tal-Qargha Hamra,ginger,spice,164.0
@@ -2660,7 +2180,6 @@ Pumpkin Soup – Soppa tal-Qargha Hamra,pumpkin,vegetable,575.0
 Pumpkin Soup – Soppa tal-Qargha Hamra,vegetable_broth,,
 Pumpkin Soup – Soppa tal-Qargha Hamra,pepper,spice,1471.0
 Pumpkin Soup – Soppa tal-Qargha Hamra,yogurt,dairy,230.0
-Kannoli,ricotta,,
 Kannoli,sugar,,
 Kannoli,milk,dairy,396.0
 Kannoli,white_chocolate,,
@@ -2669,13 +2188,11 @@ Kannoli,corn,cereal/crop,427.0
 Kannoli,shells,,
 Kannoli,hazelnut,nut/seed/pulse,152.0
 Kannoli,icing_sugar,,
-Christmas Pudding,brown_sugar,,
 Christmas Pudding,butter,dairy,298.0
 Christmas Pudding,raisin,fruit,133.0
 Christmas Pudding,currant,fruit,419.0
 Christmas Pudding,ananas,,
 Christmas Pudding,flour,,
-Christmas Pudding,butter,dairy,298.0
 Christmas Pudding,breadcrumbs,,
 Christmas Pudding,chocolate,,
 Christmas Pudding,lemon,fruit,1132.0
@@ -2686,7 +2203,6 @@ Christmas Pudding,nutmeg,spice,1356.0
 Christmas Pudding,salt,,
 Christmas Pudding,whiskey,alcoholic beverage,361.0
 Christmas Pudding,rum,alcoholic beverage,1089.0
-Pork Cooked in Milk,pork,meat,417.0
 Pork Cooked in Milk,nutmeg,spice,1356.0
 Pork Cooked in Milk,olive_oil,plant derivative,998.0
 Pork Cooked in Milk,butter,dairy,298.0
@@ -2698,12 +2214,3 @@ Pork Cooked in Milk,garlic,vegetable,136.0
 Pork Cooked in Milk,rosemary,herb,112.0
 Pork Cooked in Milk,lemon,fruit,1132.0
 Pork Cooked in Milk,pepper,spice,1471.0
-Imbuljuta tal-Qastan,chestnut,,
-Imbuljuta tal-Qastan,sugar,,
-Imbuljuta tal-Qastan,chocolate,,
-Imbuljuta tal-Qastan,chocolate,,
-Imbuljuta tal-Qastan,orange,fruit,1257.0
-Imbuljuta tal-Qastan,tangerine,fruit,1208.0
-Imbuljuta tal-Qastan,five_spices,,
-Imbuljuta tal-Qastan,clove,spice,1320.0
-Imbuljuta tal-Qastan,water,,
