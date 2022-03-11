@@ -88,4 +88,11 @@ a{
     text-decoration: none;
 }
 
+#viz {
+    width: 50%;
+    height: 50%;
+    border: 1px solid lightgray;
+    font: 22pt arial;
+}
+
 

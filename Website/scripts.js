@@ -26,34 +26,4 @@ window.addEventListener('DOMContentLoaded', event => {
 });
 
 
-var viz;
 
-function draw() {
-    var config = {
-        container_id: "viz",
-        server_url: "neo4j+s://101fd6b7.databases.neo4j.io",
-        server_user: "neo4j",
-        server_password: "gB9F-fD2doYqInIcXR3DJZwnvvDWm-ZpgvOJ3BGCl54",
-        labels: {
-            "Character": {
-                "caption": "name",
-                "size": "pagerank",
-                "community": "community",
-                "title_properties": [
-                    "name",
-                    "pagerank"
-                ]
-            }
-        },
-        relationships: {
-            "INTERACTS": {
-                "thickness": "weight",
-                "caption": false
-            }
-        },
-        initial_cypher: "MATCH (n)-[:CommonRecipes]-(b) WHERE n.name = 'onion' RETURN b"
-    };
-
-    viz = new NeoVis.default(config);
-    viz.render();
-}
