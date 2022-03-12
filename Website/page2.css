@@ -30,13 +30,13 @@ body{
     border: 1px solid ; */
     left:0;
     width: 20% !important;
-    border:1px solid white;
+    border:1px solid white; /* CHANGE BORDER - PLAY AROUND W IT */
     
 }
 .ingDetails{
     right:0;
     width: 80% !important;
-    border:1px solid white;
+    border:1px solid white; /* REMOVE BORDER ONCE DONE */
     padding: 32px;
     font-size: 20px;
 }
@@ -70,7 +70,8 @@ ul.featIng{
 #recipes{
     float:right;
     /* text-align: center; */
-    width: 40%;
+    width: 30%;
+    padding-left:2%; 
 }
 
 .recipeListInd{
@@ -89,10 +90,12 @@ a{
 }
 
 #viz {
-    width: 50%;
-    height: 50%;
-    border: 1px solid lightgray;
+    width: 70%;
+    height: 100%;
+    border: 1px solid white; /* REMOVE BORDER ONCE DONE */
     font: 22pt arial;
+    background-color: #262626;
+    
 }
 
 
