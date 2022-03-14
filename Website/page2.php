@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 
-<?php
-    include_once 'php/dbh.inc.php';
-?>
-
 <html>
     <head>
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
