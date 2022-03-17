@@ -83,6 +83,19 @@
                             ?>
                             </ul>
                         </table>
+                        
+                        
+                        <div class = "container">
+                            <div class = "wrapper">
+                                <input type="text" name = "search" id = "search" placeholder = "Type to search" autocomplete = "chrome-off">
+                                <button id="dropdownBtn"> <i class = "fa fa-search"></i></button>
+                                <div class="results">
+                                    <ul>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
                     </div>
 
                     <div class = "cell ingDetails">
@@ -119,5 +132,6 @@
                 </div>
                 <script>Split(['.ingList','.ingDetails']);</script>
                 <script src="scripts.js"></script>
+                <script src="searchBox.js"></script>
         </body>
 </html>

@@ -22,4 +22,4 @@ function draw() {
     viz = new NeoVis.default(config);
     viz.render();
 }
-  
+
