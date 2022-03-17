@@ -93,15 +93,8 @@
                                         $result_array = json_decode($result);
 
                                         foreach($result_array as $recipe){
-                                            $sql = "SELECT recipeLink FROM recipeLinks WHERE recipeName = '".$recipe."'";
-                                            $resultQuery = $conn->query($sql);
-                                            
-                                            if ($resultQuery->num_rows > 0) {
-                                                //output data of each row
-                                                $rows = $resultQuery->fetch_assoc();
-                                                echo("<li class = 'recipeListInd'><a target='_blank' href=".$rows['recipeLink'].">$recipe</a></li>");
-                                            
-                                            }
+                                            //echo("<li class = 'recipeListInd'><a target='_blank' href="">$recipe</a></li>");
+                                            echo $result_array
                                         }
                                     }
                                 ?>

@@ -5,7 +5,7 @@ import sys
 
 cGraph = Graph("neo4j+s://101fd6b7.databases.neo4j.io", auth=('neo4j', "gB9F-fD2doYqInIcXR3DJZwnvvDWm-ZpgvOJ3BGCl54"))
 
-query = "match(i:Ingredient)-[r:inRecipe]-(c:Recipe) WHERE i.name ='"+ sys.argv[1] +"' RETURN c.name LIMIT 5 "
+query = "match(i:Ingredient)-[r:inRecipe]-(c:Recipe) WHERE i.name ='"+ sys.argv[1] +"' RETURN c.name c.link LIMIT 5 "
 
 result = cGraph.query(query)
 result = result.data()
