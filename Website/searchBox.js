@@ -30,10 +30,14 @@ function renderResults(results) {
   
     const content = results
       .map((item) => {
-        return `<li>${item}</li>`;
+        return `<li id = '${item}' onClick = 'returnSearch(this.id)'>${item}</li>`;
       })
       .join('');
   
     searchWrapper.classList.add('show');
     resultsWrapper.innerHTML = `<ul>${content}</ul>`;
+}
+
+function returnSearch(clicked_id){
+  alert(clicked_id);
 }
