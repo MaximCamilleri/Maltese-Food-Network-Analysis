@@ -4,6 +4,7 @@
     <head>
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <link href="styles.css" rel="stylesheet" />
+        <link href="page3.css" rel="stylesheet"/>
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" crossorigin="anonymous">
         
     </head>
@@ -51,8 +52,35 @@
                 
                 <div>
                     <!--START WRITING HERE-->
-                    <h2 style="color:white;">Page 3</h1>
+                    <h2 id = "p3Title" style="color:white;">Percentage Matcher</h2>
+                    
                 </div>
+                <div class = "container sbContainer">
+                    <div class = "wrapper searchBoxes sbLeft">
+                        <input type="text" name = "search" id = "search" placeholder = "Type to search" autocomplete = "chrome-off" onkeydown="returnSearchEnter(this)">
+                        <button id="dropdownBtn"></i></button>
+                        <div class="results">
+                            <ul>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                    <div class = "wrapper searchBoxes sbRight">
+                        <input type="text" name = "search" id = "search" placeholder = "Type to search" autocomplete = "chrome-off" onkeydown="returnSearchEnter(this)">
+                        <button id="dropdownBtn"> </i></button>
+
+                        <div class="results">
+                            <ul>
+
+                            </ul>
+                            
+                        </div>
+                    </div>
+                </div>
+                    
+               
+
                 <script src="scripts.js"></script>
-        </body>
+                <script src="searchBox.js"></script>
+    </body>
 </html>
