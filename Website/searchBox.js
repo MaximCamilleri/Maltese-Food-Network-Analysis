@@ -38,6 +38,12 @@ function renderResults(results) {
     resultsWrapper.innerHTML = `<ul>${content}</ul>`;
 }
 
-function returnSearch(clicked_id){
-  alert(clicked_id);
+function returnSearch(item_id){
+  alert(item_id);
+}
+
+function returnSearchEnter(item){
+  if(event.key === 'Enter') {
+    alert(item.value);        
+}
 }
