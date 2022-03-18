@@ -88,13 +88,12 @@
                                 <?php
                                     if($_GET != NULL){
                                         $exec = "python3 Queries/ingredientRecipes.py"." ".$_GET['ingredient'];
-
                                         $result = exec($exec);
                                         $result_array = json_decode($result);
 
-                                        foreach($result_array as $recipe){
-                                            //echo("<li class = 'recipeListInd'><a target='_blank' href="">$recipe</a></li>");
-                                            echo $result_array
+                                        for($i = 0; $i < count($result_array); $i++){
+                                            echo("<li ><a target='_blank' href=".$result_array[$i + 1].">".$result_array[$i]."</a></li>"); 
+                                            $i++;
                                         }
                                     }
                                 ?>

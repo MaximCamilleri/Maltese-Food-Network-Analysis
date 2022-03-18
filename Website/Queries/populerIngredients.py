@@ -4,7 +4,7 @@ from py2neo import Graph, Node
 
 cGraph = Graph("neo4j+s://101fd6b7.databases.neo4j.io", auth=('neo4j', "gB9F-fD2doYqInIcXR3DJZwnvvDWm-ZpgvOJ3BGCl54"))
 
-query = "MATCH (i:Ingredient)-[r:inRecipe]-(c:Recipe) RETURN i.name, count(r) AS connections ORDER BY connections DESC LIMIT 10"
+query = "MATCH (i:Ingredient)-[r:RecIng]-(c:Recipe) RETURN i.name, count(r) AS connections ORDER BY connections DESC LIMIT 10"
 
 result = cGraph.query(query)
 result = result.data()
