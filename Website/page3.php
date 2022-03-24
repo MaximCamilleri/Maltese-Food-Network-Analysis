@@ -74,6 +74,6 @@
                 </div>
                 <script>Split(['.sbLeft','.sbRight']);</script>
                 <script src="scripts.js"></script>
-                <script src="searchBox.js"></script>
+                <?php include "searchBox.php" ?>
         </body>
 </html>
