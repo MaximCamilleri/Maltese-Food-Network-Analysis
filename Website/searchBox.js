@@ -15,7 +15,7 @@ const searchWrapper = document.querySelector('.wrapper');
 const searchOtherWrapper = document.querySelector('.wrapperOther');
 
 const resultsWrapper = document.querySelector('.results');
-const resultsOtherWrapper = document.querySelector('.resultsOther')
+const resultsOtherWrapper = document.querySelector('.resultsOther');
 
 searchInput.addEventListener('keyup', () => {
     let results = [];
