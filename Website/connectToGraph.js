@@ -8,16 +8,17 @@ function draw() {
         server_password: "gB9F-fD2doYqInIcXR3DJZwnvvDWm-ZpgvOJ3BGCl54",
         labels: {
             "Ingredient":{
-                "caption": "name"
+                "caption": "name",
+                "community": "type"
             }
         },
         relationships: {
             "CommonRecipes": {
-                "thickness": "weight",
-                "caption": false
+                "thickness": "comRecWeight",
+                "caption": true
             }
         },
-        initial_cypher: "MATCH (n)-[:CommonRecipes]-(b) WHERE n.name = 'onion' RETURN *"
+        initial_cypher: "MATCH (n)-[:IngPair]-(b) WHERE n.name = 'onion' RETURN *"
     };
     viz = new NeoVis.default(config);
     viz.render();
