@@ -1,0 +1,19 @@
+.cell{
+    border: solid 1px white;
+    height: 100%;
+    padding-top: 20px;
+}
+
+.left{
+    left:0;
+    width: 20% !important;
+    border:1px solid white; /* CHANGE BORDER - PLAY AROUND W IT */
+    
+}
+.right{
+    right:0;
+    width: 80% !important;
+    border:1px solid white; /* REMOVE BORDER ONCE DONE */
+    padding: 32px;
+    font-size: 20px;
+}

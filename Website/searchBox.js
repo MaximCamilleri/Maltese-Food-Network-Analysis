@@ -79,5 +79,5 @@ function returnSearch(item_id){
 function returnSearchEnter(item){
   if(event.key === 'Enter') {
     alert(item.value);        
-}
+  }
 }
