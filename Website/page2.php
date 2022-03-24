@@ -8,6 +8,7 @@
 
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" crossorigin="anonymous">
         <script src = "https://unpkg.com/split.js/dist/split.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
         <script src="https://cdn.neo4jlabs.com/neovis.js/v1.5.0/neovis.js"></script>
         <script src="https://rawgit.com/neo4j-contrib/neovis.js/master/dist/neovis.js"></script>
@@ -105,6 +106,10 @@
                 </div>
                 <script>Split(['.ingList','.ingDetails']);</script>
                 <script src="scripts.js"></script>
-                <script src="searchBox.js"></script>
+                <!-- <script src="searchBox.js"></script> -->
+                
+                <?php
+                include 'searchBox.php';
+                ?>
         </body>
 </html>

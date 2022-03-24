@@ -4,7 +4,10 @@
     <head>
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <link href="styles.css" rel="stylesheet" />
+        <link href="page4.css" rel="stylesheet" />
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" crossorigin="anonymous">
+
+        <script src = "https://unpkg.com/split.js/dist/split.min.js"></script>
         
         <script src ="page4.js"></script>
         
@@ -26,7 +29,6 @@
                 <!-- Top navigation-->
                 <nav class="navbar navbar-expand-lg navbar-light bg-light border-bottom">
                     <div class="container-fluid">
-                        <!-- <button class="btn btn-primary" id="sidebarToggle"><i class="fas fa-bars" ></i></button> -->
                         <button class = "btn btn-primary" id = "sidebarToggle">
                             <i class="fas fa-bars fa-lg"></i>
                         </button>
@@ -35,7 +37,6 @@
                 </nav>
                 
                 <div>
-                    <!--START WRITING HERE-->
                     <h2 style="color:white;">Enter list of ingredients:</h1>
 
                     <div id = "searchBoxDiv">
@@ -63,6 +64,19 @@
                     <button type = "button" >Submit</button>
 
                 </div>
+
+                <div class = "container">
+                    <div class = "wrapper">
+                        <div class = "cell left">
+                           
+                        </div>
+                    </div>   
+                    
+                    <div class = "cell right">
+                        
+                    </div>  
+                </div>
+                <script>Split(['.left','.right']);</script>
                 <script src="scripts.js"></script>
         </body>
         
