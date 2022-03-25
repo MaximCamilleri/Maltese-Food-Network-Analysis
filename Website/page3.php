@@ -73,6 +73,17 @@
                     </div>  
                 </div>
                 <script>Split(['.sbLeft','.sbRight']);</script>
+
+                <div class = "detailContent">
+                    <div class = "details recipe">
+                        <h2 class = "headerD" id="recHead"> Recipes: </h2>
+                    </div>
+                    <div class = "details ing">
+                        <h2 class = "headerD" id="matchIngHead"> Other Matching Ingredients: </h2>
+                    </div>
+
+                </div>
+                <script>Split(['.recipe','.ing']);</script>
                 <script src="scripts.js"></script>
                 <?php include "searchBox.php" ?>
         </body>

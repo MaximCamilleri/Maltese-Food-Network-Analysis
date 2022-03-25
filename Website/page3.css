@@ -14,15 +14,26 @@ body{
 }
 .content{
     
-    height: 80%;
+    height: 30%;
     display: flex;
     justify-items: center;
-    align-items: center;
+    
     margin-left: 100px;
     margin-right: 100px;
 }
-
+.detailContent{
+    
+    height: 50%;
+    display: flex;
+    justify-items: center;
+    
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    border: 1px solid white;
+}
 .cell{
+    margin-top: 0;
     height: 100%;
     padding-top: 20px;
     
@@ -189,4 +200,30 @@ input:focus{
 
 .resultsOther ul li:hover{
     background: #ececec
+}
+
+/* recipe and other ingredient split */
+
+.recipe{
+    left:0;
+    width: 50% !important;
+    border:1px solid white; 
+    
+}
+.ing{
+    right:0;
+    width: 50% !important;
+    border:1px solid white; /*REMOVE BORDER ONCE DONE */
+}
+
+.headerD{
+    padding-top: 20px;
+    padding-left: 10px;
+}
+#recHead{
+
+}
+#matchIngHead{
+    
+    padding-right: 10px;
 }
