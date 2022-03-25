@@ -71,8 +71,8 @@
                         
                         <div class = "container">
                             <div class = "wrapper">
-                                <input type="text" name = "search" id = "search" placeholder = "Type to search" autocomplete = "chrome-off" onkeydown="returnSearchEnter(this)">
-                                <button id="dropdownBtn"> <i class = "fa fa-search"></i></button>
+                                <input type="text" name = "search" id = "search" placeholder = "Type to search" autocomplete = "chrome-off" onkeydown="returnSearchEnter()">
+                                <button id="dropdownBtn" onClick = 'returnSearchButton()'> <i class = "fa fa-search"></i></button>
                                 <div class="results">
                                     <ul>
                                         <!-- possible items will go here -->
@@ -87,18 +87,13 @@
                             <h3><u> Recipes: </u></h3>
                             <ul class = "recipeList">
                                 <?php
-                                    if($_GET != NULL){
-                                        $exec = "python3 Queries/ingredientRecipes.py"." ".$_GET['ingredient'];
-                                        $result = exec($exec);
-                                        $result_array = json_decode($result);
+                                    include 'searchBox.php';
+                                    include 'getRecipes.php';
 
-                                        for($i = 0; $i < count($result_array); $i++){
-                                            echo("<li ><a target='_blank' href=".$result_array[$i + 1].">".$result_array[$i]."</a></li>"); 
-                                            $i++;
-                                        }
+                                    if($_GET != NULL){
+                                        getRecipes($_GET['ingredient']);
                                     }
                                 ?>
-                            
                             </ul>
                         </div>
                         <div id = "viz"></div>
@@ -107,9 +102,5 @@
                 <script>Split(['.ingList','.ingDetails']);</script>
                 <script src="scripts.js"></script>
                 <!-- <script src="searchBox.js"></script> -->
-                
-                <?php
-                include 'searchBox.php';
-                ?>
         </body>
 </html>
