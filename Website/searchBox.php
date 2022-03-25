@@ -50,7 +50,7 @@
 
         const content = temp
         .map((item) => {
-            return `<li id = '${item}' onClick = 'returnSearch(this.id)'>${item}</li>`;
+            return `<li id = '${item}' class = 'searchIngredient' onClick = 'returnSearch(this.id)'>${item}</li>`;
         })
         .join('');
     
@@ -58,13 +58,27 @@
         rW.innerHTML = `<ul>${content}</ul>`;
     }
 
-    function returnSearch(item_id){
-    alert(item_id);
+    function returnSearch(item_id){ 
+        $.ajax({
+            method: "POST",
+            url: "getRecipes.php",
+            data: { id: item_id }
+            })
+            .done(function( response ) {
+                $("ul.recipeList").html(response);
+        });
     }
 
-    function returnSearchEnter(item){
-    if(event.key === 'Enter') {
-        alert(item.value);        
+    function returnSearchEnter(){
+        if(event.key === 'Enter') {
+            var ing = document.getElementsByClassName('searchIngredient')[0].innerHTML; 
+            returnSearch(ing);
+            
+        }
     }
+
+    function returnSearchButton(){
+        var ing = document.getElementsByClassName('searchIngredient')[0].innerHTML; 
+        returnSearch(ing);
     }
 </script>
