@@ -50,7 +50,7 @@
 
         const content = temp
         .map((item) => {
-            return `<li id = '${item}' class = 'searchIngredient' onClick = 'returnSearch(this.id)'>${item}</li>`;
+            return `<li id = '${item}' class = 'searchIngredient' onClick = 'returnSearch(this.id, true)'>${item}</li>`;
         })
         .join('');
     
@@ -58,7 +58,11 @@
         rW.innerHTML = `<ul>${content}</ul>`;
     }
 
-    function returnSearch(item_id){ 
+    function returnSearch(item_id, graph){ 
+        setTextBox(item_id);
+        if(graph == true){
+                callGraph(item_id);
+            }
         $.ajax({
             method: "POST",
             url: "getRecipes.php",
@@ -69,16 +73,20 @@
         });
     }
 
-    function returnSearchEnter(){
+    function returnSearchEnter(graph){
         if(event.key === 'Enter') {
             var ing = document.getElementsByClassName('searchIngredient')[0].innerHTML; 
-            returnSearch(ing);
-            
+            returnSearch(ing, graph);
         }
     }
 
-    function returnSearchButton(){
+    function returnSearchButton(graph){
         var ing = document.getElementsByClassName('searchIngredient')[0].innerHTML; 
-        returnSearch(ing);
+        returnSearch(ing, graph);
+    }
+
+    function setTextBox(value){
+        var temp = document.getElementById("search");
+        temp.value = value;
     }
 </script>

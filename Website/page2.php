@@ -9,14 +9,14 @@
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" crossorigin="anonymous">
         <script src = "https://unpkg.com/split.js/dist/split.min.js"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 
-        <script src="https://cdn.neo4jlabs.com/neovis.js/v1.5.0/neovis.js"></script>
-        <script src="https://rawgit.com/neo4j-contrib/neovis.js/master/dist/neovis.js"></script>
-        <script src="connectToGraph.js"></script>
+        <script src="callGraph.js"></script>
     </head>
     
     
-    <body style = "background-color: #292929 " onload="draw()">
+    
+    <body style = "background-color: #292929 ">
         <div class="d-flex" id="wrapper">
 
             <!-- Sidebar-->
@@ -59,20 +59,20 @@
                                     $row = ucfirst($row);
                                     echo("<li class = 'allIng'>
                                             <form method='GET'>
-                                                <input type='hidden' name = 'ingredient' value = '$class'>
+                                                <input type='hidden' name = 'ingredient' value = '$class' >
                                                 <button type = 'submit' class = 'ingBtn'> $row </button>
                                             </form>
                                             </li>");
                                 }
-                            ?>
+                            ?>    
                             </ul>
                         </table>
                         
                         
                         <div class = "container">
                             <div class = "wrapper">
-                                <input type="text" name = "search" id = "search" placeholder = "Type to search" autocomplete = "chrome-off" onkeydown="returnSearchEnter()">
-                                <button id="dropdownBtn" onClick = 'returnSearchButton()'> <i class = "fa fa-search"></i></button>
+                                <input type="text" name = "search" id = "search" placeholder = "Type to search" autocomplete = "chrome-off" onkeydown="returnSearchEnter(true)">
+                                <button id="dropdownBtn" onClick = 'returnSearchButton(true)'> <i class = "fa fa-search"></i></button>
                                 <div class="results">
                                     <ul>
                                         <!-- possible items will go here -->
@@ -92,8 +92,11 @@
 
                                     if($_GET != NULL){
                                         getRecipes($_GET['ingredient']);
+                                        $temp = $_GET['ingredient'];
+                                        echo("<script>callGraph('".strval($temp)."');</script>");
                                     }
                                 ?>
+                                
                             </ul>
                         </div>
                         <div id = "viz"></div>

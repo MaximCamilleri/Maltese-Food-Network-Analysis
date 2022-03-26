@@ -23,7 +23,7 @@ body{
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
-    background-color: white;
+    background-color: blue !important;
     color: black;
     border-left: 2px solid black;
     border-top: 2px solid black;
