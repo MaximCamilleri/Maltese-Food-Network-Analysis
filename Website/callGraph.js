@@ -35,7 +35,7 @@ function callGraph(ing){
     
         var w = document.getElementById('viz').clientWidth;
         var h = document.getElementById('viz').clientHeight;
-        var linkDistance=200;
+        var linkDistance=225;
     
         var colors = d3.scale.category10();
     
@@ -66,8 +66,8 @@ function callGraph(ing){
             .data(dataset.nodes)
             .enter()
             .append("circle")
-            .attr({"r":15})
-            .style("fill",function(d,i){return colors(i);})
+            .attr({"r":function(c) {if (c.index == 1) {return 30} else {return 15};}})
+            .style("fill","gray")
             .call(force.drag)
     
     
@@ -78,7 +78,9 @@ function callGraph(ing){
             .attr({"x":function(d){return d.x;},
                     "y":function(d){return d.y;},
                     "class":"nodelabel",
-                    "stroke":"white"})
+                    "stroke":"black",
+                    "fill":"white",
+                    "dominant-baseline":"top"})
             .text(function(d){return d.name;});
     
         var edgepaths = svg.selectAll(".edgepath")
@@ -140,7 +142,7 @@ function callGraph(ing){
                         "cy":function(d){return d.y;}
             });
     
-            nodelabels.attr("x", function(d) { return d.x; }) 
+            nodelabels.attr({"x":function(d) {if (d.index == 1) {return d.x+30} else {return d.x+16};}})
                         .attr("y", function(d) { return d.y; });
     
             edgepaths.attr('d', function(d) { var path='M '+d.source.x+' '+d.source.y+' L '+ d.target.x +' '+d.target.y;
