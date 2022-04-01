@@ -5,9 +5,9 @@ body{
 
 .intro{
     text-align: left;
-    width: 30%;
-
-    position: relative;
+    
+    width: 80%;
+    
     top: 0;
     bottom: 0;
     
@@ -23,7 +23,7 @@ body{
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
-    background-color: blue !important;
+    background-color: white !important;
     color: black;
     border-left: 2px solid black;
     border-top: 2px solid black;
@@ -34,7 +34,105 @@ body{
 }
 
 .test-button:hover{
-    background-color: black;
+    background-color: black !important;
     color: white;
 }
 
+.content{
+    height: 80%;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.cell{
+    height: 50%;
+    padding-top: 20px;
+    
+}
+
+.text{
+    /* width: 30%;
+    height: 100%;
+    padding: 20px;
+    border: 1px solid ; */
+    left:0;
+    width: 50%;
+    
+    justify-items: center;
+    align-items: center;
+    position: relative;
+}
+.image{
+    right:0;
+    width: 50%;
+    
+    padding: 32px;
+    font-size: 20px;
+    align-items: center;
+    align-content: center;
+}
+
+img{
+    max-width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+@media screen and (max-width: 1700px) {
+    img{
+        max-width: 100%;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+    img{
+        max-width: 110%;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+    img{
+        max-width: 110%;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+    img{
+        max-width: 110%;
+    }
+
+    .content{
+        display:block;
+    }
+    .text{
+        padding-bottom: 50px;
+        width: 70% !important
+    }
+    .image{
+        padding-top: 250px;
+        width:70% !important;
+    }
+    
+}
+
+@media screen and (max-width: 900px) {
+    .content{
+      
+    }
+}
+   /* .content{
+        display:block;
+    }
+    .text{
+        padding-bottom: 50px;
+        
+    }
+    .image{
+        padding-top: 250px;
+    } */
