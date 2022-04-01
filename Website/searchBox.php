@@ -28,7 +28,7 @@
         }
 
         var temp = [];
-        for(var i = 0; i < 6 && i < results.length; i++){
+        for(var i = 0; i < 5 && i < results.length; i++){
             temp.push(results[i]);
         }
 
@@ -37,10 +37,12 @@
             return `<li id = '${item}' class = 'searchIngredient${count}' onClick = 'returnSearch(this.id, true)'>${item}</li>`;
         })
         .join('');
-        
-    
+
         sW.classList.add('show');
         rW.innerHTML = `<ul>${content}</ul>`;
+
+        //console.log("search");
+        checkSearchBox("search");
     }
 
     // const searchInput = document.getElementById('search');
@@ -94,6 +96,17 @@
     function setTextBox(value, searchId){
         var temp = document.getElementById(searchId);
         temp.value = value;
+    }
+
+    function checkSearchBox(searchId){
+        var temp = document.getElementById(searchId);
+        console.log(temp.innerHTML.trim())
+        if (temp.innerHTML.trim() != ""){
+            document.getElementById("results").style.height = "220px !important";
+        }
+        else {
+            document.getElementById("results").style.height = "100px !important";
+        }
     }
 
     //page 3

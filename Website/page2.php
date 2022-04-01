@@ -51,17 +51,21 @@
 
                     <div class = "cell ingList">
 
-                        <div class = "container">
-                            <div class = "wrapper">
-                                <input type="text" name = "search" id = "search" placeholder = "Type to search" autocomplete = "chrome-off" onkeydown="returnSearchEnter(true)">
-                                <button id="dropdownBtn" onClick = 'returnSearchButton(true)'> <i class = "fa fa-search"></i></button>
-                                <div class="results">
-                                    <ul>
-                                        <!-- possible items will go here -->
-                                    </ul>
-                                </div>
+                    <div class = "container">
+                        <div class = "wrapper">
+                            <input type="text" name = "search" id = "search" placeholder = "Type to search" autocomplete = "chrome-off" onkeydown="returnSearchEnter(true, 'search', 'searchIngredient0')">
+                            <button id="dropdownBtn" onClick = "returnSearchButton(true, 'search', 'searchIngredient0')"> <i class = "fa fa-search"></i></button>
+                            <div class="results" id="results">
+                                <script>
+                                    const searchInput = document.getElementById('search');
+                                    const searchWrapper = document.querySelector('.wrapper');
+                                    const resultsWrapper = document.querySelector('.results');
+
+                                    searchBox(searchInput, searchWrapper, resultsWrapper, 0)
+                                </script>
                             </div>
                         </div>
+                    </div>
 
                         <h4>Popular Ingredients</h4>
                         <table class = "featIng">
@@ -84,23 +88,6 @@
                             ?>    
                             </ul>
                         </table>
-                        
-                        
-                        <div class = "container">
-                            <div class = "wrapper">
-                                <input type="text" name = "search" id = "search" placeholder = "Type to search" autocomplete = "chrome-off" onkeydown="returnSearchEnter(true, 'search', 'searchIngredient0')">
-                                <button id="dropdownBtn" onClick = "returnSearchButton(true, 'search', 'searchIngredient0')"> <i class = "fa fa-search"></i></button>
-                                <div class="results">
-                                    <script>
-                                        const searchInput = document.getElementById('search');
-                                        const searchWrapper = document.querySelector('.wrapper');
-                                        const resultsWrapper = document.querySelector('.results');
-
-                                        searchBox(searchInput, searchWrapper, resultsWrapper, 0)
-                                    </script>
-                                </div>
-                            </div>
-                        </div>
                     </div>
 
                     <div class = "cell ingDetails">
