@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<?php include "searchBox.php" ?>
 
 <html>
     <head>
@@ -8,6 +9,7 @@
 
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" crossorigin="anonymous">
         <script src = "https://unpkg.com/split.js/dist/split.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
     </head>
     
@@ -39,33 +41,40 @@
                 </nav>
                 <h2 id = "p2Title"> Featured Ingredients</h2>
                 <div class = "content">
-                    <!--START WRITING HERE-->
                    
                     <div class = "cell sbLeft"> 
                         <div class = "container">
                             <div class = "wrapper">
-                                <input type="text" name = "search" id = "search" placeholder = "Type to search" autocomplete = "chrome-off" onkeydown="returnSearchEnter(this)">
+                                <input type="text" name = "search" id = "search" placeholder = "Type to search" autocomplete = "chrome-off" onkeydown="returnSearchEnter(false, 'search', 'searchIngredient0')">
                                 <button id="dropdownBtn"> <i class = "fa fa-search"></i></button>
                                 <div class="results">
-                                    <ul>
-                                        <!-- possible items will go here -->
-                                    </ul>
+                                    <script>
+                                        const searchInput = document.getElementById('search');
+                                        const searchWrapper = document.querySelector('.wrapper');
+                                        const resultsWrapper = document.querySelector('.results');
+
+                                        searchBox(searchInput, searchWrapper, resultsWrapper, 0); 
+                                    </script>
                                 </div>
                             </div>
                         </div>
                     </div>
 
+                    <button id="call", name="search"></button>
+
                     <div class = "cell sbRight">
                         <div class = "container">
                             <div class = "wrapperOther"> 
-                                <input type="text" name = "search" id = "searchOther" placeholder = "Type to search" autocomplete = "chrome-off" onkeydown="returnSearchEnter(this)">
+                                <input type="text" name = "search" id = "searchOther" placeholder = "Type to search" autocomplete = "chrome-off" onkeydown="returnSearchEnter(false, 'searchOther', 'searchIngredient1')">
                                 <button id="dropdownBtn"> <i class = "fa fa-search"></i></button>
-                                
-                                
                                 <div class="resultsOther">
-                                    <ul>
-                                        <!-- possible items will go here -->
-                                    </ul>
+                                    <script>
+                                        const searchOtherInput = document.getElementById('searchOther');
+                                        const searchOtherWrapper = document.querySelector('.wrapperOther');
+                                        const resultsOtherWrapper = document.querySelector('.resultsOther');
+
+                                        searchBox(searchOtherInput, searchOtherWrapper, resultsOtherWrapper, 1);
+                                    </script>
                                 </div>
                             </div>
                         </div>
@@ -77,6 +86,9 @@
                 <div class = "detailContent">
                     <div class = "details recipe">
                         <h2 class = "headerD" id="recHead"> Recipes: </h2>
+                        <ul class = "recipeList">
+
+                        </ul>
                     </div>
                     <div class = "details ing">
                         <h2 class = "headerD" id="matchIngHead"> Other Matching Ingredients: </h2>
@@ -85,6 +97,5 @@
                 </div>
                 <script>Split(['.recipe','.ing']);</script>
                 <script src="scripts.js"></script>
-                <?php include "searchBox.php" ?>
         </body>
 </html>
