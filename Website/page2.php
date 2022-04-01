@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 
+<?php
+    include "searchBox.php";
+?>
+
 <html>
     <head>
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
@@ -80,6 +84,23 @@
                             ?>    
                             </ul>
                         </table>
+                        
+                        
+                        <div class = "container">
+                            <div class = "wrapper">
+                                <input type="text" name = "search" id = "search" placeholder = "Type to search" autocomplete = "chrome-off" onkeydown="returnSearchEnter(true, 'search', 'searchIngredient0')">
+                                <button id="dropdownBtn" onClick = "returnSearchButton(true, 'search', 'searchIngredient0')"> <i class = "fa fa-search"></i></button>
+                                <div class="results">
+                                    <script>
+                                        const searchInput = document.getElementById('search');
+                                        const searchWrapper = document.querySelector('.wrapper');
+                                        const resultsWrapper = document.querySelector('.results');
+
+                                        searchBox(searchInput, searchWrapper, resultsWrapper, 0)
+                                    </script>
+                                </div>
+                            </div>
+                        </div>
                     </div>
 
                     <div class = "cell ingDetails">
@@ -87,7 +108,6 @@
                             <h3><u> Recipes: </u></h3>
                             <ul class = "recipeList">
                                 <?php
-                                    include 'searchBox.php';
                                     include 'getRecipes.php';
 
                                     if($_GET != NULL){

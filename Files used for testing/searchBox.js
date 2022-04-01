@@ -8,6 +8,35 @@ let searchable = [
     'Some other item',
 ];
 
+function searchBox(searchInputIn, searchWrapperIn, resultsWrapperIn){
+  searchInputIn.addEventListener('keyup', () => {
+    let results = [];
+    let input = searchInputIn.value;
+
+    if (input.length) {
+      results = searchable.filter((item) => {
+        return item.toLowerCase().includes(input.toLowerCase());
+      });
+    }
+    renderResults(results, searchWrapperIn, resultsWrapperIn);
+});
+}
+
+function renderResults(results, searchWrapperIn, resultsWrapperIn) {
+  if (!results.length) {
+    return searchWrapperIn.classList.remove('show');
+  }
+
+  const content = results
+    .map((item) => {
+      return `<li id = '${item}' onClick = 'returnSearch(this.id)'>${item}</li>`;
+    })
+    .join('');
+
+  searchWrapper.classList.add('show');
+  resultsWrapperIn.innerHTML = `<ul>${content}</ul>`;
+}
+
 const searchInput = document.getElementById('search');
 const searchOtherInput = document.getElementById('searchOther');
 
@@ -16,7 +45,7 @@ const searchOtherWrapper = document.querySelector('.wrapperOther');
 
 const resultsWrapper = document.querySelector('.results');
 const resultsOtherWrapper = document.querySelector('.resultsOther');
-console.log('test');
+
 searchInput.addEventListener('keyup', () => {
     let results = [];
     let input = searchInput.value;
@@ -40,20 +69,7 @@ searchOtherInput.addEventListener('keyup', () => {
   renderResultsOther(results);
 });
 
-function renderResults(results) {
-    if (!results.length) {
-      return searchWrapper.classList.remove('show');
-    }
-  
-    const content = results
-      .map((item) => {
-        return `<li id = '${item}' onClick = 'returnSearch(this.id)'>${item}</li>`;
-      })
-      .join('');
-  
-    searchWrapper.classList.add('show');
-    resultsWrapper.innerHTML = `<ul>${content}</ul>`;
-}
+
 
 function renderResultsOther(results) {
   if (!results.length) {
