@@ -21,7 +21,8 @@ def addEdge(name1, name2, edges, nodes):
 
 cGraph = Graph("neo4j+s://101fd6b7.databases.neo4j.io", auth=('neo4j', "gB9F-fD2doYqInIcXR3DJZwnvvDWm-ZpgvOJ3BGCl54"))
 
-query = "MATCH (n)-[:IngPair]-(b) WHERE n.name = '"+ sys.argv[1] +"' RETURN * LIMIT 9"
+query = "MATCH (n)-[r:IngPair]-(b) WHERE n.name = '"+ sys.argv[1] +"' RETURN * ORDER BY r.comCompWeight LIMIT 9"
+
 
 
 result = cGraph.query(query)

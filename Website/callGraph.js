@@ -33,8 +33,8 @@ function callGraph(ing){
        
         //-----------------------
     
-        var w = 1000;
-        var h = 600;
+        var w = document.getElementById('viz').clientWidth;
+        var h = document.getElementById('viz').clientHeight;
         var linkDistance=200;
     
         var colors = d3.scale.category10();
@@ -78,7 +78,7 @@ function callGraph(ing){
             .attr({"x":function(d){return d.x;},
                     "y":function(d){return d.y;},
                     "class":"nodelabel",
-                    "stroke":"black"})
+                    "stroke":"white"})
             .text(function(d){return d.name;});
     
         var edgepaths = svg.selectAll(".edgepath")
