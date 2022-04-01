@@ -44,9 +44,22 @@
                 <h2 id = "p2Title"> Featured Ingredients</h2>
                 <div class = "content">
                     <!--START WRITING HERE-->
-                   
+
                     <div class = "cell ingList">
-                        <h1 style="color:white;"></h1>
+
+                        <div class = "container">
+                            <div class = "wrapper">
+                                <input type="text" name = "search" id = "search" placeholder = "Type to search" autocomplete = "chrome-off" onkeydown="returnSearchEnter(true)">
+                                <button id="dropdownBtn" onClick = 'returnSearchButton(true)'> <i class = "fa fa-search"></i></button>
+                                <div class="results">
+                                    <ul>
+                                        <!-- possible items will go here -->
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <h4>Popular Ingredients</h4>
                         <table class = "featIng">
                             <ul>
                             <?php
@@ -67,19 +80,6 @@
                             ?>    
                             </ul>
                         </table>
-                        
-                        
-                        <div class = "container">
-                            <div class = "wrapper">
-                                <input type="text" name = "search" id = "search" placeholder = "Type to search" autocomplete = "chrome-off" onkeydown="returnSearchEnter(true)">
-                                <button id="dropdownBtn" onClick = 'returnSearchButton(true)'> <i class = "fa fa-search"></i></button>
-                                <div class="results">
-                                    <ul>
-                                        <!-- possible items will go here -->
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
                     </div>
 
                     <div class = "cell ingDetails">
@@ -104,6 +104,5 @@
                 </div>
                 <script>Split(['.ingList','.ingDetails']);</script>
                 <script src="scripts.js"></script>
-                <!-- <script src="searchBox.js"></script> -->
         </body>
 </html>

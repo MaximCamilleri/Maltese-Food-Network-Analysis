@@ -134,6 +134,7 @@ input:focus{
 }
 
 .results{
+    height: 230px;
     padding: 0px;
 }
 
@@ -158,4 +159,12 @@ input:focus{
 
 .results ul li:hover{
     background: #ececec
+}
+
+h4{
+    border-top: 1px solid white;
+    margin-right: 10px;
+    padding-top: 7px;
+    color: white;
+    padding-left: 1rem;
 }
