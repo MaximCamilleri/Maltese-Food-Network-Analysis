@@ -100,7 +100,7 @@
                     </div>
                     <div class = "split b">B</div>
                 </div>
-                <script>Split(['.a','.b'])
+                <script>Split(['.a','.b'])</script>
                 
                 <script src="scripts.js"></script>
         </body>
