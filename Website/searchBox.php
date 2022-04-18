@@ -37,7 +37,7 @@
 
         const content = temp
         .map((item) => {
-            return `<li id = '${item}' class = 'searchIngredient${count}' onClick = 'returnSearch(this.id, true)'>${item}</li>`;
+            return `<li id = '${item}' class = 'searchIngredient${count}' onClick = 'returnSearch(this.id, true, "search")'>${item}</li>`;
         })
         .join('');
 
