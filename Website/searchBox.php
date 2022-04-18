@@ -1,6 +1,8 @@
 <script>
     var data = <?php echo exec("python3 Queries/getIngredients.py"); ?>; 
 
+    document.getElementById("results").style.height = "220px";
+
     let searchable = [];
 
     for(var i = 0; i < data.length; i++){
@@ -100,12 +102,12 @@
 
     function checkSearchBox(searchId){
         var temp = document.getElementById(searchId);
-        console.log(temp.innerHTML.trim())
-        if (temp.innerHTML.trim() != ""){
+        console.log(temp.value)
+        if (temp.innerHTML.value != ""){
             document.getElementById("results").style.height = "220px !important";
         }
         else {
-            document.getElementById("results").style.height = "100px !important";
+            document.querySelector('.results').style.height = "200px";
         }
     }
 
