@@ -87,7 +87,7 @@
                                     </ul>
                                 </div>
                             </div>
-                     </div>
+                        </div>
 
                         <button id = "addSearch" onClick = "addSearch()"><i class="fa fa-solid fa-plus"></i></button>
 
@@ -100,7 +100,7 @@
                     </div>
                     <div class = "split b">B</div>
                 </div>
-                <script>Split(['.a','.b'])
+                <script>Split(['.a','.b'])</script>
                 
                 <script src="scripts.js"></script>
         </body>
