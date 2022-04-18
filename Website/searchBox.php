@@ -9,6 +9,11 @@
         searchable.push(data[i]);
     }
 
+    // get reference to button
+    var btn = document.getElementById("p3btn");
+	// add event listener for the button, for action "click"
+	btn.addEventListener("click", getListOfIng);
+
     function searchBox(searchInputIn, searchWrapperIn, resultsWrapperIn, count, searchId){
         searchInputIn.addEventListener('keyup', () => {
             let results = [];
@@ -112,6 +117,18 @@
                 $("ul.matchingIng").html(response);
         });
 
+    }
+
+    // page 4
+
+    function getListOfIng(){
+        ingList = document.getElementsByClassName("test");
+        var inp = [];
+        for(var i = 0; i < ingList.length; i++) {
+            inp.push(ingList[i].value);
+        }
+        console.log(inp);
+        //console.log(ingList)
     }
 
 </script>

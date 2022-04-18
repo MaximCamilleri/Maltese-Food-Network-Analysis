@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 
+<?php
+    include "searchBox.php";
+?>
+
 <html>
     <head>
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
@@ -71,7 +75,7 @@
 
                         <div id = "searchBoxDiv">
                             <div class = "wrapper">
-                                <input type="text" name = "search" id = "search" placeholder = "Enter Ingredient" autocomplete = "chrome-off" onkeydown="returnSearchEnter(this)">
+                                <input class = 'test' type="text" name = "search" id = "search" placeholder = "Enter Ingredient" autocomplete = "chrome-off" onkeydown="returnSearchEnter(false,'search','searchIngredient0')">
                                 <div class="results">
                                     <ul>
                                      <!-- possible items will go here -->
@@ -80,7 +84,7 @@
                             </div>
 
                             <div class = "wrapper">
-                                <input type="text" name = "search" id = "search" placeholder = "Enter Ingredient" autocomplete = "chrome-off" onkeydown="returnSearchEnter(this)">
+                                <input class = 'test' type="text" name = "search" id = "search" placeholder = "Enter Ingredient" autocomplete = "chrome-off" onkeydown="returnSearchEnter(false,'search','searchIngredient0')">
                                 <div class="results">
                                     <ul>
                                      <!-- possible items will go here -->
@@ -91,10 +95,10 @@
 
                         <button id = "addSearch" onClick = "addSearch()"><i class="fa fa-solid fa-plus"></i></button>
 
-                        <button type = "button" >Submit</button>
+                        <button id = "p3btn" type = "button" onClick = "getListOfIng()">Submit</button>
 
                         
-
+                        
 
 
                     </div>
