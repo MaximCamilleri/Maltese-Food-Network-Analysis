@@ -52,16 +52,16 @@
                             <input type="text" name = "search" id = "search" placeholder = "Type to search" autocomplete = "chrome-off" onkeydown="returnSearchEnter(true, 'search', 'searchIngredient0')">
                             <button id="dropdownBtn" onClick = "returnSearchButton(true, 'search', 'searchIngredient0')"> <i class = "fa fa-search"></i></button>
                             <div class="results" id="results">
-                            <?php
-                                include "searchBox.php";
-                            ?>
+                                <?php
+                                    include "searchBox.php";
+                                ?>
                                 <script>
                                     const searchInput = document.getElementById('search');
                                     const searchWrapper = document.querySelector('.wrapper');
                                     const resultsWrapper = document.querySelector('.results');
                                     
 
-                                    searchBox(searchInput, searchWrapper, resultsWrapper, 0);
+                                    searchBox(searchInput, searchWrapper, resultsWrapper, 0, "search");
                                 </script>
                             </div>
                         </div>

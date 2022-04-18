@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<?php include "searchBox.php" ?>
+
 
 <html>
     <head>
@@ -47,20 +47,21 @@
                             <div class = "wrapper">
                                 <input type="text" name = "search" id = "search" placeholder = "Type to search" autocomplete = "chrome-off" onkeydown="returnSearchEnter(false, 'search', 'searchIngredient0')">
                                 <button id="dropdownBtn"> <i class = "fa fa-search"></i></button>
-                                <div class="results">
+                                <div class="results" id="results">
+                                    <?php include "searchBox.php" ?>
                                     <script>
-                                        const searchInput = document.getElementById('search');
+                                        const searchInput = document.getElementById("search");
                                         const searchWrapper = document.querySelector('.wrapper');
                                         const resultsWrapper = document.querySelector('.results');
 
-                                        searchBox(searchInput, searchWrapper, resultsWrapper, 0); 
+                                        searchBox(searchInput, searchWrapper, resultsWrapper, 0, "search"); 
                                     </script>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <button id="call", name="search"></button>
+                    <button id="call" name="search" onClick="call()"></button>
 
                     <div class = "cell sbRight">
                         <div class = "container">
@@ -73,7 +74,7 @@
                                         const searchOtherWrapper = document.querySelector('.wrapperOther');
                                         const resultsOtherWrapper = document.querySelector('.resultsOther');
 
-                                        searchBox(searchOtherInput, searchOtherWrapper, resultsOtherWrapper, 1);
+                                        searchBox(searchOtherInput, searchOtherWrapper, resultsOtherWrapper, 1, "searchOther");
                                     </script>
                                 </div>
                             </div>
@@ -92,6 +93,9 @@
                     </div>
                     <div class = "details ing">
                         <h2 class = "headerD" id="matchIngHead"> Other Matching Ingredients: </h2>
+                        <ul class = "matchingIng">
+
+                        </ul>
                     </div>
 
                 </div>
