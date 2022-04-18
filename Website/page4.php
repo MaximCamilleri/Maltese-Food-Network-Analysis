@@ -87,7 +87,7 @@
                                     </ul>
                                 </div>
                             </div>
-                     </div>
+                        </div>
 
                         <button id = "addSearch" onClick = "addSearch()"><i class="fa fa-solid fa-plus"></i></button>
 
