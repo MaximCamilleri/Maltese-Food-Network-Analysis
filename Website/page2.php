@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 
-<?php
-    include "searchBox.php";
-?>
-
 <html>
     <head>
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
@@ -56,12 +52,16 @@
                             <input type="text" name = "search" id = "search" placeholder = "Type to search" autocomplete = "chrome-off" onkeydown="returnSearchEnter(true, 'search', 'searchIngredient0')">
                             <button id="dropdownBtn" onClick = "returnSearchButton(true, 'search', 'searchIngredient0')"> <i class = "fa fa-search"></i></button>
                             <div class="results" id="results">
+                            <?php
+                                include "searchBox.php";
+                            ?>
                                 <script>
                                     const searchInput = document.getElementById('search');
                                     const searchWrapper = document.querySelector('.wrapper');
                                     const resultsWrapper = document.querySelector('.results');
+                                    
 
-                                    searchBox(searchInput, searchWrapper, resultsWrapper, 0)
+                                    searchBox(searchInput, searchWrapper, resultsWrapper, 0);
                                 </script>
                             </div>
                         </div>
@@ -73,7 +73,7 @@
                             <?php
                                 $result = exec("python3 Queries/populerIngredients.py");
                                 $result_array = json_decode($result);
-
+ 
                                 foreach($result_array as $row){
                                     $class = $row;
                                     $row = str_ireplace("_", " ", $row);

@@ -13,13 +13,14 @@
         searchInputIn.addEventListener('keyup', () => {
             let results = [];
             let input = searchInputIn.value;
-            console.log('test');
-
+            
+            console.log("search");
             if (input.length) {
             results = searchable.filter((item) => {
                 return item.toLowerCase().includes(input.toLowerCase());
             });
             }
+            
             renderResults(results, searchWrapperIn, resultsWrapperIn, count);
         });
     }
@@ -36,25 +37,14 @@
 
         const content = temp
         .map((item) => {
-            return `<li id = '${item}' class = 'searchIngredient${count}' onClick = 'returnSearch(this.id, true)'>${item}</li>`;
+            return `<li id = '${item}' class = 'searchIngredient${count}' onClick = 'returnSearch(this.id, true, "search")'>${item}</li>`;
         })
         .join('');
 
         sW.classList.add('show');
         rW.innerHTML = `<ul>${content}</ul>`;
-
-        //console.log("search");
         checkSearchBox("search");
     }
-
-    // const searchInput = document.getElementById('search');
-    // const searchOtherInput = document.getElementById('searchOther');
-
-    // const searchWrapper = document.querySelector('.wrapper');
-    // const searchOtherWrapper = document.querySelector('.wrapperOther');
-
-    // const resultsWrapper = document.querySelector('.results');
-    // const resultsOtherWrapper = document.querySelector('.resultsOther');  
 
     // page 2
     function returnSearch(item_id, graph, searchId){ 
