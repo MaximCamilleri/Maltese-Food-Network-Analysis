@@ -1,19 +1,32 @@
-.cell{
-    border: solid 1px white;
-    height: 100%;
-    padding-top: 20px;
+
+.ingInput{
+    padding-left: 20px;
 }
 
-.left{
-    left:0;
-    width: 20% !important;
-    border:1px solid white; /* CHANGE BORDER - PLAY AROUND W IT */
-    
+.content{
+    padding-left: 20px;
+    padding-right: 40px;
+    padding-top: 100px;
+    width: 100%;
+    height: 70%;
+    display:flex;
+    justify-items: center;
+    align-items: center;
 }
-.right{
-    right:0;
-    width: 80% !important;
-    border:1px solid white; /* REMOVE BORDER ONCE DONE */
-    padding: 32px;
-    font-size: 20px;
+
+.split{
+    height: 100%;
+}
+.a{
+    width: 30%;
+    color: white;
+    
+    padding-left: 20px;
+}
+
+.b{
+    width: 70%;
+    color: white;
+    padding-left: 20px;
+    border-left: 1px solid white;
 }
