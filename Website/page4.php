@@ -11,6 +11,7 @@
         <link href="styles.css" rel="stylesheet" />
         <link href="page4.css" rel="stylesheet" />
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" crossorigin="anonymous">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
        
         <script src ="page4.js"></script>
@@ -75,7 +76,7 @@
 
                         <div id = "searchBoxDiv">
                             <div class = "wrapper">
-                                <input class = 'test' type="text" name = "search" id = "search" placeholder = "Enter Ingredient" autocomplete = "chrome-off" onkeydown="returnSearchEnter(false,'search','searchIngredient0')">
+                                <input class = 'searchBoxText' type="text" name = "search" id = "search" placeholder = "Enter Ingredient" autocomplete = "chrome-off" onkeydown="returnSearchEnter(false,'search','searchIngredient0')">
                                 <div class="results">
                                     <ul>
                                      <!-- possible items will go here -->
@@ -84,7 +85,7 @@
                             </div>
 
                             <div class = "wrapper">
-                                <input class = 'test' type="text" name = "search" id = "search" placeholder = "Enter Ingredient" autocomplete = "chrome-off" onkeydown="returnSearchEnter(false,'search','searchIngredient0')">
+                                <input class = 'searchBoxText' type="text" name = "search" id = "search" placeholder = "Enter Ingredient" autocomplete = "chrome-off" onkeydown="returnSearchEnter(false,'search','searchIngredient0')">
                                 <div class="results">
                                     <ul>
                                      <!-- possible items will go here -->

@@ -122,13 +122,20 @@
     // page 4
 
     function getListOfIng(){
-        ingList = document.getElementsByClassName("test");
+        ingList = document.getElementsByClassName("searchBoxText");
         var inp = [];
         for(var i = 0; i < ingList.length; i++) {
             inp.push(ingList[i].value);
         }
         console.log(inp);
-        //console.log(ingList)
+        $.ajax({
+                method: "POST",
+                url: "get.php/ingListGetRec.php",
+                data: { ings: inp }
+                })
+                .done(function( response ) {
+                    $("div.split.b").html(response);
+            });
     }
 
 </script>
