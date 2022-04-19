@@ -1,6 +1,6 @@
 <?php
     function getRecipes($param){
-        $exec = "python3 Queries/ingredientRecipes.py"." ".$param;
+        $exec = "python3 Queries/ingredientRecipes.py"." ".str_replace(" ", "_", $param);
         $result = exec($exec);
         $result_array = json_decode($result);
 

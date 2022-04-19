@@ -3,21 +3,20 @@ import json
 from py2neo import Graph, Node 
 import sys
 
-temp = sys.argv[1].replace("_", " ")
-
 cGraph = Graph("neo4j+s://101fd6b7.databases.neo4j.io", auth=('neo4j', "gB9F-fD2doYqInIcXR3DJZwnvvDWm-ZpgvOJ3BGCl54"))
 
-query = "match(i:Ingredient)-[r:RecIng]-(c:Recipe) WHERE i.name ='"+ temp +"' RETURN c.name, c.link LIMIT 5"
+query = "Match(n:Ingredient)-[i:IngPair]-(a:Ingredient) WHERE n.name = '" + sys.argv[1] + "' and a.name = '"+ sys.argv[2] +"' return i.comCompWeight"
 
 result = cGraph.query(query)
 result = result.data()
 
 ret  = []
+
 for temp in result:
     temp = str(temp).split("'")
-    ret.append(temp[3])
-    ret.append(temp[7])
-
+    ret.append(int(float(temp[2][2:-2])*100))
+    
 ret_json = json.dumps(ret)
 
 print(ret_json)
+

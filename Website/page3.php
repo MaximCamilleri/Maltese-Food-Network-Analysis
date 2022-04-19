@@ -61,8 +61,6 @@
                         </div>
                     </div>
 
-                    <button id="call" name="search" onClick="call()"></button>
-
                     <div class = "cell sbRight">
                         <div class = "container">
                             <div class = "wrapperOther"> 
@@ -83,6 +81,10 @@
                     </div>  
                 </div>
                 <script>Split(['.sbLeft','.sbRight']);</script>
+                <button id="call" name="search" onClick="call()"></button>
+                <div id = "percent">  
+                    
+                </div>
 
                 <div class = "detailContent">
                     <div class = "details recipe">

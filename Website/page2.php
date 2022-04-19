@@ -99,7 +99,7 @@
 
                                     if($_GET != NULL){
                                         getRecipes($_GET['ingredient']);
-                                        $temp = $_GET['ingredient'];
+                                        $temp = strtolower($_GET['ingredient']);
                                         echo("<script>callGraph('".strval($temp)."');</script>");
                                     }
                                 ?>
