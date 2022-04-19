@@ -28,9 +28,6 @@ function callGraph(ing){
             dataset.edges.push({source: parseInt(edge[i][1]), target: parseInt(edge[i][4])});
         }
     
-        console.log(dataset);
-    
-       
         //-----------------------
     
         var w = document.getElementById('viz').clientWidth;

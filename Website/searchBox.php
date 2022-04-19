@@ -37,10 +37,9 @@
         for(var i = 0; i < 5 && i < results.length; i++){
             temp.push(results[i]);
         }
-
         const content = temp
         .map((item) => {
-            return `<li id = '${item}' class = 'searchIngredient${count}' onClick = 'returnSearch(this.id, true, ${searchId})'>${item}</li>`;
+            return `<li id = '${item}' class = 'searchIngredient${count}' onClick = "returnSearch('${item}', true, '${searchId}')">${item}</li>`;
         })
         .join('');
 
@@ -50,7 +49,7 @@
     }
 
     // page 2
-    function returnSearch(item_id, graph, searchId){ 
+    function returnSearch(item_id, graph, searchId){
         setTextBox(item_id, searchId);
         if(graph == true){
             callGraph(item_id);
@@ -115,6 +114,15 @@
             })
             .done(function( response ) {
                 $("ul.matchingIng").html(response);
+        });
+
+        $.ajax({
+            method: "POST",
+            url: "get.php/percentageMatch.php",
+            data: { ing1: i1 , ing2: i2}
+            })
+            .done(function( response ) {
+                $("div #percent").html(response);
         });
 
     }
