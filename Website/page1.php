@@ -2,6 +2,7 @@
 
 <html>
     <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <script src = "https://unpkg.com/split.js/dist/split.min.js"></script>
         <link href="styles.css" rel="stylesheet" />
@@ -36,23 +37,24 @@
                     </div>
                 </nav>
                 <div class = "content">
-                    <div class = "cell text">
-                        <div class = "container-fluid intro">
+                    <div class = "cell">
+                        
 
                             <h1 class = "mt-4">Food Network Analysis</h1>
-
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius placeat labore corrupti perferendis architecto repellat quos magni, impedit ad fugiat ipsum ab, commodi nemo consequatur numquam accusamus fugit expedita ducimus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum quidem ea sint corrupti mollitia culpa, quod assumenda recusandae rerum aut perferendis, eum, provident sunt doloribus iure? Ducimus nesciunt perspiciatis cumque!</p>
-                            <button class ="button test-button" type="button">Test it out!</button>
-                        </div> 
-
+                            <div class = "text">
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius placeat labore corrupti perferendis architecto repellat quos magni, impedit ad fugiat ipsum ab, commodi nemo consequatur numquam accusamus fugit expedita ducimus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum quidem ea sint corrupti mollitia culpa, quod assumenda recusandae rerum aut perferendis, eum, provident sunt doloribus iure? Ducimus nesciunt perspiciatis cumque!</p>
+                                <button class ="button test-button" type="button">Test it out!</button>
+                            </div>
+                            
+                        
 
                     </div>
-                    <div class = "cell image">
-                        <!-- <img src="food.png" alt="food"> -->
-                    </div>
+                    <!-- <div class = "cell image">
+                         <img src="food.png" alt="food"> 
+                    </div> -->
                 </div>
                 
-                <script> Split(['.text', '.image']); </script>
+                <!-- <script> Split(['.text', '.image']); </script> -->
                 
               
                 

@@ -50,7 +50,13 @@ body{
 .cell{
     height: 50%;
     padding-top: 20px;
-    
+    /* justify-items: center;
+    align-items: center; 
+    position: relative;*/
+    position: absolute;
+	top: calc(50% - 20%);
+	/* left: calc(50% - 20%); */
+    /* left:0; */
 }
 
 .text{
@@ -58,12 +64,10 @@ body{
     height: 100%;
     padding: 20px;
     border: 1px solid ; */
-    left:0;
-    width: 50%;
     
-    justify-items: center;
-    align-items: center;
-    position: relative;
+    width: 60%;
+    
+    
 }
 .image{
     right:0;
@@ -114,25 +118,24 @@ img{
         padding-bottom: 50px;
         width: 70% !important
     }
-    .image{
+    /* .image{
         padding-top: 250px;
         width:70% !important;
-    }
+    } */
     
 }
 
-@media screen and (max-width: 900px) {
-    .content{
-      
+@media screen and (max-width: 1000px) {
+    .text{
+      width: 90%;
     }
 }
-   /* .content{
-        display:block;
+
+@media screen and (max-width: 500px) {
+    .cell{
+        top: calc(40% - 20%);
     }
-    .text{
-        padding-bottom: 50px;
-        
+    .content{
+        margin-left: 50px;
     }
-    .image{
-        padding-top: 250px;
-    } */
+}
