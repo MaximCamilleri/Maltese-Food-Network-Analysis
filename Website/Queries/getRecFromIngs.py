@@ -5,29 +5,29 @@ import sys
 
 cGraph = Graph("neo4j+s://101fd6b7.databases.neo4j.io", auth=('neo4j', "gB9F-fD2doYqInIcXR3DJZwnvvDWm-ZpgvOJ3BGCl54"))
 
-ingList = sys.argv[1]
-# query = "match(i:Ingredient)-[r:RecIng]-(c:Recipe)-[l:RecIng]-(j:Ingredient) WHERE i.name in" +ingList +"and j.name in " +ingList +"RETURN c.name, c.link LIMIT 5"
-# query = "match(n:Ingredient)-[c:RecIng]-(r:Recipe) Where n.name in ($ingList) Return r.name, r.link"
+ingList = sys.argv
 resList = []
-ingList = ['onion', 'garlic']
 for ing in ingList:
-    query = "match(n:Ingredient)-[c:RecIng]-(r:Recipe) Where n.name = ", ing, " Return r.name, r.link"
+    query = "match(n:Ingredient)-[c:RecIng]-(r:Recipe) Where n.name = '"+ ing+ "' Return r.name, r.link"
     temp = cGraph.query(query)
     res = temp.data()
     resList.append(res)
 
 flatList = [element for sublist in resList for element in sublist]
+countList = []
 
+for i in flatList:
+    countList.append(flatList.count(i))
 
-# temp = cGraph.query(query)
-# res = temp.data()
+maxVal = max(countList)
+retList = []
 
-# del temp
-# ret  = []
-# for temp in res:
-#     temp = str(temp).split("'")
-#     ret.append(temp[3])
-#     ret.append(temp[7])
-# ret_json = json.dumps(ret)
+for i in range(len(countList)):
+    if countList[i] == maxVal and flatList[i] not in retList:
+        retList.append(flatList[i]['r.name'])
+        retList.append(flatList[i]['r.link'])
+        if len(retList) >= 20:
+            break
 
-print(ret_json)
+retJson = json.dumps(retList)
+print(retJson)
