@@ -41,34 +41,6 @@
                     </div>
                 </nav>
                 
-                <!-- <div class = "ingInput">
-                    <h2 style="color:white;">Enter list of ingredients:</h1>
-
-                    <div id = "searchBoxDiv">
-                        <div class = "wrapper">
-                            <input type="text" name = "search" id = "search" placeholder = "Enter Ingredient" autocomplete = "chrome-off" onkeydown="returnSearchEnter(this)">
-                            <div class="results">
-                                <ul>
-                                    // possible items will go here  COMMENT
-                                </ul>
-                            </div>
-                        </div>
-
-                        <div class = "wrapper">
-                            <input type="text" name = "search" id = "search" placeholder = "Enter Ingredient" autocomplete = "chrome-off" onkeydown="returnSearchEnter(this)">
-                            <div class="results">
-                                <ul>
-                                    // possible items will go here COMMENT
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                    <button id = "addSearch" onClick = "addSearch()"><i class="fa fa-solid fa-plus"></i></button>
-
-                    <button type = "button" >Submit</button>
-
-                </div> -->
                 <div class = "content">
                     <div class = "split a">
                     
@@ -98,12 +70,14 @@
 
                         <button id = "p3btn" type = "button" onClick = "getListOfIng()">Submit</button>
 
-                        
-                        
-
-
                     </div>
-                    <div class = "split b"></div>
+
+                    <div class = "split b">
+                        <h2>Recipes with entered ingredients:</h2>
+                        <div id="recipes">
+                        </div>
+                    </div>
+                    <embed src="https://www.sbs.com.au/food/recipes/maltese-kapunata" style="width:500px; height: 300px;">
                 </div>
                 <script>Split(['.a','.b'])</script>
                 

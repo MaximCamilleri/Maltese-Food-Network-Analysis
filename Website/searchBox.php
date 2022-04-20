@@ -142,7 +142,7 @@
                 data: { ings: inp }
                 })
                 .done(function( response ) {
-                    $("div.split.b").html(response);
+                    $("#recipes").html(response);
             });
     }
 

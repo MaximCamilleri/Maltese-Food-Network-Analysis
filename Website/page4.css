@@ -20,7 +20,7 @@
 .a{
     width: 30% !important;
     color: white;
-    
+    border-right: 1px solid white;
     padding-left: 20px;
 }
 
@@ -28,5 +28,27 @@
     width: 70%;
     color: white;
     padding-left: 20px;
-    border-left: 1px solid white;
+    /*border-left: 1px solid white;*/
+    /*padding-top: 9%*/
+}
+
+#recTitle{
+    font-size: 20;
+}
+
+h2{
+    padding-bottom: 2%;;
+}
+
+li{
+    line-height: 170%;
+}
+
+/* #recipes{
+    padding-top: 2%;
+} */
+
+a{
+    color: white;
+    width: 30%;
 }
