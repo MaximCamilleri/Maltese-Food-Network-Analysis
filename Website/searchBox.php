@@ -9,23 +9,26 @@
         searchable.push(data[i]);
     }
 
-    function searchBox(searchInputIn, searchWrapperIn, resultsWrapperIn, count){
+    // get reference to button
+    var btn = document.getElementById("p3btn");
+	// add event listener for the button, for action "click"
+	btn.addEventListener("click", getListOfIng);
+
+    function searchBox(searchInputIn, searchWrapperIn, resultsWrapperIn, count, searchId){
         searchInputIn.addEventListener('keyup', () => {
             let results = [];
             let input = searchInputIn.value;
-            
-            console.log("search");
             if (input.length) {
             results = searchable.filter((item) => {
                 return item.toLowerCase().includes(input.toLowerCase());
             });
             }
             
-            renderResults(results, searchWrapperIn, resultsWrapperIn, count);
+            renderResults(results, searchWrapperIn, resultsWrapperIn, count, searchId);
         });
     }
 
-    function renderResults(results, sW, rW, count) {
+    function renderResults(results, sW, rW, count, searchId) {
         if (!results.length) {
             return sW.classList.remove('show');
         }
@@ -34,10 +37,9 @@
         for(var i = 0; i < 5 && i < results.length; i++){
             temp.push(results[i]);
         }
-
         const content = temp
         .map((item) => {
-            return `<li id = '${item}' class = 'searchIngredient${count}' onClick = 'returnSearch(this.id, true, "search")'>${item}</li>`;
+            return `<li id = '${item}' class = 'searchIngredient${count}' onClick = "returnSearch('${item}', true, '${searchId}')">${item}</li>`;
         })
         .join('');
 
@@ -47,7 +49,7 @@
     }
 
     // page 2
-    function returnSearch(item_id, graph, searchId){ 
+    function returnSearch(item_id, graph, searchId){
         setTextBox(item_id, searchId);
         if(graph == true){
             callGraph(item_id);
@@ -56,15 +58,6 @@
                 method: "POST",
                 url: "getRecipes.php",
                 data: { id: item_id }
-                })
-                .done(function( response ) {
-                    $("ul.recipeList").html(response);
-            });
-        }else{
-            $.ajax({
-                method: "POST",
-                url: "/get.php/getRecipePair.php",
-                data: { ing1: item_id , ing2: item_id}
                 })
                 .done(function( response ) {
                     $("ul.recipeList").html(response);
@@ -92,7 +85,6 @@
 
     function checkSearchBox(searchId){
         var temp = document.getElementById(searchId);
-        console.log(temp.value)
         if (temp.innerHTML.value != ""){
             document.getElementById("results").style.height = "220px !important";
         }
@@ -104,8 +96,54 @@
     //page 3
 
     function call(){
-        ing1 = document.getElementsByClassName('searchIngredient0')[0].innerHTML;
-        ing2 = document.getElementsByClassName('searchIngredient1')[0].innerHTML;
+        i1 = document.getElementById('search').value;
+        i2 = document.getElementById('searchOther').value;
+        $.ajax({
+            method: "POST",
+            url: "get.php/getRecipePair.php",
+            data: { ing1: i1 , ing2: i2}
+            })
+            .done(function( response ) {
+                $("ul.recipeList").html(response);
+        });
+
+        $.ajax({
+            method: "POST",
+            url: "get.php/getIngrPairComp.php",
+            data: { ing1: i1 , ing2: i2}
+            })
+            .done(function( response ) {
+                $("ul.matchingIng").html(response);
+        });
+
+        $.ajax({
+            method: "POST",
+            url: "get.php/percentageMatch.php",
+            data: { ing1: i1 , ing2: i2}
+            })
+            .done(function( response ) {
+                $("div #percent").html(response);
+        });
+
+    }
+
+    // page 4
+
+    function getListOfIng(){
+        ingList = document.getElementsByClassName("searchBoxText");
+        var inp = [];
+        for(var i = 0; i < ingList.length; i++) {
+            inp.push(ingList[i].value);
+        }
+        console.log(inp);
+        $.ajax({
+                method: "POST",
+                url: "get.php/ingListGetRec.php",
+                data: { ings: inp }
+                })
+                .done(function( response ) {
+                    $("div.split.b").html(response);
+            });
     }
 
 </script>
