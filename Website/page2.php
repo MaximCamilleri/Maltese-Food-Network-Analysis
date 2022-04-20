@@ -109,7 +109,7 @@
                         <div id = "viz"></div>
                     </div>  
                 </div>
-                <script>Split(['.ingList','.ingDetails']);</script>
+                <script>Split(['.ingList','.ingDetails'], direction: 'vertical');</script>
                 <script src="scripts.js"></script>
         </body>
 </html>

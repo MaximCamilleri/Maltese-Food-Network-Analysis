@@ -13,11 +13,11 @@ body{
     font-size: 40px;
 }
 .content{
-    
     height: 80%;
     display: flex;
     justify-items: center;
     align-items: center;
+    /* flex-direction: column; */
     margin-left: 100px;
     margin-right: 100px;
 }

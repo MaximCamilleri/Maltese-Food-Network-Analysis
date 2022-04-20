@@ -13,6 +13,9 @@
         <div class="d-flex" id="wrapper">
             <!-- Sidebar-->
             <div class="border-end" id="sidebar-wrapper" >
+                <button class = "btn btn-primary close" id = 'sidebarToggle2'>
+                    <i class="fa fa-times"></i>
+                </button>
                 <div class="sidebar-heading border-bottom bg-light"></div>
                 <div class="list-group list-group-flush">
                     <a class="list-group-item list-group-item-action list-group-item-light p-3" href="page1.php">Home</a>
@@ -38,40 +41,17 @@
                 </nav>
                 <div class = "content">
                     <div class = "cell">
-                        
-
                             <h1 class = "mt-4">Food Network Analysis</h1>
                             <div class = "text">
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius placeat labore corrupti perferendis architecto repellat quos magni, impedit ad fugiat ipsum ab, commodi nemo consequatur numquam accusamus fugit expedita ducimus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum quidem ea sint corrupti mollitia culpa, quod assumenda recusandae rerum aut perferendis, eum, provident sunt doloribus iure? Ducimus nesciunt perspiciatis cumque!</p>
                                 <button class ="button test-button" type="button">Test it out!</button>
                             </div>
-                            
-                        
-
                     </div>
                     <!-- <div class = "cell image">
                          <img src="food.png" alt="food"> 
                     </div> -->
                 </div>
-                
                 <!-- <script> Split(['.text', '.image']); </script> -->
-                
-              
-                
-                <script src="scripts.js"></script>
-
-
-
-
-
-        <!-- <div class = "container-fluid intro">
-
-             <h1 class = "mt-4">Food Network Analysis</h1>
-
-             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius placeat labore corrupti perferendis architecto repellat quos magni, impedit ad fugiat ipsum ab, commodi nemo consequatur numquam accusamus fugit expedita ducimus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum quidem ea sint corrupti mollitia culpa, quod assumenda recusandae rerum aut perferendis, eum, provident sunt doloribus iure? Ducimus nesciunt perspiciatis cumque!</p>
-             <button class ="button test-button" type="button">Test it out!</button>
-         </div>  -->
-
-        
+                <script src="scripts.js"></script>  
     </body>
 </html>
