@@ -103,7 +103,7 @@
 
 
                     </div>
-                    <div class = "split b">B</div>
+                    <div class = "split b"></div>
                 </div>
                 <script>Split(['.a','.b'])</script>
                 
