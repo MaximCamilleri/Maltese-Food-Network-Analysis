@@ -10,7 +10,7 @@
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" crossorigin="anonymous">
         <script src = "https://unpkg.com/split.js/dist/split.min.js"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-
+      
     </head>
     
     
@@ -81,12 +81,14 @@
                     </div>  
                 </div>
                 <script>Split(['.sbLeft','.sbRight']);</script>
-                <button id="call" name="search" onClick="call()"></button>
+                <div class = "callDiv">
+                    <button id="call" name="search" onClick="call(); hideDiv()">% Match</button>
+                </div>
                 <div id = "percent">  
                     
                 </div>
 
-                <div class = "detailContent">
+                <div class = "detailContent" id = "dcJava">
                     <div class = "details recipe">
                         <h2 class = "headerD" id="recHead"> Recipes: </h2>
                         <ul class = "recipeList">
@@ -103,5 +105,7 @@
                 </div>
                 <script>Split(['.recipe','.ing']);</script>
                 <script src="scripts.js"></script>
+                <script src = "page3.js"></script>
+                
         </body>
 </html>

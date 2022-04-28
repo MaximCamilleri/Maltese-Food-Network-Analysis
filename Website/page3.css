@@ -24,13 +24,16 @@ body{
 .detailContent{
     
     height: 50%;
-    display: flex;
+    
     justify-items: center;
     
     margin-left: 100px;
     margin-right: 100px;
     margin-bottom: 50px;
     border: 1px solid white;
+}
+#dcJava{
+    display: none;
 }
 .cell{
     margin-top: 0;
@@ -220,10 +223,22 @@ input:focus{
     padding-top: 20px;
     padding-left: 10px;
 }
-#recHead{
+/* #recHead{
 
-}
+} */    
 #matchIngHead{
     
     padding-right: 10px;
+}
+
+/* Button */
+.callDiv{
+    width: 100%;
+    
+}
+#call{
+    position: relative;
+    padding: 30px 100px;
+    left: calc(50% - 100px);
+    margin: 5px 0 5px 0;
 }
