@@ -6,6 +6,8 @@ body{
     color: white
 
 }
+
+
 #p2Title{
     padding-left: 50px;
     color: white;
@@ -13,24 +15,23 @@ body{
     font-size: 40px;
 }
 .content{
-    
-    height: 30%;
+    height: 300px;
     display: flex;
     justify-items: center;
     
     margin-left: 100px;
     margin-right: 100px;
+
+    border-top: solid 1px white;
 }
 .detailContent{
-    
     height: 50%;
-    
     justify-items: center;
-    
     margin-left: 100px;
     margin-right: 100px;
     margin-bottom: 50px;
-    border: 1px solid white;
+    margin-top: 10px;
+    border-top: 1px solid white;
 }
 #dcJava{
     display: none;
@@ -42,16 +43,29 @@ body{
     
 }
 
+#percent{
+    height: 100px;  
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#percent p{
+    text-align: center;
+    line-height: 100px;
+    font-size: 200%;
+}
+
 .sbLeft{
     left:0;
     width: 50% !important;
-    border:1px solid white; 
-    
+    height: 100px;
 }
+
 .sbRight{
     right:0;
     width: 50% !important;
-    border:1px solid white; /*REMOVE BORDER ONCE DONE */
+    height: 100px;
 }
 
 #search{
@@ -89,11 +103,21 @@ ul.featIng{
     color: black;
 }
 
+.recipeList{
+    list-style: none;
+    text-align: center;
+    
+}
+
+.matchingIng{
+    list-style: none;
+    text-align: center;
+}
+
 
 
 .recipeListInd{
     text-decoration: none;
-    
     /* list-style: none; */
 }
 
@@ -209,36 +233,51 @@ input:focus{
 
 .recipe{
     left:0;
-    width: 50% !important;
-    border:1px solid white; 
-    
+    width: 50% !important; 
 }
 .ing{
     right:0;
     width: 50% !important;
-    border:1px solid white; /*REMOVE BORDER ONCE DONE */
 }
 
 .headerD{
     padding-top: 20px;
     padding-left: 10px;
+    text-align: center;
 }
-/* #recHead{
-
-} */    
+#recHead{
+    text-align: center;
+    padding-bottom: 7px;
+}    
 #matchIngHead{
-    
+    padding-bottom: 7px;
     padding-right: 10px;
 }
 
 /* Button */
 .callDiv{
-    width: 100%;
-    
+    width: 100%; 
 }
 #call{
     position: relative;
-    padding: 30px 100px;
-    left: calc(50% - 100px);
-    margin: 5px 0 5px 0;
+    display: block;
+    margin: 5px auto;
+    padding: 15px 32px;
+
+    text-align: center;
+    text-decoration: none;
+
+    background-color: white !important;
+    color: black;
+    border-left: 2px solid black;
+    border-top: 2px solid black;
+    border-right: 4px solid black;
+    border-bottom: 4px solid black;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+#cell:hover {
+    background-color: black !important;
+    color: white;
 }

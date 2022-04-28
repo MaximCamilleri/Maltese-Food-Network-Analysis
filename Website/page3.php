@@ -82,21 +82,20 @@
                 </div>
                 <script>Split(['.sbLeft','.sbRight']);</script>
                 <div class = "callDiv">
-                    <button id="call" name="search" onClick="call(); hideDiv()">% Match</button>
+                    <button class = "button test-button" id="call" name="search" onClick="call(); hideDiv()">% Match</button>
                 </div>
-                <div id = "percent">  
-                    
+                <div id = "percent">   
                 </div>
 
                 <div class = "detailContent" id = "dcJava">
                     <div class = "details recipe">
-                        <h2 class = "headerD" id="recHead"> Recipes: </h2>
+                        <h2 class = "headerD" id="recHead"> Recipes</h2>
                         <ul class = "recipeList">
-
+                            
                         </ul>
                     </div>
                     <div class = "details ing">
-                        <h2 class = "headerD" id="matchIngHead"> Other Matching Ingredients: </h2>
+                        <h2 class = "headerD" id="matchIngHead"> Other Matching Ingredients</h2>
                         <ul class = "matchingIng">
 
                         </ul>

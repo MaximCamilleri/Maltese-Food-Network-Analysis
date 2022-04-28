@@ -4,7 +4,7 @@ function getRecipePair($ing1, $ing2){
         $result_array = json_decode($result);
 
         for($i = 0; $i < count($result_array); $i++){
-            echo("<p>$result_array[$i]<p>"); 
+            echo("<p>$result_array[$i]%<p>"); 
             $i++;
         }
     }
