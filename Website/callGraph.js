@@ -1,5 +1,3 @@
-
-
 function callGraph(ing){
     d3.selectAll("svg > *").remove();
     d3.selectAll("svg").remove();
