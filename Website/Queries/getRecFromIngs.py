@@ -13,7 +13,12 @@ for ing in ingList:
     res = temp.data()
     resList.append(res)
 
-flatList = [element for sublist in resList for element in sublist]
+flatList = []
+for subList in resList:
+    for element in subList:
+        if element not in flatList:
+            flatList.append(element)
+# flatList = [ for sublist in resList for element in sublist]
 countList = []
 
 for i in flatList:
