@@ -43,8 +43,8 @@
                     <div class = "cell">
                             <h1 class = "mt-4">Food Network Analysis</h1>
                             <div class = "text">
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius placeat labore corrupti perferendis architecto repellat quos magni, impedit ad fugiat ipsum ab, commodi nemo consequatur numquam accusamus fugit expedita ducimus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum quidem ea sint corrupti mollitia culpa, quod assumenda recusandae rerum aut perferendis, eum, provident sunt doloribus iure? Ducimus nesciunt perspiciatis cumque!</p>
-                                <button class ="button test-button" type="button">Test it out!</button>
+                                <p>A website that pairs different ingredients, to give you inspiration on what to cook with what you have available!</p>
+                                <button class ="button test-button" type="button" onClick="window.location.href='http://programminghead.com';">Test it out!</button>
                             </div>
                     </div>
                     <!-- <div class = "cell image">
