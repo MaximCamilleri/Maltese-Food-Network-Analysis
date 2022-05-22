@@ -43,7 +43,7 @@
                     <div class = "cell">
                             <h1 class = "mt-4">Food Network Analysis</h1>
                             <div class = "text">
-                                <p>A website that pairs different ingredients, to give you inspiration on what to cook with what you have available!</p>
+                                <p>Do you have extra ingredients but don’t know what to cook? Simply input an ingredient (or multiple) and receive back other ingredients that match, or inspiration from a wide list of recipes that include your ingredient!</p>
                                 <button class ="button test-button" type="button" onClick="window.location.href='page2.php';">Test it out!</button>
                             </div>
                     </div>
