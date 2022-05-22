@@ -44,7 +44,7 @@
                             <h1 class = "mt-4">Food Network Analysis</h1>
                             <div class = "text">
                                 <p>A website that pairs different ingredients, to give you inspiration on what to cook with what you have available!</p>
-                                <button class ="button test-button" type="button" onClick="window.location.href='http://programminghead.com';">Test it out!</button>
+                                <button class ="button test-button" type="button" onClick="window.location.href='page2.php';">Test it out!</button>
                             </div>
                     </div>
                     <!-- <div class = "cell image">
